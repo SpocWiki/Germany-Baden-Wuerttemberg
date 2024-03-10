@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.92,7.7] 
 mapzoom: [7,12] 
 mapmarker: city 
