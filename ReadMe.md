@@ -58,6 +58,8 @@ markerFolder: ./
 
 has_place_country:: [[Germany]]  
 Capital :: [[Baden-Wuerttemberg/Stuttgart]]  
+#is_a_/Place  
+#is_a_ :: [[Place]] 
 [has_place_longitude::8.97421] 
 [has_place_latitude::48.5647] 
 [Population::] 
