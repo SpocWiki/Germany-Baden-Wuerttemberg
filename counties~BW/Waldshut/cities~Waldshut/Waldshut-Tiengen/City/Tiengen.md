@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.3] 
-[geo-lat::47.63] 
+[has_place_longitude::8.3] 
+[has_place_latitude::47.63] 
 [name::Tiengen] 
-Country :: [[Germany]]  
-State :: [[Baden-Wuerttemberg]] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Baden-Wuerttemberg]] 
 [Population::] 
 [Unknown::] 
 

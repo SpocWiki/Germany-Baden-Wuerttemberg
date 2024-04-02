@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.35] 
-[geo-lat::48.82] 
+[has_place_longitude::9.35] 
+[has_place_latitude::48.82] 
 [name::Geratstetten] 
-Country :: [[Germany]]  
-State :: [[Baden-Wuerttemberg]] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Baden-Wuerttemberg]] 
 [Population::] 
 [Unknown::] 
 

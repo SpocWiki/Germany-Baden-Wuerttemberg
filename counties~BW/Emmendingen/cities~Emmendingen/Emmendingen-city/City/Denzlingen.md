@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.87] 
-[geo-lat::48.15] 
+[has_place_longitude::7.87] 
+[has_place_latitude::48.15] 
 [name::Denzlingen] 
-Country :: [[Germany]]  
-State :: [[Baden-Wuerttemberg]] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Baden-Wuerttemberg]] 
 [Population::] 
 [Unknown::] 
 

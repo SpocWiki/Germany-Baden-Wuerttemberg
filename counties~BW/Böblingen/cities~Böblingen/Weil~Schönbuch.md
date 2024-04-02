@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.07] 
-[geo-lat::48.63] 
+[has_place_longitude::9.07] 
+[has_place_latitude::48.63] 
 [name::Weil im Schoenbuch] 
-Country :: [[Germany]]  
-State :: [[Baden-Wuerttemberg]] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Baden-Wuerttemberg]] 
 [Population::] 
 [Unknown::] 
 

@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.27] 
-[geo-lat::48.93] 
+[has_place_longitude::9.27] 
+[has_place_latitude::48.93] 
 [name::Marbach~Neckar] 
-Country :: [[Germany]]  
-State :: [[Baden-Wuerttemberg]] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Baden-Wuerttemberg]] 
 [Population::] 
 [Unknown::] 
 

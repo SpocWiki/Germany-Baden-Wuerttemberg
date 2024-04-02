@@ -56,10 +56,10 @@ geojsonFolder: ./
 markerFolder: ./
 ```
 
-Country :: [[Germany]]  
+has_place_country:: [[Germany]]  
 Capital :: [[Baden-Wuerttemberg/Stuttgart]]  
-[geo-lon::8.97421] 
-[geo-lat::48.5647] 
+[has_place_longitude::8.97421] 
+[has_place_latitude::48.5647] 
 [Population::] 
 
 ![[Coat_of_arms_of_Baden-Württemberg.svg|350]] 

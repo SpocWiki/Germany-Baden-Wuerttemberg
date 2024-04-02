@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.53] 
-[geo-lat::48.8] 
+[has_place_longitude::9.53] 
+[has_place_latitude::48.8] 
 [name::Schorndorf bei Stuttgart] 
-Country :: [[Germany]]  
-State :: [[Baden-Wuerttemberg]] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Baden-Wuerttemberg]] 
 [Population::] 
 [Unknown::] 
 

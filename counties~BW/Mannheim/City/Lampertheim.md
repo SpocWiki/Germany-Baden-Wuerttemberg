@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.47] 
-[geo-lat::49.58] 
+[has_place_longitude::8.47] 
+[has_place_latitude::49.58] 
 [name::Lampertheim] 
-Country :: [[Germany]]  
-State :: [[Hessen]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Hessen]]  
 [Population::] 
 [Unknown::] 
 

@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::8.21] 
-[geo-lat::47.61] 
+[has_place_longitude::8.21] 
+[has_place_latitude::47.61] 
 [name::Waldshut-Tiengen] 
-Country :: [[Germany]]  
-State :: [[Baden-Wuerttemberg]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Baden-Wuerttemberg]]  
 [Population::] 
 [Unknown::] 
 

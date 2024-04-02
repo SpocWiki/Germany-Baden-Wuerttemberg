@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.32] 
-[geo-lat::48.85] 
+[has_place_longitude::9.32] 
+[has_place_latitude::48.85] 
 [name::Neustadt im Schwarzwald] 
-Country :: [[Germany]]  
-State :: [[Baden-Wuerttemberg]] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Baden-Wuerttemberg]] 
 [Population::] 
 [Unknown::] 
 
