@@ -32,6 +32,14 @@ maxZoom: 18
 ```
 
 
+
+[[../../../../../../../../../../../assets/Meersburg,BW-Marktplatz.webp]]
+![[../../../../../../../../../../../assets/Meersburg,BW-Marktplatz.webp]]
+Meersburg liegt in reizvoller Rebhanglage direkt am Bodensee. 
+Die guterhaltene Altstadt mit ihren vielen kleinen Gassen, die St. Martinskirche 
+und das berühmte Meersburger Schloss aus dem 7. Jahrhundert beeindrucken 
+neben dem wunderschönen Blick auf den See und die Schweizer Alpen.
+
 ## Confidential Links & Embeds: 
 - [[Meersburg|Meersburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Meersburg.internal|Meersburg.internal]] 

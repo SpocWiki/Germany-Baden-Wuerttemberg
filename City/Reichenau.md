@@ -12,6 +12,8 @@ isDeleted: false
 confidential: public
 
 ---
+
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::9.05] 
@@ -31,6 +33,10 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
+
+[[../../../../../../../../../assets/reichenau_006.webp]] 
+![[../../../../../../../../../assets/reichenau_006.webp]] 
+Klosterinsel Reichenau ( [[Unesco]] Welterbe seit 2000) 
 
 ## Confidential Links & Embeds: 
 - [[Reichenau|Reichenau]]  

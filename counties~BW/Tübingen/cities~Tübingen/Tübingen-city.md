@@ -1,16 +1,19 @@
 ---
-location: [48.52,9.05] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+  - 48.52
+  - 9.05
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35077
 isDeleted: false
 confidential: public
-
+aliases:
+  - Tuebingen
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 
@@ -25,15 +28,20 @@ has_place_province:: [[Baden-Wuerttemberg]]
 
 ```leaflet
 id: Tuebingen
-coordinates: [[Tuebingen]] 
-markerFile: [[Tuebingen]] 
+coordinates: [[Tübingen-city]] 
+markerFile: [[Tübingen-city]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
+[[../../../../../../../../../../../assets/Tübingen,BW.webp]]
+![[../../../../../../../../../../../assets/Tübingen,BW.webp]]
+Mit insgesamt 350 Kulturdenkmalen, romantischen Plätzen, verwinkelten Gassen und der historischen Neckarfront 
+bezaubert Tübingen (Baden-Württemberg) seine Besucher. 
+
 ## Confidential Links & Embeds: 
-- [[Tuebingen|Tuebingen]]  
+- [[Tübingen-city|Tuebingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Tuebingen.internal|Tuebingen.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Tuebingen.protect|Tuebingen.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Tuebingen.private|Tuebingen.private]] 
