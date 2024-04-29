@@ -33,8 +33,8 @@ maxZoom: 18
 
 
 
-[[../../../../../../../../../../../assets/maulbronn_005.webp]] 
-![[../../../../../../../../../../../assets/maulbronn_005.webp]] 
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Maulbronn~Kloster.webp]] 
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Maulbronn~Kloster.webp]] 
 Klosteranlage Maulbronn ( [[Unesco]] Welterbe seit 1993)
 
 ## Confidential Links & Embeds: 

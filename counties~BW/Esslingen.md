@@ -8,8 +8,8 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Esslingen%20(district))
 
 
-[[../../../../../../../../../assets/Esslingen-Altstadt.webp]] 
-![[../../../../../../../../../assets/Esslingen-Altstadt.webp]] 
+[[../../../../../../../../../assets/geo/Europe/Germany/Esslingen-Altstadt.webp]] 
+![[../../../../../../../../../assets/geo/Europe/Germany/Esslingen-Altstadt.webp]] 
 Esslingen am Neckar (Baden-Württemberg) ist ein wichtiger Bestandteil der Deutschen Fachwerkstraße. 
 Mehr als 200 gut erhaltene Fachwerkhäuser können Sie hier entdecken. 
 Darunter übrigens auch das älteste Deutschlands in der Heugasse 3. 

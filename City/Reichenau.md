@@ -34,8 +34,8 @@ maxZoom: 18
 ```
 
 
-[[../../../../../../../../../assets/reichenau_006.webp]] 
-![[../../../../../../../../../assets/reichenau_006.webp]] 
+[[../../../../../../../../../assets/geo/Europe/Germany/Reichenau.webp]] 
+![[../../../../../../../../../assets/geo/Europe/Germany/Reichenau.webp]] 
 Klosterinsel Reichenau ( [[Unesco]] Welterbe seit 2000) 
 
 ## Confidential Links & Embeds: 

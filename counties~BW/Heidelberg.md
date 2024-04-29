@@ -33,8 +33,8 @@ maxZoom: 18
 
 
 
-[[../../../../../../../../../assets/Heidelberg-kornmarkt-muttergottesbrunnen-schloss.webp]]
-![[../../../../../../../../../assets/Heidelberg-kornmarkt-muttergottesbrunnen-schloss.webp]]
+[[../../../../../../../../../assets/geo/Europe/Germany/Heidelberg~Kornmarkt,Muttergottesbrunnen,Schloss.webp]]
+![[../../../../../../../../../assets/geo/Europe/Germany/Heidelberg~Kornmarkt,Muttergottesbrunnen,Schloss.webp]]
 Erstmals 1196 urkundlich erwähnt, ist die Altstadt das Herz und die historische Mitte Heidelbergs (Baden-Württemberg). 
 Enge Gassen und Barock-Altbauten, das über der Altstadt thronende Schloss sowie die Baudenkmäler und Sehenswürdigkeiten 
 ziehen jährlich Millionen Besucherinnen und Besucher an.
