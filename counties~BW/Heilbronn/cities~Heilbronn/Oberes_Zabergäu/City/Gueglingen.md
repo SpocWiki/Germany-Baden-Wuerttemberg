@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.07,9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Gueglingen|Gueglingen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Gueglingen.internal|Gueglingen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Gueglingen.protect|Gueglingen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Gueglingen.private|Gueglingen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Gueglingen.personal|Gueglingen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Gueglingen.secret|Gueglingen.secret]] 
+
+### [Gueglingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Oberes_Zabergäu/City/Gueglingen.md) 
+
+### [Gueglingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Oberes_Zabergäu/City/Gueglingen.internal.md) 
+
+### [Gueglingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Oberes_Zabergäu/City/Gueglingen.protect.md) 
+
+### [Gueglingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Oberes_Zabergäu/City/Gueglingen.private.md) 
+
+### [Gueglingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Oberes_Zabergäu/City/Gueglingen.personal.md) 
+
+### [Gueglingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Oberes_Zabergäu/City/Gueglingen.secret.md) 

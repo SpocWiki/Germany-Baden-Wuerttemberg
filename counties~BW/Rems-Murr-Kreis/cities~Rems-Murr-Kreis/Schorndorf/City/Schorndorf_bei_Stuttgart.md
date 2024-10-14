@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.8,9.53] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Schorndorf_bei_Stuttgart|Schorndorf_bei_Stuttgart]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schorndorf_bei_Stuttgart.internal|Schorndorf_bei_Stuttgart.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schorndorf_bei_Stuttgart.protect|Schorndorf_bei_Stuttgart.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schorndorf_bei_Stuttgart.private|Schorndorf_bei_Stuttgart.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schorndorf_bei_Stuttgart.personal|Schorndorf_bei_Stuttgart.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schorndorf_bei_Stuttgart.secret|Schorndorf_bei_Stuttgart.secret]] 
+
+### [Schorndorf_bei_Stuttgart](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Schorndorf/City/Schorndorf_bei_Stuttgart.md) 
+
+### [Schorndorf_bei_Stuttgart.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Schorndorf/City/Schorndorf_bei_Stuttgart.internal.md) 
+
+### [Schorndorf_bei_Stuttgart.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Schorndorf/City/Schorndorf_bei_Stuttgart.protect.md) 
+
+### [Schorndorf_bei_Stuttgart.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Schorndorf/City/Schorndorf_bei_Stuttgart.private.md) 
+
+### [Schorndorf_bei_Stuttgart.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Schorndorf/City/Schorndorf_bei_Stuttgart.personal.md) 
+
+### [Schorndorf_bei_Stuttgart.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Schorndorf/City/Schorndorf_bei_Stuttgart.secret.md) 

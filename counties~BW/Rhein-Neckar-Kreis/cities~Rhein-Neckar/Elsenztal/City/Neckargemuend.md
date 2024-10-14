@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.34,8.79] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Neckargemuend|Neckargemuend]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neckargemuend.internal|Neckargemuend.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neckargemuend.protect|Neckargemuend.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neckargemuend.private|Neckargemuend.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neckargemuend.personal|Neckargemuend.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neckargemuend.secret|Neckargemuend.secret]] 
+
+### [Neckargemuend](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Elsenztal/City/Neckargemuend.md) 
+
+### [Neckargemuend.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Elsenztal/City/Neckargemuend.internal.md) 
+
+### [Neckargemuend.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Elsenztal/City/Neckargemuend.protect.md) 
+
+### [Neckargemuend.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Elsenztal/City/Neckargemuend.private.md) 
+
+### [Neckargemuend.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Elsenztal/City/Neckargemuend.personal.md) 
+
+### [Neckargemuend.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Elsenztal/City/Neckargemuend.secret.md) 

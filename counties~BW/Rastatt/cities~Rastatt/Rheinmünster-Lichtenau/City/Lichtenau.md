@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.73,8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Lichtenau|Lichtenau]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lichtenau.internal|Lichtenau.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lichtenau.protect|Lichtenau.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lichtenau.private|Lichtenau.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lichtenau.personal|Lichtenau.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lichtenau.secret|Lichtenau.secret]] 
+
+### [Lichtenau](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Lichtenau.md) 
+
+### [Lichtenau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Lichtenau.internal.md) 
+
+### [Lichtenau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Lichtenau.protect.md) 
+
+### [Lichtenau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Lichtenau.private.md) 
+
+### [Lichtenau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Lichtenau.personal.md) 
+
+### [Lichtenau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Lichtenau.secret.md) 

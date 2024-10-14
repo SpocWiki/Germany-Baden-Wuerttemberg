@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.75,8.78] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Gottmadingen|Gottmadingen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Gottmadingen.internal|Gottmadingen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Gottmadingen.protect|Gottmadingen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Gottmadingen.private|Gottmadingen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Gottmadingen.personal|Gottmadingen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Gottmadingen.secret|Gottmadingen.secret]] 
+
+### [Gottmadingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Gottmadingen.md) 
+
+### [Gottmadingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Gottmadingen.internal.md) 
+
+### [Gottmadingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Gottmadingen.protect.md) 
+
+### [Gottmadingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Gottmadingen.private.md) 
+
+### [Gottmadingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Gottmadingen.personal.md) 
+
+### [Gottmadingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Gottmadingen.secret.md) 

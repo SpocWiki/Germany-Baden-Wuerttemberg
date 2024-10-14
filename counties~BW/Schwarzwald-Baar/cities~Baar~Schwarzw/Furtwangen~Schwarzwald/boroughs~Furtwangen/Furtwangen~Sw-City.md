@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.04,8.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Furtwangen|Furtwangen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Furtwangen.internal|Furtwangen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Furtwangen.protect|Furtwangen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Furtwangen.private|Furtwangen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Furtwangen.personal|Furtwangen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Furtwangen.secret|Furtwangen.secret]] 
+
+### [Furtwangen~Sw-City](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Furtwangen~Schwarzwald/boroughs~Furtwangen/Furtwangen~Sw-City.md) 
+
+### [Furtwangen~Sw-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Furtwangen~Schwarzwald/boroughs~Furtwangen/Furtwangen~Sw-City.internal.md) 
+
+### [Furtwangen~Sw-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Furtwangen~Schwarzwald/boroughs~Furtwangen/Furtwangen~Sw-City.protect.md) 
+
+### [Furtwangen~Sw-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Furtwangen~Schwarzwald/boroughs~Furtwangen/Furtwangen~Sw-City.private.md) 
+
+### [Furtwangen~Sw-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Furtwangen~Schwarzwald/boroughs~Furtwangen/Furtwangen~Sw-City.personal.md) 
+
+### [Furtwangen~Sw-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Furtwangen~Schwarzwald/boroughs~Furtwangen/Furtwangen~Sw-City.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.97,8.62] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Koenigsbach~Baden|Koenigsbach~Baden]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Koenigsbach~Baden.internal|Koenigsbach~Baden.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Koenigsbach~Baden.protect|Koenigsbach~Baden.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Koenigsbach~Baden.private|Koenigsbach~Baden.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Koenigsbach~Baden.personal|Koenigsbach~Baden.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Koenigsbach~Baden.secret|Koenigsbach~Baden.secret]] 
+
+### [Koenigsbach~Baden](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Kämpfelbachtal/City/Koenigsbach~Baden.md) 
+
+### [Koenigsbach~Baden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Kämpfelbachtal/City/Koenigsbach~Baden.internal.md) 
+
+### [Koenigsbach~Baden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Kämpfelbachtal/City/Koenigsbach~Baden.protect.md) 
+
+### [Koenigsbach~Baden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Kämpfelbachtal/City/Koenigsbach~Baden.private.md) 
+
+### [Koenigsbach~Baden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Kämpfelbachtal/City/Koenigsbach~Baden.personal.md) 
+
+### [Koenigsbach~Baden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Kämpfelbachtal/City/Koenigsbach~Baden.secret.md) 

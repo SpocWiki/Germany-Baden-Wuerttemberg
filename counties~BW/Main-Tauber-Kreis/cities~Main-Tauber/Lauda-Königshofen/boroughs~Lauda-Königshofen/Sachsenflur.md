@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.53,9.73] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Sachsenflur|Sachsenflur]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Sachsenflur.internal|Sachsenflur.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Sachsenflur.protect|Sachsenflur.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Sachsenflur.private|Sachsenflur.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Sachsenflur.personal|Sachsenflur.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Sachsenflur.secret|Sachsenflur.secret]] 
+
+### [Sachsenflur](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Lauda-Königshofen/boroughs~Lauda-Königshofen/Sachsenflur.md) 
+
+### [Sachsenflur.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Lauda-Königshofen/boroughs~Lauda-Königshofen/Sachsenflur.internal.md) 
+
+### [Sachsenflur.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Lauda-Königshofen/boroughs~Lauda-Königshofen/Sachsenflur.protect.md) 
+
+### [Sachsenflur.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Lauda-Königshofen/boroughs~Lauda-Königshofen/Sachsenflur.private.md) 
+
+### [Sachsenflur.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Lauda-Königshofen/boroughs~Lauda-Königshofen/Sachsenflur.personal.md) 
+
+### [Sachsenflur.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Lauda-Königshofen/boroughs~Lauda-Königshofen/Sachsenflur.secret.md) 

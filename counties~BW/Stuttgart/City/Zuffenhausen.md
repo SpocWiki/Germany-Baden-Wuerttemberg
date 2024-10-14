@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.83,9.18] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Zuffenhausen|Zuffenhausen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Zuffenhausen.internal|Zuffenhausen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Zuffenhausen.protect|Zuffenhausen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Zuffenhausen.private|Zuffenhausen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Zuffenhausen.personal|Zuffenhausen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Zuffenhausen.secret|Zuffenhausen.secret]] 
+
+### [Zuffenhausen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart/City/Zuffenhausen.md) 
+
+### [Zuffenhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart/City/Zuffenhausen.internal.md) 
+
+### [Zuffenhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart/City/Zuffenhausen.protect.md) 
+
+### [Zuffenhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart/City/Zuffenhausen.private.md) 
+
+### [Zuffenhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart/City/Zuffenhausen.personal.md) 
+
+### [Zuffenhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart/City/Zuffenhausen.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.1,9.25] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Flein|Flein]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Flein.internal|Flein.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Flein.protect|Flein.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Flein.private|Flein.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Flein.personal|Flein.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Flein.secret|Flein.secret]] 
+
+### [Flein](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Flein-Talheim/City/Flein.md) 
+
+### [Flein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Flein-Talheim/City/Flein.internal.md) 
+
+### [Flein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Flein-Talheim/City/Flein.protect.md) 
+
+### [Flein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Flein-Talheim/City/Flein.private.md) 
+
+### [Flein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Flein-Talheim/City/Flein.personal.md) 
+
+### [Flein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Flein-Talheim/City/Flein.secret.md) 

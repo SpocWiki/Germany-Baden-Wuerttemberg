@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.38,9.67] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Hohenhardtsweil|Hohenhardtsweil]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Hohenhardtsweil.internal|Hohenhardtsweil.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Hohenhardtsweil.protect|Hohenhardtsweil.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Hohenhardtsweil.private|Hohenhardtsweil.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Hohenhardtsweil.personal|Hohenhardtsweil.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Hohenhardtsweil.secret|Hohenhardtsweil.secret]] 
+
+### [Hohenhardtsweil](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Krautheim/City/Hohenhardtsweil.md) 
+
+### [Hohenhardtsweil.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Krautheim/City/Hohenhardtsweil.internal.md) 
+
+### [Hohenhardtsweil.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Krautheim/City/Hohenhardtsweil.protect.md) 
+
+### [Hohenhardtsweil.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Krautheim/City/Hohenhardtsweil.private.md) 
+
+### [Hohenhardtsweil.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Krautheim/City/Hohenhardtsweil.personal.md) 
+
+### [Hohenhardtsweil.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Krautheim/City/Hohenhardtsweil.secret.md) 

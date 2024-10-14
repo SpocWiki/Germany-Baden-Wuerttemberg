@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.32,8.48] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Fluorn|Fluorn]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Fluorn.internal|Fluorn.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Fluorn.protect|Fluorn.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Fluorn.private|Fluorn.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Fluorn.personal|Fluorn.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Fluorn.secret|Fluorn.secret]] 
+
+### [Fluorn](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Alpirsbach/City/Fluorn.md) 
+
+### [Fluorn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Alpirsbach/City/Fluorn.internal.md) 
+
+### [Fluorn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Alpirsbach/City/Fluorn.protect.md) 
+
+### [Fluorn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Alpirsbach/City/Fluorn.private.md) 
+
+### [Fluorn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Alpirsbach/City/Fluorn.personal.md) 
+
+### [Fluorn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Alpirsbach/City/Fluorn.secret.md) 

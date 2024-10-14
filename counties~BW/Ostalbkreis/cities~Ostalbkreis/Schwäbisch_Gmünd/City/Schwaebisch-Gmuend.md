@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.8,9.8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Schwaebisch-Gmuend|Schwaebisch-Gmuend]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwaebisch-Gmuend.internal|Schwaebisch-Gmuend.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwaebisch-Gmuend.protect|Schwaebisch-Gmuend.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwaebisch-Gmuend.private|Schwaebisch-Gmuend.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwaebisch-Gmuend.personal|Schwaebisch-Gmuend.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwaebisch-Gmuend.secret|Schwaebisch-Gmuend.secret]] 
+
+### [Schwaebisch-Gmuend](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Schwaebisch-Gmuend.md) 
+
+### [Schwaebisch-Gmuend.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Schwaebisch-Gmuend.internal.md) 
+
+### [Schwaebisch-Gmuend.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Schwaebisch-Gmuend.protect.md) 
+
+### [Schwaebisch-Gmuend.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Schwaebisch-Gmuend.private.md) 
+
+### [Schwaebisch-Gmuend.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Schwaebisch-Gmuend.personal.md) 
+
+### [Schwaebisch-Gmuend.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Schwaebisch-Gmuend.secret.md) 

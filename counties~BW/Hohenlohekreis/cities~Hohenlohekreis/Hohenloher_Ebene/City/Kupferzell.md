@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.23,9.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Kupferzell|Kupferzell]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kupferzell.internal|Kupferzell.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kupferzell.protect|Kupferzell.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kupferzell.private|Kupferzell.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kupferzell.personal|Kupferzell.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kupferzell.secret|Kupferzell.secret]] 
+
+### [Kupferzell](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Hohenloher_Ebene/City/Kupferzell.md) 
+
+### [Kupferzell.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Hohenloher_Ebene/City/Kupferzell.internal.md) 
+
+### [Kupferzell.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Hohenloher_Ebene/City/Kupferzell.protect.md) 
+
+### [Kupferzell.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Hohenloher_Ebene/City/Kupferzell.private.md) 
+
+### [Kupferzell.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Hohenloher_Ebene/City/Kupferzell.personal.md) 
+
+### [Kupferzell.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Hohenloher_Ebene/City/Kupferzell.secret.md) 

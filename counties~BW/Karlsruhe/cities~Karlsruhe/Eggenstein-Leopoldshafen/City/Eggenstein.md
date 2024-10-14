@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.08,8.38] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Eggenstein|Eggenstein]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Eggenstein.internal|Eggenstein.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Eggenstein.protect|Eggenstein.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Eggenstein.private|Eggenstein.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Eggenstein.personal|Eggenstein.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Eggenstein.secret|Eggenstein.secret]] 
+
+### [Eggenstein](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein.md) 
+
+### [Eggenstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein.internal.md) 
+
+### [Eggenstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein.protect.md) 
+
+### [Eggenstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein.private.md) 
+
+### [Eggenstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein.personal.md) 
+
+### [Eggenstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.6,9.3] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Neckartaiflingen|Neckartaiflingen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neckartaiflingen.internal|Neckartaiflingen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neckartaiflingen.protect|Neckartaiflingen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neckartaiflingen.private|Neckartaiflingen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neckartaiflingen.personal|Neckartaiflingen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neckartaiflingen.secret|Neckartaiflingen.secret]] 
+
+### [Neckartaiflingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Neckartaiflingen.md) 
+
+### [Neckartaiflingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Neckartaiflingen.internal.md) 
+
+### [Neckartaiflingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Neckartaiflingen.protect.md) 
+
+### [Neckartaiflingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Neckartaiflingen.private.md) 
+
+### [Neckartaiflingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Neckartaiflingen.personal.md) 
+
+### [Neckartaiflingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Neckartaiflingen.secret.md) 

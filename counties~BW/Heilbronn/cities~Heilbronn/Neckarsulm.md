@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.2,9.23] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Neckarsulm|Neckarsulm]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neckarsulm.internal|Neckarsulm.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neckarsulm.protect|Neckarsulm.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neckarsulm.private|Neckarsulm.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neckarsulm.personal|Neckarsulm.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neckarsulm.secret|Neckarsulm.secret]] 
+
+### [Neckarsulm](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Neckarsulm.md) 
+
+### [Neckarsulm.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Neckarsulm.internal.md) 
+
+### [Neckarsulm.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Neckarsulm.protect.md) 
+
+### [Neckarsulm.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Neckarsulm.private.md) 
+
+### [Neckarsulm.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Neckarsulm.personal.md) 
+
+### [Neckarsulm.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Neckarsulm.secret.md) 

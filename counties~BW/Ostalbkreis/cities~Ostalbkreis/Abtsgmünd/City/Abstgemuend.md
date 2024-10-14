@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.9,10] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Abstgemuend|Abstgemuend]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Abstgemuend.internal|Abstgemuend.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Abstgemuend.protect|Abstgemuend.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Abstgemuend.private|Abstgemuend.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Abstgemuend.personal|Abstgemuend.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Abstgemuend.secret|Abstgemuend.secret]] 
+
+### [Abstgemuend](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Abstgemuend.md) 
+
+### [Abstgemuend.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Abstgemuend.internal.md) 
+
+### [Abstgemuend.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Abstgemuend.protect.md) 
+
+### [Abstgemuend.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Abstgemuend.private.md) 
+
+### [Abstgemuend.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Abstgemuend.personal.md) 
+
+### [Abstgemuend.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Abstgemuend.secret.md) 

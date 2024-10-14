@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.38,9.42] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Marbach~Lauter|Marbach~Lauter]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Marbach~Lauter.internal|Marbach~Lauter.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Marbach~Lauter.protect|Marbach~Lauter.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Marbach~Lauter.private|Marbach~Lauter.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Marbach~Lauter.personal|Marbach~Lauter.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Marbach~Lauter.secret|Marbach~Lauter.secret]] 
+
+### [Marbach~Lauter](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Marbach~Lauter.md) 
+
+### [Marbach~Lauter.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Marbach~Lauter.internal.md) 
+
+### [Marbach~Lauter.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Marbach~Lauter.protect.md) 
+
+### [Marbach~Lauter.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Marbach~Lauter.private.md) 
+
+### [Marbach~Lauter.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Marbach~Lauter.personal.md) 
+
+### [Marbach~Lauter.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Marbach~Lauter.secret.md) 

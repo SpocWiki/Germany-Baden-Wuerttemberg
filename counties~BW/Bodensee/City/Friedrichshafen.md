@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.64,9.48] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Friedrichshafen|Friedrichshafen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Friedrichshafen.internal|Friedrichshafen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Friedrichshafen.protect|Friedrichshafen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Friedrichshafen.private|Friedrichshafen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Friedrichshafen.personal|Friedrichshafen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Friedrichshafen.secret|Friedrichshafen.secret]] 
+
+### [Friedrichshafen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Friedrichshafen.md) 
+
+### [Friedrichshafen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Friedrichshafen.internal.md) 
+
+### [Friedrichshafen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Friedrichshafen.protect.md) 
+
+### [Friedrichshafen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Friedrichshafen.private.md) 
+
+### [Friedrichshafen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Friedrichshafen.personal.md) 
+
+### [Friedrichshafen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Friedrichshafen.secret.md) 

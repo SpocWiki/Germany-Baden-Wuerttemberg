@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.3,8.57] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Oberndorf~Neckar|Oberndorf~Neckar]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Oberndorf~Neckar.internal|Oberndorf~Neckar.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Oberndorf~Neckar.protect|Oberndorf~Neckar.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Oberndorf~Neckar.private|Oberndorf~Neckar.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Oberndorf~Neckar.personal|Oberndorf~Neckar.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Oberndorf~Neckar.secret|Oberndorf~Neckar.secret]] 
+
+### [Oberndorf~Neckar](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Oberndorf~Neckar.md) 
+
+### [Oberndorf~Neckar.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Oberndorf~Neckar.internal.md) 
+
+### [Oberndorf~Neckar.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Oberndorf~Neckar.protect.md) 
+
+### [Oberndorf~Neckar.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Oberndorf~Neckar.private.md) 
+
+### [Oberndorf~Neckar.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Oberndorf~Neckar.personal.md) 
+
+### [Oberndorf~Neckar.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Oberndorf~Neckar.secret.md) 

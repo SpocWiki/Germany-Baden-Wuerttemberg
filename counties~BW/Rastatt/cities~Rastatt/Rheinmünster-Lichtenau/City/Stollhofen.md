@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.75,8.05] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Stollhofen|Stollhofen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Stollhofen.internal|Stollhofen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Stollhofen.protect|Stollhofen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Stollhofen.private|Stollhofen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Stollhofen.personal|Stollhofen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Stollhofen.secret|Stollhofen.secret]] 
+
+### [Stollhofen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Stollhofen.md) 
+
+### [Stollhofen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Stollhofen.internal.md) 
+
+### [Stollhofen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Stollhofen.protect.md) 
+
+### [Stollhofen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Stollhofen.private.md) 
+
+### [Stollhofen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Stollhofen.personal.md) 
+
+### [Stollhofen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Stollhofen.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.08,9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Brackenheim|Brackenheim]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Brackenheim.internal|Brackenheim.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Brackenheim.protect|Brackenheim.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Brackenheim.private|Brackenheim.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Brackenheim.personal|Brackenheim.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Brackenheim.secret|Brackenheim.secret]] 
+
+### [Brackenheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Oberes_Zabergäu/City/Brackenheim.md) 
+
+### [Brackenheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Oberes_Zabergäu/City/Brackenheim.internal.md) 
+
+### [Brackenheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Oberes_Zabergäu/City/Brackenheim.protect.md) 
+
+### [Brackenheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Oberes_Zabergäu/City/Brackenheim.private.md) 
+
+### [Brackenheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Oberes_Zabergäu/City/Brackenheim.personal.md) 
+
+### [Brackenheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Oberes_Zabergäu/City/Brackenheim.secret.md) 

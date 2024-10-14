@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.62,9.67] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Tauberbischofsheim|Tauberbischofsheim]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Tauberbischofsheim.internal|Tauberbischofsheim.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Tauberbischofsheim.protect|Tauberbischofsheim.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Tauberbischofsheim.private|Tauberbischofsheim.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Tauberbischofsheim.personal|Tauberbischofsheim.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Tauberbischofsheim.secret|Tauberbischofsheim.secret]] 
+
+### [Tauberbischofsheim-City](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Tauberbischofsheim/boroughs~Tauber_BH/Tauberbischofsheim-City.md) 
+
+### [Tauberbischofsheim-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Tauberbischofsheim/boroughs~Tauber_BH/Tauberbischofsheim-City.internal.md) 
+
+### [Tauberbischofsheim-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Tauberbischofsheim/boroughs~Tauber_BH/Tauberbischofsheim-City.protect.md) 
+
+### [Tauberbischofsheim-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Tauberbischofsheim/boroughs~Tauber_BH/Tauberbischofsheim-City.private.md) 
+
+### [Tauberbischofsheim-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Tauberbischofsheim/boroughs~Tauber_BH/Tauberbischofsheim-City.personal.md) 
+
+### [Tauberbischofsheim-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Tauberbischofsheim/boroughs~Tauber_BH/Tauberbischofsheim-City.secret.md) 

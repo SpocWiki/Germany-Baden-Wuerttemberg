@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.72,8.73] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Calw|Calw]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Calw.internal|Calw.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Calw.protect|Calw.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Calw.private|Calw.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Calw.personal|Calw.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Calw.secret|Calw.secret]] 
+
+### [Calw](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Calw-city/City/Calw.md) 
+
+### [Calw.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Calw-city/City/Calw.internal.md) 
+
+### [Calw.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Calw-city/City/Calw.protect.md) 
+
+### [Calw.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Calw-city/City/Calw.private.md) 
+
+### [Calw.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Calw-city/City/Calw.personal.md) 
+
+### [Calw.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Calw-city/City/Calw.secret.md) 

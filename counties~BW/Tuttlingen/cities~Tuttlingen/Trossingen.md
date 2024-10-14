@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.08,8.63] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Trossingen|Trossingen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Trossingen.internal|Trossingen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Trossingen.protect|Trossingen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Trossingen.private|Trossingen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Trossingen.personal|Trossingen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Trossingen.secret|Trossingen.secret]] 
+
+### [Trossingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Trossingen.md) 
+
+### [Trossingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Trossingen.internal.md) 
+
+### [Trossingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Trossingen.protect.md) 
+
+### [Trossingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Trossingen.private.md) 
+
+### [Trossingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Trossingen.personal.md) 
+
+### [Trossingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Trossingen.secret.md) 

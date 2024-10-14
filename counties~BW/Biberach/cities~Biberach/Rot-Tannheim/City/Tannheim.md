@@ -1,4 +1,4 @@
----
+﻿---
 location: [48,10.08] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Tannheim|Tannheim]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Tannheim.internal|Tannheim.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Tannheim.protect|Tannheim.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Tannheim.private|Tannheim.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Tannheim.personal|Tannheim.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Tannheim.secret|Tannheim.secret]] 
+
+### [Tannheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Rot-Tannheim/City/Tannheim.md) 
+
+### [Tannheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Rot-Tannheim/City/Tannheim.internal.md) 
+
+### [Tannheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Rot-Tannheim/City/Tannheim.protect.md) 
+
+### [Tannheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Rot-Tannheim/City/Tannheim.private.md) 
+
+### [Tannheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Rot-Tannheim/City/Tannheim.personal.md) 
+
+### [Tannheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Rot-Tannheim/City/Tannheim.secret.md) 

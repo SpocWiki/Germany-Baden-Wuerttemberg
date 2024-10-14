@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.8,9.23] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Bad_Cannstatt|Bad_Cannstatt]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bad_Cannstatt.internal|Bad_Cannstatt.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bad_Cannstatt.protect|Bad_Cannstatt.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bad_Cannstatt.private|Bad_Cannstatt.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bad_Cannstatt.personal|Bad_Cannstatt.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bad_Cannstatt.secret|Bad_Cannstatt.secret]] 
+
+### [Bad_Cannstatt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart/City/Bad_Cannstatt.md) 
+
+### [Bad_Cannstatt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart/City/Bad_Cannstatt.internal.md) 
+
+### [Bad_Cannstatt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart/City/Bad_Cannstatt.protect.md) 
+
+### [Bad_Cannstatt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart/City/Bad_Cannstatt.private.md) 
+
+### [Bad_Cannstatt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart/City/Bad_Cannstatt.personal.md) 
+
+### [Bad_Cannstatt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart/City/Bad_Cannstatt.secret.md) 

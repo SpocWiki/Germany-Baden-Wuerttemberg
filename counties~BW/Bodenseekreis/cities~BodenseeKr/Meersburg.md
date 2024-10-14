@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.7,9.28] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -41,9 +41,15 @@ und das berühmte Meersburger Schloss aus dem 7. Jahrhundert beeindrucken
 neben dem wunderschönen Blick auf den See und die Schweizer Alpen.
 
 ## Confidential Links & Embeds: 
-- [[Meersburg|Meersburg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Meersburg.internal|Meersburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Meersburg.protect|Meersburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Meersburg.private|Meersburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Meersburg.personal|Meersburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Meersburg.secret|Meersburg.secret]] 
+
+### [Meersburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg.md) 
+
+### [Meersburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg.internal.md) 
+
+### [Meersburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg.protect.md) 
+
+### [Meersburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg.private.md) 
+
+### [Meersburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg.personal.md) 
+
+### [Meersburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg.secret.md) 

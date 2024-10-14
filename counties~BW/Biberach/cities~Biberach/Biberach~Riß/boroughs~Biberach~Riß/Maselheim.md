@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.13,9.9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Maselheim|Maselheim]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Maselheim.internal|Maselheim.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Maselheim.protect|Maselheim.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Maselheim.private|Maselheim.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Maselheim.personal|Maselheim.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Maselheim.secret|Maselheim.secret]] 
+
+### [Maselheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Maselheim.md) 
+
+### [Maselheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Maselheim.internal.md) 
+
+### [Maselheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Maselheim.protect.md) 
+
+### [Maselheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Maselheim.private.md) 
+
+### [Maselheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Maselheim.personal.md) 
+
+### [Maselheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Maselheim.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.13,9.48] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[WÜstenrot|WÜstenrot]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/WÜstenrot.internal|WÜstenrot.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/WÜstenrot.protect|WÜstenrot.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/WÜstenrot.private|WÜstenrot.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/WÜstenrot.personal|WÜstenrot.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/WÜstenrot.secret|WÜstenrot.secret]] 
+
+### [WÜstenrot](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Bretzfeld/City/WÜstenrot.md) 
+
+### [WÜstenrot.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Bretzfeld/City/WÜstenrot.internal.md) 
+
+### [WÜstenrot.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Bretzfeld/City/WÜstenrot.protect.md) 
+
+### [WÜstenrot.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Bretzfeld/City/WÜstenrot.private.md) 
+
+### [WÜstenrot.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Bretzfeld/City/WÜstenrot.personal.md) 
+
+### [WÜstenrot.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Bretzfeld/City/WÜstenrot.secret.md) 

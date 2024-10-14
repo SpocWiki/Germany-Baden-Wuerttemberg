@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.58,8.47] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Lampertheim|Lampertheim]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Lampertheim.internal|Lampertheim.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Lampertheim.protect|Lampertheim.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Lampertheim.private|Lampertheim.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Lampertheim.personal|Lampertheim.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Lampertheim.secret|Lampertheim.secret]] 
+
+### [Lampertheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Mannheim/City/Lampertheim.md) 
+
+### [Lampertheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Mannheim/City/Lampertheim.internal.md) 
+
+### [Lampertheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Mannheim/City/Lampertheim.protect.md) 
+
+### [Lampertheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Mannheim/City/Lampertheim.private.md) 
+
+### [Lampertheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Mannheim/City/Lampertheim.personal.md) 
+
+### [Lampertheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Mannheim/City/Lampertheim.secret.md) 

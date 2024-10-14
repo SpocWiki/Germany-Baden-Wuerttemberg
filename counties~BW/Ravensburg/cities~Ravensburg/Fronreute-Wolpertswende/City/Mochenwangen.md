@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.88,9.63] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Mochenwangen|Mochenwangen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Mochenwangen.internal|Mochenwangen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Mochenwangen.protect|Mochenwangen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Mochenwangen.private|Mochenwangen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Mochenwangen.personal|Mochenwangen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Mochenwangen.secret|Mochenwangen.secret]] 
+
+### [Mochenwangen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Fronreute-Wolpertswende/City/Mochenwangen.md) 
+
+### [Mochenwangen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Fronreute-Wolpertswende/City/Mochenwangen.internal.md) 
+
+### [Mochenwangen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Fronreute-Wolpertswende/City/Mochenwangen.protect.md) 
+
+### [Mochenwangen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Fronreute-Wolpertswende/City/Mochenwangen.private.md) 
+
+### [Mochenwangen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Fronreute-Wolpertswende/City/Mochenwangen.personal.md) 
+
+### [Mochenwangen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Fronreute-Wolpertswende/City/Mochenwangen.secret.md) 

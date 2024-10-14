@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.15,7.87] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Denzlingen|Denzlingen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Denzlingen.internal|Denzlingen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Denzlingen.protect|Denzlingen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Denzlingen.private|Denzlingen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Denzlingen.personal|Denzlingen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Denzlingen.secret|Denzlingen.secret]] 
+
+### [Denzlingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Emmendingen-city/City/Denzlingen.md) 
+
+### [Denzlingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Emmendingen-city/City/Denzlingen.internal.md) 
+
+### [Denzlingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Emmendingen-city/City/Denzlingen.protect.md) 
+
+### [Denzlingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Emmendingen-city/City/Denzlingen.private.md) 
+
+### [Denzlingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Emmendingen-city/City/Denzlingen.personal.md) 
+
+### [Denzlingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Emmendingen-city/City/Denzlingen.secret.md) 

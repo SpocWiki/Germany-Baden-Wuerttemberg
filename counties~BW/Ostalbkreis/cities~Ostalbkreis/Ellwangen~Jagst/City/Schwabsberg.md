@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.93,10.15] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Schwabsberg|Schwabsberg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwabsberg.internal|Schwabsberg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwabsberg.protect|Schwabsberg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwabsberg.private|Schwabsberg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwabsberg.personal|Schwabsberg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwabsberg.secret|Schwabsberg.secret]] 
+
+### [Schwabsberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Ellwangen~Jagst/City/Schwabsberg.md) 
+
+### [Schwabsberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Ellwangen~Jagst/City/Schwabsberg.internal.md) 
+
+### [Schwabsberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Ellwangen~Jagst/City/Schwabsberg.protect.md) 
+
+### [Schwabsberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Ellwangen~Jagst/City/Schwabsberg.private.md) 
+
+### [Schwabsberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Ellwangen~Jagst/City/Schwabsberg.personal.md) 
+
+### [Schwabsberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Ellwangen~Jagst/City/Schwabsberg.secret.md) 

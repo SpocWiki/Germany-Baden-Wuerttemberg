@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.39,9.98] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Ulm|Ulm]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Ulm.internal|Ulm.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Ulm.protect|Ulm.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Ulm.private|Ulm.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Ulm.personal|Ulm.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Ulm.secret|Ulm.secret]] 
+
+### [Ulm](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ulm.md) 
+
+### [Ulm.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ulm.internal.md) 
+
+### [Ulm.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ulm.protect.md) 
+
+### [Ulm.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ulm.private.md) 
+
+### [Ulm.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ulm.personal.md) 
+
+### [Ulm.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ulm.secret.md) 

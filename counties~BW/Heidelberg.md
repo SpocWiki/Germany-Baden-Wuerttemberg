@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.42,8.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -41,9 +41,15 @@ ziehen jährlich Millionen Besucherinnen und Besucher an.
 
 
 ## Confidential Links & Embeds: 
-- [[Heidelberg|Heidelberg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Heidelberg.internal|Heidelberg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Heidelberg.protect|Heidelberg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Heidelberg.private|Heidelberg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Heidelberg.personal|Heidelberg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Heidelberg.secret|Heidelberg.secret]] 
+
+### [Heidelberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg.md) 
+
+### [Heidelberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg.internal.md) 
+
+### [Heidelberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg.protect.md) 
+
+### [Heidelberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg.private.md) 
+
+### [Heidelberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg.personal.md) 
+
+### [Heidelberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg.secret.md) 

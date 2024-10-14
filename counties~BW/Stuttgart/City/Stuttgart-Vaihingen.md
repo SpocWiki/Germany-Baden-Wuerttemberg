@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.73,9.12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Stuttgart-Vaihingen|Stuttgart-Vaihingen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Stuttgart-Vaihingen.internal|Stuttgart-Vaihingen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Stuttgart-Vaihingen.protect|Stuttgart-Vaihingen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Stuttgart-Vaihingen.private|Stuttgart-Vaihingen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Stuttgart-Vaihingen.personal|Stuttgart-Vaihingen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Stuttgart-Vaihingen.secret|Stuttgart-Vaihingen.secret]] 
+
+### [Stuttgart-Vaihingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart/City/Stuttgart-Vaihingen.md) 
+
+### [Stuttgart-Vaihingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart/City/Stuttgart-Vaihingen.internal.md) 
+
+### [Stuttgart-Vaihingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart/City/Stuttgart-Vaihingen.protect.md) 
+
+### [Stuttgart-Vaihingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart/City/Stuttgart-Vaihingen.private.md) 
+
+### [Stuttgart-Vaihingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart/City/Stuttgart-Vaihingen.personal.md) 
+
+### [Stuttgart-Vaihingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart/City/Stuttgart-Vaihingen.secret.md) 

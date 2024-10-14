@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.02,8.18] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Neukirch_bei_Furtwangen|Neukirch_bei_Furtwangen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neukirch_bei_Furtwangen.internal|Neukirch_bei_Furtwangen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neukirch_bei_Furtwangen.protect|Neukirch_bei_Furtwangen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neukirch_bei_Furtwangen.private|Neukirch_bei_Furtwangen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neukirch_bei_Furtwangen.personal|Neukirch_bei_Furtwangen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neukirch_bei_Furtwangen.secret|Neukirch_bei_Furtwangen.secret]] 
+
+### [Neukirch~Furtwangen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Furtwangen~Schwarzwald/boroughs~Furtwangen/Neukirch~Furtwangen.md) 
+
+### [Neukirch~Furtwangen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Furtwangen~Schwarzwald/boroughs~Furtwangen/Neukirch~Furtwangen.internal.md) 
+
+### [Neukirch~Furtwangen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Furtwangen~Schwarzwald/boroughs~Furtwangen/Neukirch~Furtwangen.protect.md) 
+
+### [Neukirch~Furtwangen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Furtwangen~Schwarzwald/boroughs~Furtwangen/Neukirch~Furtwangen.private.md) 
+
+### [Neukirch~Furtwangen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Furtwangen~Schwarzwald/boroughs~Furtwangen/Neukirch~Furtwangen.personal.md) 
+
+### [Neukirch~Furtwangen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Furtwangen~Schwarzwald/boroughs~Furtwangen/Neukirch~Furtwangen.secret.md) 

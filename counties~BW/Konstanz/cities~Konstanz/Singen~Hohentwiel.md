@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.77,8.83] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Singen~Hohentwiel|Singen~Hohentwiel]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Singen~Hohentwiel.internal|Singen~Hohentwiel.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Singen~Hohentwiel.protect|Singen~Hohentwiel.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Singen~Hohentwiel.private|Singen~Hohentwiel.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Singen~Hohentwiel.personal|Singen~Hohentwiel.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Singen~Hohentwiel.secret|Singen~Hohentwiel.secret]] 
+
+### [Singen~Hohentwiel](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Singen~Hohentwiel.md) 
+
+### [Singen~Hohentwiel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Singen~Hohentwiel.internal.md) 
+
+### [Singen~Hohentwiel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Singen~Hohentwiel.protect.md) 
+
+### [Singen~Hohentwiel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Singen~Hohentwiel.private.md) 
+
+### [Singen~Hohentwiel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Singen~Hohentwiel.personal.md) 
+
+### [Singen~Hohentwiel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Singen~Hohentwiel.secret.md) 

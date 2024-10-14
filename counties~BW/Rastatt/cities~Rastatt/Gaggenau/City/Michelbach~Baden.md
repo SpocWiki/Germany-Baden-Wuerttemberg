@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.82,8.35] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Michelbach~Baden|Michelbach~Baden]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Michelbach~Baden.internal|Michelbach~Baden.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Michelbach~Baden.protect|Michelbach~Baden.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Michelbach~Baden.private|Michelbach~Baden.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Michelbach~Baden.personal|Michelbach~Baden.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Michelbach~Baden.secret|Michelbach~Baden.secret]] 
+
+### [Michelbach~Baden](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gaggenau/City/Michelbach~Baden.md) 
+
+### [Michelbach~Baden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gaggenau/City/Michelbach~Baden.internal.md) 
+
+### [Michelbach~Baden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gaggenau/City/Michelbach~Baden.protect.md) 
+
+### [Michelbach~Baden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gaggenau/City/Michelbach~Baden.private.md) 
+
+### [Michelbach~Baden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gaggenau/City/Michelbach~Baden.personal.md) 
+
+### [Michelbach~Baden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gaggenau/City/Michelbach~Baden.secret.md) 

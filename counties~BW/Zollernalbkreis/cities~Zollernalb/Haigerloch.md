@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.37,8.82] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Haigerloch|Haigerloch]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Haigerloch.internal|Haigerloch.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Haigerloch.protect|Haigerloch.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Haigerloch.private|Haigerloch.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Haigerloch.personal|Haigerloch.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Haigerloch.secret|Haigerloch.secret]] 
+
+### [Haigerloch](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Haigerloch.md) 
+
+### [Haigerloch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Haigerloch.internal.md) 
+
+### [Haigerloch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Haigerloch.protect.md) 
+
+### [Haigerloch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Haigerloch.private.md) 
+
+### [Haigerloch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Haigerloch.personal.md) 
+
+### [Haigerloch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Haigerloch.secret.md) 

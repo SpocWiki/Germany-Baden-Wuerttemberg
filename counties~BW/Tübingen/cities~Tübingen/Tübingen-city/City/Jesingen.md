@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.55,9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Jesingen|Jesingen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Jesingen.internal|Jesingen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Jesingen.protect|Jesingen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Jesingen.private|Jesingen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Jesingen.personal|Jesingen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Jesingen.secret|Jesingen.secret]] 
+
+### [Jesingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Tübingen-city/City/Jesingen.md) 
+
+### [Jesingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Tübingen-city/City/Jesingen.internal.md) 
+
+### [Jesingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Tübingen-city/City/Jesingen.protect.md) 
+
+### [Jesingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Tübingen-city/City/Jesingen.private.md) 
+
+### [Jesingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Tübingen-city/City/Jesingen.personal.md) 
+
+### [Jesingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Tübingen-city/City/Jesingen.secret.md) 

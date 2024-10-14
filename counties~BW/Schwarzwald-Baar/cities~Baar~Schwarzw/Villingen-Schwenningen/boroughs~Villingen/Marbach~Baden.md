@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.02,8.48] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Marbach~Baden|Marbach~Baden]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Marbach~Baden.internal|Marbach~Baden.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Marbach~Baden.protect|Marbach~Baden.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Marbach~Baden.private|Marbach~Baden.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Marbach~Baden.personal|Marbach~Baden.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Marbach~Baden.secret|Marbach~Baden.secret]] 
+
+### [Marbach~Baden](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Marbach~Baden.md) 
+
+### [Marbach~Baden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Marbach~Baden.internal.md) 
+
+### [Marbach~Baden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Marbach~Baden.protect.md) 
+
+### [Marbach~Baden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Marbach~Baden.private.md) 
+
+### [Marbach~Baden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Marbach~Baden.personal.md) 
+
+### [Marbach~Baden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Marbach~Baden.secret.md) 

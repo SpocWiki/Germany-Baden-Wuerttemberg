@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.85,9.32] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Neustadt_im_Schwarzwald|Neustadt_im_Schwarzwald]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neustadt_im_Schwarzwald.internal|Neustadt_im_Schwarzwald.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neustadt_im_Schwarzwald.protect|Neustadt_im_Schwarzwald.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neustadt_im_Schwarzwald.private|Neustadt_im_Schwarzwald.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neustadt_im_Schwarzwald.personal|Neustadt_im_Schwarzwald.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neustadt_im_Schwarzwald.secret|Neustadt_im_Schwarzwald.secret]] 
+
+### [Neustadt~Schwarzwald](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Neustadt~Schwarzwald.md) 
+
+### [Neustadt~Schwarzwald.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Neustadt~Schwarzwald.internal.md) 
+
+### [Neustadt~Schwarzwald.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Neustadt~Schwarzwald.protect.md) 
+
+### [Neustadt~Schwarzwald.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Neustadt~Schwarzwald.private.md) 
+
+### [Neustadt~Schwarzwald.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Neustadt~Schwarzwald.personal.md) 
+
+### [Neustadt~Schwarzwald.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Neustadt~Schwarzwald.secret.md) 

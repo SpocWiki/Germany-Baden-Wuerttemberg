@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.34,8.96] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Hechingen|Hechingen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Hechingen.internal|Hechingen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Hechingen.protect|Hechingen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Hechingen.private|Hechingen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Hechingen.personal|Hechingen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Hechingen.secret|Hechingen.secret]] 
+
+### [Hechingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Hechingen.md) 
+
+### [Hechingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Hechingen.internal.md) 
+
+### [Hechingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Hechingen.protect.md) 
+
+### [Hechingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Hechingen.private.md) 
+
+### [Hechingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Hechingen.personal.md) 
+
+### [Hechingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Hechingen.secret.md) 

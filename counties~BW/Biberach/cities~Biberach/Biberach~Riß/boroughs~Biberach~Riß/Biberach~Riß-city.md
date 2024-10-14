@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.12,9.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Biberach|Biberach]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Biberach.internal|Biberach.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Biberach.protect|Biberach.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Biberach.private|Biberach.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Biberach.personal|Biberach.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Biberach.secret|Biberach.secret]] 
+
+### [Biberach~Riß-city](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Biberach~Riß-city.md) 
+
+### [Biberach~Riß-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Biberach~Riß-city.internal.md) 
+
+### [Biberach~Riß-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Biberach~Riß-city.protect.md) 
+
+### [Biberach~Riß-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Biberach~Riß-city.private.md) 
+
+### [Biberach~Riß-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Biberach~Riß-city.personal.md) 
+
+### [Biberach~Riß-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Biberach~Riß-city.secret.md) 

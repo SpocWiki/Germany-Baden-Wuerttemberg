@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.48,9.9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Weikersheim|Weikersheim]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Weikersheim.internal|Weikersheim.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Weikersheim.protect|Weikersheim.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Weikersheim.private|Weikersheim.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Weikersheim.personal|Weikersheim.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Weikersheim.secret|Weikersheim.secret]] 
+
+### [Weikersheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Weikersheim.md) 
+
+### [Weikersheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Weikersheim.internal.md) 
+
+### [Weikersheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Weikersheim.protect.md) 
+
+### [Weikersheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Weikersheim.private.md) 
+
+### [Weikersheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Weikersheim.personal.md) 
+
+### [Weikersheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Weikersheim.secret.md) 

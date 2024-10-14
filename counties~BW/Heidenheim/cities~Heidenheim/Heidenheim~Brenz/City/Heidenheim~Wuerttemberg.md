@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.67,10.15] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Heidenheim~Wuerttemberg|Heidenheim~Wuerttemberg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Heidenheim~Wuerttemberg.internal|Heidenheim~Wuerttemberg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Heidenheim~Wuerttemberg.protect|Heidenheim~Wuerttemberg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Heidenheim~Wuerttemberg.private|Heidenheim~Wuerttemberg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Heidenheim~Wuerttemberg.personal|Heidenheim~Wuerttemberg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Heidenheim~Wuerttemberg.secret|Heidenheim~Wuerttemberg.secret]] 
+
+### [Heidenheim~Wuerttemberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Heidenheim~Brenz/City/Heidenheim~Wuerttemberg.md) 
+
+### [Heidenheim~Wuerttemberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Heidenheim~Brenz/City/Heidenheim~Wuerttemberg.internal.md) 
+
+### [Heidenheim~Wuerttemberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Heidenheim~Brenz/City/Heidenheim~Wuerttemberg.protect.md) 
+
+### [Heidenheim~Wuerttemberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Heidenheim~Brenz/City/Heidenheim~Wuerttemberg.private.md) 
+
+### [Heidenheim~Wuerttemberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Heidenheim~Brenz/City/Heidenheim~Wuerttemberg.personal.md) 
+
+### [Heidenheim~Wuerttemberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Heidenheim~Brenz/City/Heidenheim~Wuerttemberg.secret.md) 

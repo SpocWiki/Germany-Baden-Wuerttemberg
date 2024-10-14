@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.22,8.73] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Rosenfeld|Rosenfeld]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Rosenfeld.internal|Rosenfeld.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Rosenfeld.protect|Rosenfeld.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Rosenfeld.private|Rosenfeld.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Rosenfeld.personal|Rosenfeld.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Rosenfeld.secret|Rosenfeld.secret]] 
+
+### [Rosenfeld](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Oberes_Schlichemtal/City/Rosenfeld.md) 
+
+### [Rosenfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Oberes_Schlichemtal/City/Rosenfeld.internal.md) 
+
+### [Rosenfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Oberes_Schlichemtal/City/Rosenfeld.protect.md) 
+
+### [Rosenfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Oberes_Schlichemtal/City/Rosenfeld.private.md) 
+
+### [Rosenfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Oberes_Schlichemtal/City/Rosenfeld.personal.md) 
+
+### [Rosenfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Oberes_Schlichemtal/City/Rosenfeld.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.68,9.85] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Wangen_im_Allgaeu|Wangen_im_Allgaeu]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Wangen_im_Allgaeu.internal|Wangen_im_Allgaeu.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Wangen_im_Allgaeu.protect|Wangen_im_Allgaeu.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Wangen_im_Allgaeu.private|Wangen_im_Allgaeu.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Wangen_im_Allgaeu.personal|Wangen_im_Allgaeu.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Wangen_im_Allgaeu.secret|Wangen_im_Allgaeu.secret]] 
+
+### [Wangen~Allgaeu](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wangen~Allgäu/City/Wangen~Allgaeu.md) 
+
+### [Wangen~Allgaeu.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wangen~Allgäu/City/Wangen~Allgaeu.internal.md) 
+
+### [Wangen~Allgaeu.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wangen~Allgäu/City/Wangen~Allgaeu.protect.md) 
+
+### [Wangen~Allgaeu.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wangen~Allgäu/City/Wangen~Allgaeu.private.md) 
+
+### [Wangen~Allgaeu.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wangen~Allgäu/City/Wangen~Allgaeu.personal.md) 
+
+### [Wangen~Allgaeu.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wangen~Allgäu/City/Wangen~Allgaeu.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.75,8.96] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Radolfzell|Radolfzell]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Radolfzell.internal|Radolfzell.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Radolfzell.protect|Radolfzell.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Radolfzell.private|Radolfzell.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Radolfzell.personal|Radolfzell.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Radolfzell.secret|Radolfzell.secret]] 
+
+### [Radolfzell](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Radolfzell.md) 
+
+### [Radolfzell.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Radolfzell.internal.md) 
+
+### [Radolfzell.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Radolfzell.protect.md) 
+
+### [Radolfzell.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Radolfzell.private.md) 
+
+### [Radolfzell.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Radolfzell.personal.md) 
+
+### [Radolfzell.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Radolfzell.secret.md) 

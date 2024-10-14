@@ -1,4 +1,4 @@
----
+﻿---
 location: [49,8.82] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -38,9 +38,15 @@ maxZoom: 18
 Klosteranlage Maulbronn ( [[Unesco]] Welterbe seit 1993)
 
 ## Confidential Links & Embeds: 
-- [[Maulbronn|Maulbronn]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Maulbronn.internal|Maulbronn.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Maulbronn.protect|Maulbronn.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Maulbronn.private|Maulbronn.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Maulbronn.personal|Maulbronn.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Maulbronn.secret|Maulbronn.secret]] 
+
+### [Maulbronn](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Maulbronn.md) 
+
+### [Maulbronn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Maulbronn.internal.md) 
+
+### [Maulbronn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Maulbronn.protect.md) 
+
+### [Maulbronn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Maulbronn.private.md) 
+
+### [Maulbronn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Maulbronn.personal.md) 
+
+### [Maulbronn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Maulbronn.secret.md) 

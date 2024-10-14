@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.8,8.03] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Bernau|Bernau]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bernau.internal|Bernau.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bernau.protect|Bernau.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bernau.private|Bernau.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bernau.personal|Bernau.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bernau.secret|Bernau.secret]] 
+
+### [Bernau](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Waldshut/cities~Waldshut/St.Blasien/City/Bernau.md) 
+
+### [Bernau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Waldshut/cities~Waldshut/St.Blasien/City/Bernau.internal.md) 
+
+### [Bernau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Waldshut/cities~Waldshut/St.Blasien/City/Bernau.protect.md) 
+
+### [Bernau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Waldshut/cities~Waldshut/St.Blasien/City/Bernau.private.md) 
+
+### [Bernau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Waldshut/cities~Waldshut/St.Blasien/City/Bernau.personal.md) 
+
+### [Bernau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Waldshut/cities~Waldshut/St.Blasien/City/Bernau.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.73,10.1] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Koenigsbronn|Koenigsbronn]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Koenigsbronn.internal|Koenigsbronn.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Koenigsbronn.protect|Koenigsbronn.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Koenigsbronn.private|Koenigsbronn.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Koenigsbronn.personal|Koenigsbronn.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Koenigsbronn.secret|Koenigsbronn.secret]] 
+
+### [Koenigsbronn](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Königsbronn/City/Koenigsbronn.md) 
+
+### [Koenigsbronn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Königsbronn/City/Koenigsbronn.internal.md) 
+
+### [Koenigsbronn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Königsbronn/City/Koenigsbronn.protect.md) 
+
+### [Koenigsbronn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Königsbronn/City/Koenigsbronn.private.md) 
+
+### [Koenigsbronn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Königsbronn/City/Koenigsbronn.personal.md) 
+
+### [Koenigsbronn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Königsbronn/City/Koenigsbronn.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.5647,8.97421] 
 type: State
 ISO3166-2: DE-BW
@@ -70,9 +70,15 @@ Capital :: [[Baden-Wuerttemberg/Stuttgart]]
 
 
 ## Confidential Links & Embeds: 
-- [[Baden-Wuerttemberg|Baden-Wuerttemberg]]  
-- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg.internal|Baden-Wuerttemberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg.protect|Baden-Wuerttemberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg.private|Baden-Wuerttemberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg.personal|Baden-Wuerttemberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg.secret|Baden-Wuerttemberg.secret]] 
+
+### [ReadMe](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/ReadMe.md) 
+
+### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/ReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/ReadMe.protect.md) 
+
+### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/ReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/ReadMe.secret.md) 

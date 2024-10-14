@@ -1,4 +1,4 @@
----
+﻿---
 location:
   - 48.52
   - 9.05
@@ -41,9 +41,15 @@ Mit insgesamt 350 Kulturdenkmalen, romantischen Plätzen, verwinkelten Gassen un
 bezaubert Tübingen (Baden-Württemberg) seine Besucher. 
 
 ## Confidential Links & Embeds: 
-- [[Tübingen-city|Tuebingen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Tuebingen.internal|Tuebingen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Tuebingen.protect|Tuebingen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Tuebingen.private|Tuebingen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Tuebingen.personal|Tuebingen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Tuebingen.secret|Tuebingen.secret]] 
+
+### [Tübingen-city](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Tübingen-city.md) 
+
+### [Tübingen-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Tübingen-city.internal.md) 
+
+### [Tübingen-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Tübingen-city.protect.md) 
+
+### [Tübingen-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Tübingen-city.private.md) 
+
+### [Tübingen-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Tübingen-city.personal.md) 
+
+### [Tübingen-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Tübingen-city.secret.md) 

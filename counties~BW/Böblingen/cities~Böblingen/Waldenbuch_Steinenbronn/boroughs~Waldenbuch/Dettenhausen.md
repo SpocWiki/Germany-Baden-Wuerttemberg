@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.62,9.12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Dettenhausen|Dettenhausen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Dettenhausen.internal|Dettenhausen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Dettenhausen.protect|Dettenhausen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Dettenhausen.private|Dettenhausen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Dettenhausen.personal|Dettenhausen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Dettenhausen.secret|Dettenhausen.secret]] 
+
+### [Dettenhausen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Waldenbuch_Steinenbronn/boroughs~Waldenbuch/Dettenhausen.md) 
+
+### [Dettenhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Waldenbuch_Steinenbronn/boroughs~Waldenbuch/Dettenhausen.internal.md) 
+
+### [Dettenhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Waldenbuch_Steinenbronn/boroughs~Waldenbuch/Dettenhausen.protect.md) 
+
+### [Dettenhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Waldenbuch_Steinenbronn/boroughs~Waldenbuch/Dettenhausen.private.md) 
+
+### [Dettenhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Waldenbuch_Steinenbronn/boroughs~Waldenbuch/Dettenhausen.personal.md) 
+
+### [Dettenhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Waldenbuch_Steinenbronn/boroughs~Waldenbuch/Dettenhausen.secret.md) 

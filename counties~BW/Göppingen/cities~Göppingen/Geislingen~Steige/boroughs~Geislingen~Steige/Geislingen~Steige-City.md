@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.63,9.83] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Geislingen~Steige|Geislingen~Steige]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Geislingen~Steige.internal|Geislingen~Steige.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Geislingen~Steige.protect|Geislingen~Steige.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Geislingen~Steige.private|Geislingen~Steige.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Geislingen~Steige.personal|Geislingen~Steige.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Geislingen~Steige.secret|Geislingen~Steige.secret]] 
+
+### [Geislingen~Steige-City](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Geislingen~Steige/boroughs~Geislingen~Steige/Geislingen~Steige-City.md) 
+
+### [Geislingen~Steige-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Geislingen~Steige/boroughs~Geislingen~Steige/Geislingen~Steige-City.internal.md) 
+
+### [Geislingen~Steige-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Geislingen~Steige/boroughs~Geislingen~Steige/Geislingen~Steige-City.protect.md) 
+
+### [Geislingen~Steige-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Geislingen~Steige/boroughs~Geislingen~Steige/Geislingen~Steige-City.private.md) 
+
+### [Geislingen~Steige-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Geislingen~Steige/boroughs~Geislingen~Steige/Geislingen~Steige-City.personal.md) 
+
+### [Geislingen~Steige-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Geislingen~Steige/boroughs~Geislingen~Steige/Geislingen~Steige-City.secret.md) 

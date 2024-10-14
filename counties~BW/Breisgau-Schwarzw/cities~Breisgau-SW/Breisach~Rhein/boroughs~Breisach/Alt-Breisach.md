@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.03,7.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Alt-Breisach|Alt-Breisach]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Alt-Breisach.internal|Alt-Breisach.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Alt-Breisach.protect|Alt-Breisach.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Alt-Breisach.private|Alt-Breisach.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Alt-Breisach.personal|Alt-Breisach.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Alt-Breisach.secret|Alt-Breisach.secret]] 
+
+### [Alt-Breisach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Breisach~Rhein/boroughs~Breisach/Alt-Breisach.md) 
+
+### [Alt-Breisach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Breisach~Rhein/boroughs~Breisach/Alt-Breisach.internal.md) 
+
+### [Alt-Breisach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Breisach~Rhein/boroughs~Breisach/Alt-Breisach.protect.md) 
+
+### [Alt-Breisach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Breisach~Rhein/boroughs~Breisach/Alt-Breisach.private.md) 
+
+### [Alt-Breisach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Breisach~Rhein/boroughs~Breisach/Alt-Breisach.personal.md) 
+
+### [Alt-Breisach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Breisach~Rhein/boroughs~Breisach/Alt-Breisach.secret.md) 

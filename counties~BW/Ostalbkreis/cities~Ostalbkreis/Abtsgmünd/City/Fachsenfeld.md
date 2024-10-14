@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.87,10] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Fachsenfeld|Fachsenfeld]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Fachsenfeld.internal|Fachsenfeld.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Fachsenfeld.protect|Fachsenfeld.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Fachsenfeld.private|Fachsenfeld.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Fachsenfeld.personal|Fachsenfeld.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Fachsenfeld.secret|Fachsenfeld.secret]] 
+
+### [Fachsenfeld](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Fachsenfeld.md) 
+
+### [Fachsenfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Fachsenfeld.internal.md) 
+
+### [Fachsenfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Fachsenfeld.protect.md) 
+
+### [Fachsenfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Fachsenfeld.private.md) 
+
+### [Fachsenfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Fachsenfeld.personal.md) 
+
+### [Fachsenfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Fachsenfeld.secret.md) 

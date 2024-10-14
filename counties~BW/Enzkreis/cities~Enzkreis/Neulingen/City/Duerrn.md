@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.95,8.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Duerrn|Duerrn]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Duerrn.internal|Duerrn.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Duerrn.protect|Duerrn.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Duerrn.private|Duerrn.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Duerrn.personal|Duerrn.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Duerrn.secret|Duerrn.secret]] 
+
+### [Duerrn](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Neulingen/City/Duerrn.md) 
+
+### [Duerrn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Neulingen/City/Duerrn.internal.md) 
+
+### [Duerrn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Neulingen/City/Duerrn.protect.md) 
+
+### [Duerrn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Neulingen/City/Duerrn.private.md) 
+
+### [Duerrn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Neulingen/City/Duerrn.personal.md) 
+
+### [Duerrn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Neulingen/City/Duerrn.secret.md) 

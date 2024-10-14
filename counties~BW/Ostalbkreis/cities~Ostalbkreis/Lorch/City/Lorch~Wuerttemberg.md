@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.78,9.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Lorch~Wuerttemberg|Lorch~Wuerttemberg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lorch~Wuerttemberg.internal|Lorch~Wuerttemberg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lorch~Wuerttemberg.protect|Lorch~Wuerttemberg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lorch~Wuerttemberg.private|Lorch~Wuerttemberg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lorch~Wuerttemberg.personal|Lorch~Wuerttemberg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lorch~Wuerttemberg.secret|Lorch~Wuerttemberg.secret]] 
+
+### [Lorch~Wuerttemberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Lorch/City/Lorch~Wuerttemberg.md) 
+
+### [Lorch~Wuerttemberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Lorch/City/Lorch~Wuerttemberg.internal.md) 
+
+### [Lorch~Wuerttemberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Lorch/City/Lorch~Wuerttemberg.protect.md) 
+
+### [Lorch~Wuerttemberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Lorch/City/Lorch~Wuerttemberg.private.md) 
+
+### [Lorch~Wuerttemberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Lorch/City/Lorch~Wuerttemberg.personal.md) 
+
+### [Lorch~Wuerttemberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Lorch/City/Lorch~Wuerttemberg.secret.md) 

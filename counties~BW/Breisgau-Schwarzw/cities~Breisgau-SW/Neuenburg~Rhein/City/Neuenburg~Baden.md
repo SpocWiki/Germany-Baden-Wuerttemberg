@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.82,7.57] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Neuenburg~Baden|Neuenburg~Baden]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neuenburg~Baden.internal|Neuenburg~Baden.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neuenburg~Baden.protect|Neuenburg~Baden.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neuenburg~Baden.private|Neuenburg~Baden.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neuenburg~Baden.personal|Neuenburg~Baden.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neuenburg~Baden.secret|Neuenburg~Baden.secret]] 
+
+### [Neuenburg~Baden](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Neuenburg~Rhein/City/Neuenburg~Baden.md) 
+
+### [Neuenburg~Baden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Neuenburg~Rhein/City/Neuenburg~Baden.internal.md) 
+
+### [Neuenburg~Baden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Neuenburg~Rhein/City/Neuenburg~Baden.protect.md) 
+
+### [Neuenburg~Baden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Neuenburg~Rhein/City/Neuenburg~Baden.private.md) 
+
+### [Neuenburg~Baden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Neuenburg~Rhein/City/Neuenburg~Baden.personal.md) 
+
+### [Neuenburg~Baden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Neuenburg~Rhein/City/Neuenburg~Baden.secret.md) 

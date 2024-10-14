@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.2,7.77] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Kenzingen|Kenzingen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kenzingen.internal|Kenzingen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kenzingen.protect|Kenzingen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kenzingen.private|Kenzingen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kenzingen.personal|Kenzingen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kenzingen.secret|Kenzingen.secret]] 
+
+### [Kenzingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Kenzingen-Herbolzheim/City/Kenzingen.md) 
+
+### [Kenzingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Kenzingen-Herbolzheim/City/Kenzingen.internal.md) 
+
+### [Kenzingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Kenzingen-Herbolzheim/City/Kenzingen.protect.md) 
+
+### [Kenzingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Kenzingen-Herbolzheim/City/Kenzingen.private.md) 
+
+### [Kenzingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Kenzingen-Herbolzheim/City/Kenzingen.personal.md) 
+
+### [Kenzingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Kenzingen-Herbolzheim/City/Kenzingen.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.13,8.23] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Triberg|Triberg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Triberg.internal|Triberg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Triberg.protect|Triberg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Triberg.private|Triberg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Triberg.personal|Triberg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Triberg.secret|Triberg.secret]] 
+
+### [Triberg~Sw](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Raumschaft_Triberg/boroughs~Triberg/Triberg~Sw.md) 
+
+### [Triberg~Sw.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Raumschaft_Triberg/boroughs~Triberg/Triberg~Sw.internal.md) 
+
+### [Triberg~Sw.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Raumschaft_Triberg/boroughs~Triberg/Triberg~Sw.protect.md) 
+
+### [Triberg~Sw.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Raumschaft_Triberg/boroughs~Triberg/Triberg~Sw.private.md) 
+
+### [Triberg~Sw.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Raumschaft_Triberg/boroughs~Triberg/Triberg~Sw.personal.md) 
+
+### [Triberg~Sw.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Raumschaft_Triberg/boroughs~Triberg/Triberg~Sw.secret.md) 

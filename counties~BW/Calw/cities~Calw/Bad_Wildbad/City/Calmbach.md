@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.77,8.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Calmbach|Calmbach]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Calmbach.internal|Calmbach.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Calmbach.protect|Calmbach.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Calmbach.private|Calmbach.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Calmbach.personal|Calmbach.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Calmbach.secret|Calmbach.secret]] 
+
+### [Calmbach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Wildbad/City/Calmbach.md) 
+
+### [Calmbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Wildbad/City/Calmbach.internal.md) 
+
+### [Calmbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Wildbad/City/Calmbach.protect.md) 
+
+### [Calmbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Wildbad/City/Calmbach.private.md) 
+
+### [Calmbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Wildbad/City/Calmbach.personal.md) 
+
+### [Calmbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Wildbad/City/Calmbach.secret.md) 

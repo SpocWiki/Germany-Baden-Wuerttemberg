@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.7,9.68] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Denkendorf|Denkendorf]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Denkendorf.internal|Denkendorf.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Denkendorf.protect|Denkendorf.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Denkendorf.private|Denkendorf.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Denkendorf.personal|Denkendorf.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Denkendorf.secret|Denkendorf.secret]] 
+
+### [Denkendorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Göppingen-city/boroughs~Göppingen/Denkendorf.md) 
+
+### [Denkendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Göppingen-city/boroughs~Göppingen/Denkendorf.internal.md) 
+
+### [Denkendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Göppingen-city/boroughs~Göppingen/Denkendorf.protect.md) 
+
+### [Denkendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Göppingen-city/boroughs~Göppingen/Denkendorf.private.md) 
+
+### [Denkendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Göppingen-city/boroughs~Göppingen/Denkendorf.personal.md) 
+
+### [Denkendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Göppingen-city/boroughs~Göppingen/Denkendorf.secret.md) 

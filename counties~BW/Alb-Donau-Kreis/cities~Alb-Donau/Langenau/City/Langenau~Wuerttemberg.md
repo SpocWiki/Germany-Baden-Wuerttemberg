@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.5,10.12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Langenau~Wuerttemberg|Langenau~Wuerttemberg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Langenau~Wuerttemberg.internal|Langenau~Wuerttemberg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Langenau~Wuerttemberg.protect|Langenau~Wuerttemberg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Langenau~Wuerttemberg.private|Langenau~Wuerttemberg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Langenau~Wuerttemberg.personal|Langenau~Wuerttemberg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Langenau~Wuerttemberg.secret|Langenau~Wuerttemberg.secret]] 
+
+### [Langenau~Wuerttemberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Langenau/City/Langenau~Wuerttemberg.md) 
+
+### [Langenau~Wuerttemberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Langenau/City/Langenau~Wuerttemberg.internal.md) 
+
+### [Langenau~Wuerttemberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Langenau/City/Langenau~Wuerttemberg.protect.md) 
+
+### [Langenau~Wuerttemberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Langenau/City/Langenau~Wuerttemberg.private.md) 
+
+### [Langenau~Wuerttemberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Langenau/City/Langenau~Wuerttemberg.personal.md) 
+
+### [Langenau~Wuerttemberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Langenau/City/Langenau~Wuerttemberg.secret.md) 

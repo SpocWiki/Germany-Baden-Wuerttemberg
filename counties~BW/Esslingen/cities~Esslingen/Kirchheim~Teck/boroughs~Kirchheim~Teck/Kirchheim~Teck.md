@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.65,9.45] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Kirchheim~Teck|Kirchheim~Teck]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kirchheim~Teck.internal|Kirchheim~Teck.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kirchheim~Teck.protect|Kirchheim~Teck.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kirchheim~Teck.private|Kirchheim~Teck.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kirchheim~Teck.personal|Kirchheim~Teck.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kirchheim~Teck.secret|Kirchheim~Teck.secret]] 
+
+### [Kirchheim~Teck](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Kirchheim~Teck/boroughs~Kirchheim~Teck/Kirchheim~Teck.md) 
+
+### [Kirchheim~Teck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Kirchheim~Teck/boroughs~Kirchheim~Teck/Kirchheim~Teck.internal.md) 
+
+### [Kirchheim~Teck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Kirchheim~Teck/boroughs~Kirchheim~Teck/Kirchheim~Teck.protect.md) 
+
+### [Kirchheim~Teck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Kirchheim~Teck/boroughs~Kirchheim~Teck/Kirchheim~Teck.private.md) 
+
+### [Kirchheim~Teck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Kirchheim~Teck/boroughs~Kirchheim~Teck/Kirchheim~Teck.personal.md) 
+
+### [Kirchheim~Teck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Kirchheim~Teck/boroughs~Kirchheim~Teck/Kirchheim~Teck.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.9,9.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Ludwigsburg|Ludwigsburg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Ludwigsburg.internal|Ludwigsburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Ludwigsburg.protect|Ludwigsburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Ludwigsburg.private|Ludwigsburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Ludwigsburg.personal|Ludwigsburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Ludwigsburg.secret|Ludwigsburg.secret]] 
+
+### [Ludwigsburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Ludwigsburg-city/City/Ludwigsburg.md) 
+
+### [Ludwigsburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Ludwigsburg-city/City/Ludwigsburg.internal.md) 
+
+### [Ludwigsburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Ludwigsburg-city/City/Ludwigsburg.protect.md) 
+
+### [Ludwigsburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Ludwigsburg-city/City/Ludwigsburg.private.md) 
+
+### [Ludwigsburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Ludwigsburg-city/City/Ludwigsburg.personal.md) 
+
+### [Ludwigsburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Ludwigsburg-city/City/Ludwigsburg.secret.md) 

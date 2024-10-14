@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.93,8.83] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[MÜhlacker|MÜhlacker]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/MÜhlacker.internal|MÜhlacker.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/MÜhlacker.protect|MÜhlacker.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/MÜhlacker.private|MÜhlacker.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/MÜhlacker.personal|MÜhlacker.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/MÜhlacker.secret|MÜhlacker.secret]] 
+
+### [MÜhlacker](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Mühlacker/City/MÜhlacker.md) 
+
+### [MÜhlacker.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Mühlacker/City/MÜhlacker.internal.md) 
+
+### [MÜhlacker.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Mühlacker/City/MÜhlacker.protect.md) 
+
+### [MÜhlacker.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Mühlacker/City/MÜhlacker.private.md) 
+
+### [MÜhlacker.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Mühlacker/City/MÜhlacker.personal.md) 
+
+### [MÜhlacker.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Mühlacker/City/MÜhlacker.secret.md) 

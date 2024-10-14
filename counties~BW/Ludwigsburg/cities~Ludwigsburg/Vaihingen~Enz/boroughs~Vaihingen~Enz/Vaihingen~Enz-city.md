@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.93,8.95] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Vaihingen|Vaihingen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Vaihingen.internal|Vaihingen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Vaihingen.protect|Vaihingen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Vaihingen.private|Vaihingen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Vaihingen.personal|Vaihingen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Vaihingen.secret|Vaihingen.secret]] 
+
+### [Vaihingen~Enz-city](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Vaihingen~Enz/boroughs~Vaihingen~Enz/Vaihingen~Enz-city.md) 
+
+### [Vaihingen~Enz-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Vaihingen~Enz/boroughs~Vaihingen~Enz/Vaihingen~Enz-city.internal.md) 
+
+### [Vaihingen~Enz-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Vaihingen~Enz/boroughs~Vaihingen~Enz/Vaihingen~Enz-city.protect.md) 
+
+### [Vaihingen~Enz-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Vaihingen~Enz/boroughs~Vaihingen~Enz/Vaihingen~Enz-city.private.md) 
+
+### [Vaihingen~Enz-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Vaihingen~Enz/boroughs~Vaihingen~Enz/Vaihingen~Enz-city.personal.md) 
+
+### [Vaihingen~Enz-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Vaihingen~Enz/boroughs~Vaihingen~Enz/Vaihingen~Enz-city.secret.md) 

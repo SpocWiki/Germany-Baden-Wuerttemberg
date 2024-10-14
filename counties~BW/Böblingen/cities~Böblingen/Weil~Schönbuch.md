@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.63,9.07] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Weil_im_Schoenbuch|Weil_im_Schoenbuch]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weil_im_Schoenbuch.internal|Weil_im_Schoenbuch.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weil_im_Schoenbuch.protect|Weil_im_Schoenbuch.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weil_im_Schoenbuch.private|Weil_im_Schoenbuch.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weil_im_Schoenbuch.personal|Weil_im_Schoenbuch.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weil_im_Schoenbuch.secret|Weil_im_Schoenbuch.secret]] 
+
+### [Weil~Schönbuch](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch.md) 
+
+### [Weil~Schönbuch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch.internal.md) 
+
+### [Weil~Schönbuch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch.protect.md) 
+
+### [Weil~Schönbuch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch.private.md) 
+
+### [Weil~Schönbuch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch.personal.md) 
+
+### [Weil~Schönbuch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch.secret.md) 

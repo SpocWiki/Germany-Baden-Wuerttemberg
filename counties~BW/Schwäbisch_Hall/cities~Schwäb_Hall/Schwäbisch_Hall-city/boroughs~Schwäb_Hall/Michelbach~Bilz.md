@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.07,9.73] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Michelbach~Wuerttemberg|Michelbach~Wuerttemberg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Michelbach~Wuerttemberg.internal|Michelbach~Wuerttemberg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Michelbach~Wuerttemberg.protect|Michelbach~Wuerttemberg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Michelbach~Wuerttemberg.private|Michelbach~Wuerttemberg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Michelbach~Wuerttemberg.personal|Michelbach~Wuerttemberg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Michelbach~Wuerttemberg.secret|Michelbach~Wuerttemberg.secret]] 
+
+### [Michelbach~Bilz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Schwäbisch_Hall-city/boroughs~Schwäb_Hall/Michelbach~Bilz.md) 
+
+### [Michelbach~Bilz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Schwäbisch_Hall-city/boroughs~Schwäb_Hall/Michelbach~Bilz.internal.md) 
+
+### [Michelbach~Bilz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Schwäbisch_Hall-city/boroughs~Schwäb_Hall/Michelbach~Bilz.protect.md) 
+
+### [Michelbach~Bilz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Schwäbisch_Hall-city/boroughs~Schwäb_Hall/Michelbach~Bilz.private.md) 
+
+### [Michelbach~Bilz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Schwäbisch_Hall-city/boroughs~Schwäb_Hall/Michelbach~Bilz.personal.md) 
+
+### [Michelbach~Bilz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Schwäbisch_Hall-city/boroughs~Schwäb_Hall/Michelbach~Bilz.secret.md) 

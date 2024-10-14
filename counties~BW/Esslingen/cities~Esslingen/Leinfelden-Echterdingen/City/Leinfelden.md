@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.68,9.15] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Leinfelden|Leinfelden]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Leinfelden.internal|Leinfelden.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Leinfelden.protect|Leinfelden.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Leinfelden.private|Leinfelden.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Leinfelden.personal|Leinfelden.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Leinfelden.secret|Leinfelden.secret]] 
+
+### [Leinfelden](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Leinfelden-Echterdingen/City/Leinfelden.md) 
+
+### [Leinfelden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Leinfelden-Echterdingen/City/Leinfelden.internal.md) 
+
+### [Leinfelden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Leinfelden-Echterdingen/City/Leinfelden.protect.md) 
+
+### [Leinfelden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Leinfelden-Echterdingen/City/Leinfelden.private.md) 
+
+### [Leinfelden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Leinfelden-Echterdingen/City/Leinfelden.personal.md) 
+
+### [Leinfelden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Leinfelden-Echterdingen/City/Leinfelden.secret.md) 

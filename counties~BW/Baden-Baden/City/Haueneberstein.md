@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.8,8.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Haueneberstein|Haueneberstein]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Haueneberstein.internal|Haueneberstein.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Haueneberstein.protect|Haueneberstein.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Haueneberstein.private|Haueneberstein.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Haueneberstein.personal|Haueneberstein.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Haueneberstein.secret|Haueneberstein.secret]] 
+
+### [Haueneberstein](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Baden-Baden/City/Haueneberstein.md) 
+
+### [Haueneberstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Baden-Baden/City/Haueneberstein.internal.md) 
+
+### [Haueneberstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Baden-Baden/City/Haueneberstein.protect.md) 
+
+### [Haueneberstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Baden-Baden/City/Haueneberstein.private.md) 
+
+### [Haueneberstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Baden-Baden/City/Haueneberstein.personal.md) 
+
+### [Haueneberstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Baden-Baden/City/Haueneberstein.secret.md) 

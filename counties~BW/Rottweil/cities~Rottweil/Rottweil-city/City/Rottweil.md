@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.17,8.63] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Rottweil|Rottweil]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Rottweil.internal|Rottweil.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Rottweil.protect|Rottweil.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Rottweil.private|Rottweil.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Rottweil.personal|Rottweil.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Rottweil.secret|Rottweil.secret]] 
+
+### [Rottweil](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Rottweil-city/City/Rottweil.md) 
+
+### [Rottweil.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Rottweil-city/City/Rottweil.internal.md) 
+
+### [Rottweil.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Rottweil-city/City/Rottweil.protect.md) 
+
+### [Rottweil.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Rottweil-city/City/Rottweil.private.md) 
+
+### [Rottweil.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Rottweil-city/City/Rottweil.personal.md) 
+
+### [Rottweil.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Rottweil-city/City/Rottweil.secret.md) 
