@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.78,9.18] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -12,6 +12,9 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Stuttgart,County]] 
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::9.18] 
@@ -22,11 +25,16 @@ has_place_province:: [[Baden-Wuerttemberg]]
 [Population::] 
 [Unknown::] 
 
+## #has_/map 
 
 ```leaflet
 id: Stuttgart
-coordinates: [[Stuttgart]] 
-markerFile: [[Stuttgart]] 
+coordinates: [[Stuttgart,County]] 
+markerFile: [[Stuttgart,County]] 
+geojsonFolder: ./Stuttgart,County/
+markerFolder: ./Stuttgart,County/
+zoomFeatures: true
+defaultZoom: 11 
 defaultZoom: 11 
 maxZoom: 18
 ```
