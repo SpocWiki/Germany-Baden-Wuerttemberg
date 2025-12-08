@@ -44,9 +44,15 @@ minZoom: 3
 > **Heilbronn** (German pronunciation: [haɪlˈbʁɔn] ) is a city in northern Baden-Württemberg, Germany, 
 > surrounded by the Heilbronn District.
 >
-> From the late Middle Ages on, it developed into an important trading centre. At the beginning of the 19th century, Heilbronn became one of the centres of early industrialisation in Württemberg. Heilbronn's old town was completely destroyed during the air raid of 4 December 1944 and rebuilt in the 1950s. Today Heilbronn is the economic centre of the Heilbronn-Franken region.
+> From the late Middle Ages on, it developed into an important trading centre. 
+> At the beginning of the 19th century, 
+> Heilbronn became one of the centres of early industrialisation in Württemberg. 
+> 
+> Heilbronn's old town was completely destroyed during the air raid of 4 December 1944 and rebuilt in the 1950s. 
+> Today Heilbronn is the economic centre of the Heilbronn-Franken region.
 >
-> Heilbronn is known for its wine industry and is nicknamed Käthchenstadt, after Heinrich von Kleist's Das Käthchen von Heilbronn.
+> Heilbronn is known for its wine industry and is nicknamed Käthchenstadt, 
+> after Heinrich von Kleist's Das Käthchen von Heilbronn.
 >
 > In October 2025, Heilbronn was named the European Green Capital for 2027.
 >
