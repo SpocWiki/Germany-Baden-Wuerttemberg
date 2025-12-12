@@ -28,7 +28,7 @@ has_place_province:: [[Baden-Wuerttemberg]]
 ## #has_/map 
 
 ```leaflet
-id: Heilbronn
+id: Heilbronn,City
 coordinates: [[Heilbronn,City]] 
 markerFile: [[Heilbronn,City]] 
 geojsonFolder: ./Heilbronn,City/
