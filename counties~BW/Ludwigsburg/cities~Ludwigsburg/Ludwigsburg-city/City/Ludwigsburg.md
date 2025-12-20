@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.9,9.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ludwigsburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Ludwigsburg-city/City/Ludwigsburg.md) 
+### #is_/same_as :: [Ludwigsburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Ludwigsburg-city/City/Ludwigsburg.md) 
 
-### [Ludwigsburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Ludwigsburg-city/City/Ludwigsburg.internal.md) 
+### #is_/same_as :: [Ludwigsburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Ludwigsburg-city/City/Ludwigsburg.public.md) 
 
-### [Ludwigsburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Ludwigsburg-city/City/Ludwigsburg.protect.md) 
+### #is_/same_as :: [Ludwigsburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Ludwigsburg-city/City/Ludwigsburg.internal.md) 
 
-### [Ludwigsburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Ludwigsburg-city/City/Ludwigsburg.private.md) 
+### #is_/same_as :: [Ludwigsburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Ludwigsburg-city/City/Ludwigsburg.protect.md) 
 
-### [Ludwigsburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Ludwigsburg-city/City/Ludwigsburg.personal.md) 
+### #is_/same_as :: [Ludwigsburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Ludwigsburg-city/City/Ludwigsburg.private.md) 
 
-### [Ludwigsburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Ludwigsburg-city/City/Ludwigsburg.secret.md) 
+### #is_/same_as :: [Ludwigsburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Ludwigsburg-city/City/Ludwigsburg.personal.md) 
+
+### #is_/same_as :: [Ludwigsburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Ludwigsburg-city/City/Ludwigsburg.secret.md)
+

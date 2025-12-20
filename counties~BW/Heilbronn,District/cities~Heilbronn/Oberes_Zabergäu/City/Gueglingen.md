@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.07,9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gueglingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Oberes_Zabergäu/City/Gueglingen.md) 
+### #is_/same_as :: [Gueglingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Oberes_Zabergäu/City/Gueglingen.md) 
 
-### [Gueglingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Oberes_Zabergäu/City/Gueglingen.internal.md) 
+### #is_/same_as :: [Gueglingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Oberes_Zabergäu/City/Gueglingen.public.md) 
 
-### [Gueglingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Oberes_Zabergäu/City/Gueglingen.protect.md) 
+### #is_/same_as :: [Gueglingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Oberes_Zabergäu/City/Gueglingen.internal.md) 
 
-### [Gueglingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Oberes_Zabergäu/City/Gueglingen.private.md) 
+### #is_/same_as :: [Gueglingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Oberes_Zabergäu/City/Gueglingen.protect.md) 
 
-### [Gueglingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Oberes_Zabergäu/City/Gueglingen.personal.md) 
+### #is_/same_as :: [Gueglingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Oberes_Zabergäu/City/Gueglingen.private.md) 
 
-### [Gueglingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Oberes_Zabergäu/City/Gueglingen.secret.md) 
+### #is_/same_as :: [Gueglingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Oberes_Zabergäu/City/Gueglingen.personal.md) 
+
+### #is_/same_as :: [Gueglingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Oberes_Zabergäu/City/Gueglingen.secret.md)
+

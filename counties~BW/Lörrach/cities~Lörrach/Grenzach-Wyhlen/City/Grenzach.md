@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.57,7.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Grenzach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Grenzach-Wyhlen/City/Grenzach.md) 
+### #is_/same_as :: [Grenzach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Grenzach-Wyhlen/City/Grenzach.md) 
 
-### [Grenzach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Grenzach-Wyhlen/City/Grenzach.internal.md) 
+### #is_/same_as :: [Grenzach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Grenzach-Wyhlen/City/Grenzach.public.md) 
 
-### [Grenzach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Grenzach-Wyhlen/City/Grenzach.protect.md) 
+### #is_/same_as :: [Grenzach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Grenzach-Wyhlen/City/Grenzach.internal.md) 
 
-### [Grenzach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Grenzach-Wyhlen/City/Grenzach.private.md) 
+### #is_/same_as :: [Grenzach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Grenzach-Wyhlen/City/Grenzach.protect.md) 
 
-### [Grenzach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Grenzach-Wyhlen/City/Grenzach.personal.md) 
+### #is_/same_as :: [Grenzach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Grenzach-Wyhlen/City/Grenzach.private.md) 
 
-### [Grenzach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Grenzach-Wyhlen/City/Grenzach.secret.md) 
+### #is_/same_as :: [Grenzach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Grenzach-Wyhlen/City/Grenzach.personal.md) 
+
+### #is_/same_as :: [Grenzach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Grenzach-Wyhlen/City/Grenzach.secret.md)
+

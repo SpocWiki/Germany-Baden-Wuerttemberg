@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.61,8.21] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Waldshut-Tiengen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Waldshut-Tiengen.md) 
+### #is_/same_as :: [Waldshut-Tiengen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Waldshut-Tiengen.md) 
 
-### [Waldshut-Tiengen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Waldshut-Tiengen.internal.md) 
+### #is_/same_as :: [Waldshut-Tiengen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Waldshut-Tiengen.public.md) 
 
-### [Waldshut-Tiengen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Waldshut-Tiengen.protect.md) 
+### #is_/same_as :: [Waldshut-Tiengen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Waldshut-Tiengen.internal.md) 
 
-### [Waldshut-Tiengen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Waldshut-Tiengen.private.md) 
+### #is_/same_as :: [Waldshut-Tiengen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Waldshut-Tiengen.protect.md) 
 
-### [Waldshut-Tiengen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Waldshut-Tiengen.personal.md) 
+### #is_/same_as :: [Waldshut-Tiengen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Waldshut-Tiengen.private.md) 
 
-### [Waldshut-Tiengen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Waldshut-Tiengen.secret.md) 
+### #is_/same_as :: [Waldshut-Tiengen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Waldshut-Tiengen.personal.md) 
+
+### #is_/same_as :: [Waldshut-Tiengen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Waldshut-Tiengen.secret.md)
+

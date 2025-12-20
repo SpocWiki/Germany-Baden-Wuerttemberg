@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.3,9.28] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Metzingen~Baden_Wuerttemberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Trochtelfingen/City/Metzingen~Baden_Wuerttemberg.md) 
+### #is_/same_as :: [Metzingen~Baden_Wuerttemberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Trochtelfingen/City/Metzingen~Baden_Wuerttemberg.md) 
 
-### [Metzingen~Baden_Wuerttemberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Trochtelfingen/City/Metzingen~Baden_Wuerttemberg.internal.md) 
+### #is_/same_as :: [Metzingen~Baden_Wuerttemberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Trochtelfingen/City/Metzingen~Baden_Wuerttemberg.public.md) 
 
-### [Metzingen~Baden_Wuerttemberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Trochtelfingen/City/Metzingen~Baden_Wuerttemberg.protect.md) 
+### #is_/same_as :: [Metzingen~Baden_Wuerttemberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Trochtelfingen/City/Metzingen~Baden_Wuerttemberg.internal.md) 
 
-### [Metzingen~Baden_Wuerttemberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Trochtelfingen/City/Metzingen~Baden_Wuerttemberg.private.md) 
+### #is_/same_as :: [Metzingen~Baden_Wuerttemberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Trochtelfingen/City/Metzingen~Baden_Wuerttemberg.protect.md) 
 
-### [Metzingen~Baden_Wuerttemberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Trochtelfingen/City/Metzingen~Baden_Wuerttemberg.personal.md) 
+### #is_/same_as :: [Metzingen~Baden_Wuerttemberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Trochtelfingen/City/Metzingen~Baden_Wuerttemberg.private.md) 
 
-### [Metzingen~Baden_Wuerttemberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Trochtelfingen/City/Metzingen~Baden_Wuerttemberg.secret.md) 
+### #is_/same_as :: [Metzingen~Baden_Wuerttemberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Trochtelfingen/City/Metzingen~Baden_Wuerttemberg.personal.md) 
+
+### #is_/same_as :: [Metzingen~Baden_Wuerttemberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Trochtelfingen/City/Metzingen~Baden_Wuerttemberg.secret.md)
+

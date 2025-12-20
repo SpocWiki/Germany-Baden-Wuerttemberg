@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.73,10.1] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Koenigsbronn](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Königsbronn/City/Koenigsbronn.md) 
+### #is_/same_as :: [Koenigsbronn](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Königsbronn/City/Koenigsbronn.md) 
 
-### [Koenigsbronn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Königsbronn/City/Koenigsbronn.internal.md) 
+### #is_/same_as :: [Koenigsbronn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Königsbronn/City/Koenigsbronn.public.md) 
 
-### [Koenigsbronn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Königsbronn/City/Koenigsbronn.protect.md) 
+### #is_/same_as :: [Koenigsbronn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Königsbronn/City/Koenigsbronn.internal.md) 
 
-### [Koenigsbronn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Königsbronn/City/Koenigsbronn.private.md) 
+### #is_/same_as :: [Koenigsbronn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Königsbronn/City/Koenigsbronn.protect.md) 
 
-### [Koenigsbronn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Königsbronn/City/Koenigsbronn.personal.md) 
+### #is_/same_as :: [Koenigsbronn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Königsbronn/City/Koenigsbronn.private.md) 
 
-### [Koenigsbronn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Königsbronn/City/Koenigsbronn.secret.md) 
+### #is_/same_as :: [Koenigsbronn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Königsbronn/City/Koenigsbronn.personal.md) 
+
+### #is_/same_as :: [Koenigsbronn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Königsbronn/City/Koenigsbronn.secret.md)
+

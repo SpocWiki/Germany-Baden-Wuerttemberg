@@ -61,14 +61,17 @@ minZoom: 3
 
 ## Confidential Links & Embeds: 
 
-### [Heilbronn-City](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Heilbronn-City.md) 
+### #is_/same_as :: [Heilbronn,City](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Heilbronn,City.md) 
 
-### [Heilbronn-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Heilbronn-City.internal.md) 
+### #is_/same_as :: [Heilbronn,City.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Heilbronn,City.public.md) 
 
-### [Heilbronn-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Heilbronn-City.protect.md) 
+### #is_/same_as :: [Heilbronn,City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Heilbronn,City.internal.md) 
 
-### [Heilbronn-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Heilbronn-City.private.md) 
+### #is_/same_as :: [Heilbronn,City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Heilbronn,City.protect.md) 
 
-### [Heilbronn-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Heilbronn-City.personal.md) 
+### #is_/same_as :: [Heilbronn,City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Heilbronn,City.private.md) 
 
-### [Heilbronn-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Heilbronn-City.secret.md) 
+### #is_/same_as :: [Heilbronn,City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Heilbronn,City.personal.md) 
+
+### #is_/same_as :: [Heilbronn,City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Heilbronn,City.secret.md)
+

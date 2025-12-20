@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.23,9.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kupferzell](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Hohenloher_Ebene/City/Kupferzell.md) 
+### #is_/same_as :: [Kupferzell](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Hohenloher_Ebene/City/Kupferzell.md) 
 
-### [Kupferzell.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Hohenloher_Ebene/City/Kupferzell.internal.md) 
+### #is_/same_as :: [Kupferzell.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Hohenloher_Ebene/City/Kupferzell.public.md) 
 
-### [Kupferzell.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Hohenloher_Ebene/City/Kupferzell.protect.md) 
+### #is_/same_as :: [Kupferzell.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Hohenloher_Ebene/City/Kupferzell.internal.md) 
 
-### [Kupferzell.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Hohenloher_Ebene/City/Kupferzell.private.md) 
+### #is_/same_as :: [Kupferzell.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Hohenloher_Ebene/City/Kupferzell.protect.md) 
 
-### [Kupferzell.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Hohenloher_Ebene/City/Kupferzell.personal.md) 
+### #is_/same_as :: [Kupferzell.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Hohenloher_Ebene/City/Kupferzell.private.md) 
 
-### [Kupferzell.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Hohenloher_Ebene/City/Kupferzell.secret.md) 
+### #is_/same_as :: [Kupferzell.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Hohenloher_Ebene/City/Kupferzell.personal.md) 
+
+### #is_/same_as :: [Kupferzell.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Hohenloher_Ebene/City/Kupferzell.secret.md)
+

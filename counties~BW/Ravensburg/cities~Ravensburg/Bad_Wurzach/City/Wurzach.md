@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.92,9.9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wurzach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Bad_Wurzach/City/Wurzach.md) 
+### #is_/same_as :: [Wurzach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Bad_Wurzach/City/Wurzach.md) 
 
-### [Wurzach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Bad_Wurzach/City/Wurzach.internal.md) 
+### #is_/same_as :: [Wurzach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Bad_Wurzach/City/Wurzach.public.md) 
 
-### [Wurzach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Bad_Wurzach/City/Wurzach.protect.md) 
+### #is_/same_as :: [Wurzach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Bad_Wurzach/City/Wurzach.internal.md) 
 
-### [Wurzach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Bad_Wurzach/City/Wurzach.private.md) 
+### #is_/same_as :: [Wurzach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Bad_Wurzach/City/Wurzach.protect.md) 
 
-### [Wurzach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Bad_Wurzach/City/Wurzach.personal.md) 
+### #is_/same_as :: [Wurzach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Bad_Wurzach/City/Wurzach.private.md) 
 
-### [Wurzach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Bad_Wurzach/City/Wurzach.secret.md) 
+### #is_/same_as :: [Wurzach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Bad_Wurzach/City/Wurzach.personal.md) 
+
+### #is_/same_as :: [Wurzach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Bad_Wurzach/City/Wurzach.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.63,8.88] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nufringen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Herrenberg/City/Nufringen.md) 
+### #is_/same_as :: [Nufringen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Herrenberg/City/Nufringen.md) 
 
-### [Nufringen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Herrenberg/City/Nufringen.internal.md) 
+### #is_/same_as :: [Nufringen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Herrenberg/City/Nufringen.public.md) 
 
-### [Nufringen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Herrenberg/City/Nufringen.protect.md) 
+### #is_/same_as :: [Nufringen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Herrenberg/City/Nufringen.internal.md) 
 
-### [Nufringen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Herrenberg/City/Nufringen.private.md) 
+### #is_/same_as :: [Nufringen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Herrenberg/City/Nufringen.protect.md) 
 
-### [Nufringen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Herrenberg/City/Nufringen.personal.md) 
+### #is_/same_as :: [Nufringen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Herrenberg/City/Nufringen.private.md) 
 
-### [Nufringen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Herrenberg/City/Nufringen.secret.md) 
+### #is_/same_as :: [Nufringen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Herrenberg/City/Nufringen.personal.md) 
+
+### #is_/same_as :: [Nufringen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Herrenberg/City/Nufringen.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.18,9.63] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Waldenburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Hohenloher_Ebene/City/Waldenburg.md) 
+### #is_/same_as :: [Waldenburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Hohenloher_Ebene/City/Waldenburg.md) 
 
-### [Waldenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Hohenloher_Ebene/City/Waldenburg.internal.md) 
+### #is_/same_as :: [Waldenburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Hohenloher_Ebene/City/Waldenburg.public.md) 
 
-### [Waldenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Hohenloher_Ebene/City/Waldenburg.protect.md) 
+### #is_/same_as :: [Waldenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Hohenloher_Ebene/City/Waldenburg.internal.md) 
 
-### [Waldenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Hohenloher_Ebene/City/Waldenburg.private.md) 
+### #is_/same_as :: [Waldenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Hohenloher_Ebene/City/Waldenburg.protect.md) 
 
-### [Waldenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Hohenloher_Ebene/City/Waldenburg.personal.md) 
+### #is_/same_as :: [Waldenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Hohenloher_Ebene/City/Waldenburg.private.md) 
 
-### [Waldenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Hohenloher_Ebene/City/Waldenburg.secret.md) 
+### #is_/same_as :: [Waldenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Hohenloher_Ebene/City/Waldenburg.personal.md) 
+
+### #is_/same_as :: [Waldenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Hohenloher_Ebene/City/Waldenburg.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48,7.85] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -40,16 +40,20 @@ Durch das Schwabentor und Martinstor gelangt der Besucher auf den Münsterplatz,
 das historische Zentrum der Altstadt, 
 mit seiner aus dem Mittelalter stammenden Kirche.
 
+
 ## Confidential Links & Embeds: 
 
-### [Freiburg,Breisgau-city](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Freiburg,Breisgau-city.md) 
+### #is_/same_as :: [Freiburg,Breisgau-city](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Freiburg,Breisgau-city.md) 
 
-### [Freiburg,Breisgau-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Freiburg,Breisgau-city.internal.md) 
+### #is_/same_as :: [Freiburg,Breisgau-city.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Freiburg,Breisgau-city.public.md) 
 
-### [Freiburg,Breisgau-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Freiburg,Breisgau-city.protect.md) 
+### #is_/same_as :: [Freiburg,Breisgau-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Freiburg,Breisgau-city.internal.md) 
 
-### [Freiburg,Breisgau-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Freiburg,Breisgau-city.private.md) 
+### #is_/same_as :: [Freiburg,Breisgau-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Freiburg,Breisgau-city.protect.md) 
 
-### [Freiburg,Breisgau-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Freiburg,Breisgau-city.personal.md) 
+### #is_/same_as :: [Freiburg,Breisgau-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Freiburg,Breisgau-city.private.md) 
 
-### [Freiburg,Breisgau-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Freiburg,Breisgau-city.secret.md) 
+### #is_/same_as :: [Freiburg,Breisgau-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Freiburg,Breisgau-city.personal.md) 
+
+### #is_/same_as :: [Freiburg,Breisgau-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Freiburg,Breisgau-city.secret.md)
+

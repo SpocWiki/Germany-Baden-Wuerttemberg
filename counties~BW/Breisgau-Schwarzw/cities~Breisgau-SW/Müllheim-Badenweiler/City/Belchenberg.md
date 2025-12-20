@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.82,7.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Belchenberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Müllheim-Badenweiler/City/Belchenberg.md) 
+### #is_/same_as :: [Belchenberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Müllheim-Badenweiler/City/Belchenberg.md) 
 
-### [Belchenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Müllheim-Badenweiler/City/Belchenberg.internal.md) 
+### #is_/same_as :: [Belchenberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Müllheim-Badenweiler/City/Belchenberg.public.md) 
 
-### [Belchenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Müllheim-Badenweiler/City/Belchenberg.protect.md) 
+### #is_/same_as :: [Belchenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Müllheim-Badenweiler/City/Belchenberg.internal.md) 
 
-### [Belchenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Müllheim-Badenweiler/City/Belchenberg.private.md) 
+### #is_/same_as :: [Belchenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Müllheim-Badenweiler/City/Belchenberg.protect.md) 
 
-### [Belchenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Müllheim-Badenweiler/City/Belchenberg.personal.md) 
+### #is_/same_as :: [Belchenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Müllheim-Badenweiler/City/Belchenberg.private.md) 
 
-### [Belchenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Müllheim-Badenweiler/City/Belchenberg.secret.md) 
+### #is_/same_as :: [Belchenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Müllheim-Badenweiler/City/Belchenberg.personal.md) 
+
+### #is_/same_as :: [Belchenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Müllheim-Badenweiler/City/Belchenberg.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.9,9.08] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Markgroeningen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Markgröningen/City/Markgroeningen.md) 
+### #is_/same_as :: [Markgroeningen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Markgröningen/City/Markgroeningen.md) 
 
-### [Markgroeningen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Markgröningen/City/Markgroeningen.internal.md) 
+### #is_/same_as :: [Markgroeningen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Markgröningen/City/Markgroeningen.public.md) 
 
-### [Markgroeningen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Markgröningen/City/Markgroeningen.protect.md) 
+### #is_/same_as :: [Markgroeningen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Markgröningen/City/Markgroeningen.internal.md) 
 
-### [Markgroeningen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Markgröningen/City/Markgroeningen.private.md) 
+### #is_/same_as :: [Markgroeningen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Markgröningen/City/Markgroeningen.protect.md) 
 
-### [Markgroeningen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Markgröningen/City/Markgroeningen.personal.md) 
+### #is_/same_as :: [Markgroeningen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Markgröningen/City/Markgroeningen.private.md) 
 
-### [Markgroeningen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Markgröningen/City/Markgroeningen.secret.md) 
+### #is_/same_as :: [Markgroeningen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Markgröningen/City/Markgroeningen.personal.md) 
+
+### #is_/same_as :: [Markgroeningen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Markgröningen/City/Markgroeningen.secret.md)
+

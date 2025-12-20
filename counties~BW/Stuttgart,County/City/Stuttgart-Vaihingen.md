@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.73,9.12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stuttgart-Vaihingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart/City/Stuttgart-Vaihingen.md) 
+### #is_/same_as :: [Stuttgart-Vaihingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart-Vaihingen.md) 
 
-### [Stuttgart-Vaihingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart/City/Stuttgart-Vaihingen.internal.md) 
+### #is_/same_as :: [Stuttgart-Vaihingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart-Vaihingen.public.md) 
 
-### [Stuttgart-Vaihingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart/City/Stuttgart-Vaihingen.protect.md) 
+### #is_/same_as :: [Stuttgart-Vaihingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart-Vaihingen.internal.md) 
 
-### [Stuttgart-Vaihingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart/City/Stuttgart-Vaihingen.private.md) 
+### #is_/same_as :: [Stuttgart-Vaihingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart-Vaihingen.protect.md) 
 
-### [Stuttgart-Vaihingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart/City/Stuttgart-Vaihingen.personal.md) 
+### #is_/same_as :: [Stuttgart-Vaihingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart-Vaihingen.private.md) 
 
-### [Stuttgart-Vaihingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart/City/Stuttgart-Vaihingen.secret.md) 
+### #is_/same_as :: [Stuttgart-Vaihingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart-Vaihingen.personal.md) 
+
+### #is_/same_as :: [Stuttgart-Vaihingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart-Vaihingen.secret.md)
+

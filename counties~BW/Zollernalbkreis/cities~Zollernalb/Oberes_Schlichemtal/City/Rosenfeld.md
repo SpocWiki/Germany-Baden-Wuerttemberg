@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.22,8.73] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rosenfeld](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Oberes_Schlichemtal/City/Rosenfeld.md) 
+### #is_/same_as :: [Rosenfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Oberes_Schlichemtal/City/Rosenfeld.md) 
 
-### [Rosenfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Oberes_Schlichemtal/City/Rosenfeld.internal.md) 
+### #is_/same_as :: [Rosenfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Oberes_Schlichemtal/City/Rosenfeld.public.md) 
 
-### [Rosenfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Oberes_Schlichemtal/City/Rosenfeld.protect.md) 
+### #is_/same_as :: [Rosenfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Oberes_Schlichemtal/City/Rosenfeld.internal.md) 
 
-### [Rosenfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Oberes_Schlichemtal/City/Rosenfeld.private.md) 
+### #is_/same_as :: [Rosenfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Oberes_Schlichemtal/City/Rosenfeld.protect.md) 
 
-### [Rosenfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Oberes_Schlichemtal/City/Rosenfeld.personal.md) 
+### #is_/same_as :: [Rosenfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Oberes_Schlichemtal/City/Rosenfeld.private.md) 
 
-### [Rosenfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Oberes_Schlichemtal/City/Rosenfeld.secret.md) 
+### #is_/same_as :: [Rosenfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Oberes_Schlichemtal/City/Rosenfeld.personal.md) 
+
+### #is_/same_as :: [Rosenfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Oberes_Schlichemtal/City/Rosenfeld.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.88,9.63] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mochenwangen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Fronreute-Wolpertswende/City/Mochenwangen.md) 
+### #is_/same_as :: [Mochenwangen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Fronreute-Wolpertswende/City/Mochenwangen.md) 
 
-### [Mochenwangen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Fronreute-Wolpertswende/City/Mochenwangen.internal.md) 
+### #is_/same_as :: [Mochenwangen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Fronreute-Wolpertswende/City/Mochenwangen.public.md) 
 
-### [Mochenwangen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Fronreute-Wolpertswende/City/Mochenwangen.protect.md) 
+### #is_/same_as :: [Mochenwangen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Fronreute-Wolpertswende/City/Mochenwangen.internal.md) 
 
-### [Mochenwangen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Fronreute-Wolpertswende/City/Mochenwangen.private.md) 
+### #is_/same_as :: [Mochenwangen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Fronreute-Wolpertswende/City/Mochenwangen.protect.md) 
 
-### [Mochenwangen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Fronreute-Wolpertswende/City/Mochenwangen.personal.md) 
+### #is_/same_as :: [Mochenwangen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Fronreute-Wolpertswende/City/Mochenwangen.private.md) 
 
-### [Mochenwangen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Fronreute-Wolpertswende/City/Mochenwangen.secret.md) 
+### #is_/same_as :: [Mochenwangen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Fronreute-Wolpertswende/City/Mochenwangen.personal.md) 
+
+### #is_/same_as :: [Mochenwangen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Fronreute-Wolpertswende/City/Mochenwangen.secret.md)
+

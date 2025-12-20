@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.55,8.83] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nebringen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Oberes_Gäu/City/Nebringen.md) 
+### #is_/same_as :: [Nebringen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Oberes_Gäu/City/Nebringen.md) 
 
-### [Nebringen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Oberes_Gäu/City/Nebringen.internal.md) 
+### #is_/same_as :: [Nebringen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Oberes_Gäu/City/Nebringen.public.md) 
 
-### [Nebringen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Oberes_Gäu/City/Nebringen.protect.md) 
+### #is_/same_as :: [Nebringen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Oberes_Gäu/City/Nebringen.internal.md) 
 
-### [Nebringen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Oberes_Gäu/City/Nebringen.private.md) 
+### #is_/same_as :: [Nebringen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Oberes_Gäu/City/Nebringen.protect.md) 
 
-### [Nebringen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Oberes_Gäu/City/Nebringen.personal.md) 
+### #is_/same_as :: [Nebringen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Oberes_Gäu/City/Nebringen.private.md) 
 
-### [Nebringen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Oberes_Gäu/City/Nebringen.secret.md) 
+### #is_/same_as :: [Nebringen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Oberes_Gäu/City/Nebringen.personal.md) 
+
+### #is_/same_as :: [Nebringen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Oberes_Gäu/City/Nebringen.secret.md)
+

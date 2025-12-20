@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.13,9.12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Storzingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Stetten~kalten_Markt/City/Storzingen.md) 
+### #is_/same_as :: [Storzingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Stetten~kalten_Markt/City/Storzingen.md) 
 
-### [Storzingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Stetten~kalten_Markt/City/Storzingen.internal.md) 
+### #is_/same_as :: [Storzingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Stetten~kalten_Markt/City/Storzingen.public.md) 
 
-### [Storzingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Stetten~kalten_Markt/City/Storzingen.protect.md) 
+### #is_/same_as :: [Storzingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Stetten~kalten_Markt/City/Storzingen.internal.md) 
 
-### [Storzingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Stetten~kalten_Markt/City/Storzingen.private.md) 
+### #is_/same_as :: [Storzingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Stetten~kalten_Markt/City/Storzingen.protect.md) 
 
-### [Storzingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Stetten~kalten_Markt/City/Storzingen.personal.md) 
+### #is_/same_as :: [Storzingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Stetten~kalten_Markt/City/Storzingen.private.md) 
 
-### [Storzingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Stetten~kalten_Markt/City/Storzingen.secret.md) 
+### #is_/same_as :: [Storzingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Stetten~kalten_Markt/City/Storzingen.personal.md) 
+
+### #is_/same_as :: [Storzingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Stetten~kalten_Markt/City/Storzingen.secret.md)
+

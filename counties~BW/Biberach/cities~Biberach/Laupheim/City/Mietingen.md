@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.18,9.9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mietingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Laupheim/City/Mietingen.md) 
+### #is_/same_as :: [Mietingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Laupheim/City/Mietingen.md) 
 
-### [Mietingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Laupheim/City/Mietingen.internal.md) 
+### #is_/same_as :: [Mietingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Laupheim/City/Mietingen.public.md) 
 
-### [Mietingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Laupheim/City/Mietingen.protect.md) 
+### #is_/same_as :: [Mietingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Laupheim/City/Mietingen.internal.md) 
 
-### [Mietingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Laupheim/City/Mietingen.private.md) 
+### #is_/same_as :: [Mietingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Laupheim/City/Mietingen.protect.md) 
 
-### [Mietingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Laupheim/City/Mietingen.personal.md) 
+### #is_/same_as :: [Mietingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Laupheim/City/Mietingen.private.md) 
 
-### [Mietingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Laupheim/City/Mietingen.secret.md) 
+### #is_/same_as :: [Mietingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Laupheim/City/Mietingen.personal.md) 
+
+### #is_/same_as :: [Mietingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Laupheim/City/Mietingen.secret.md)
+

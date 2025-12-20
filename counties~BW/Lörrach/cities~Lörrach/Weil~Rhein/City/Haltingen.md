@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.62,7.62] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Haltingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Weil~Rhein/City/Haltingen.md) 
+### #is_/same_as :: [Haltingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Weil~Rhein/City/Haltingen.md) 
 
-### [Haltingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Weil~Rhein/City/Haltingen.internal.md) 
+### #is_/same_as :: [Haltingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Weil~Rhein/City/Haltingen.public.md) 
 
-### [Haltingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Weil~Rhein/City/Haltingen.protect.md) 
+### #is_/same_as :: [Haltingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Weil~Rhein/City/Haltingen.internal.md) 
 
-### [Haltingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Weil~Rhein/City/Haltingen.private.md) 
+### #is_/same_as :: [Haltingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Weil~Rhein/City/Haltingen.protect.md) 
 
-### [Haltingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Weil~Rhein/City/Haltingen.personal.md) 
+### #is_/same_as :: [Haltingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Weil~Rhein/City/Haltingen.private.md) 
 
-### [Haltingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Weil~Rhein/City/Haltingen.secret.md) 
+### #is_/same_as :: [Haltingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Weil~Rhein/City/Haltingen.personal.md) 
+
+### #is_/same_as :: [Haltingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Weil~Rhein/City/Haltingen.secret.md)
+

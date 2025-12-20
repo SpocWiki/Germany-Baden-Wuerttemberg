@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.68,9.85] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wangen~Allgaeu](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wangen~Allgäu/City/Wangen~Allgaeu.md) 
+### #is_/same_as :: [Wangen~Allgaeu](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wangen~Allgäu/City/Wangen~Allgaeu.md) 
 
-### [Wangen~Allgaeu.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wangen~Allgäu/City/Wangen~Allgaeu.internal.md) 
+### #is_/same_as :: [Wangen~Allgaeu.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wangen~Allgäu/City/Wangen~Allgaeu.public.md) 
 
-### [Wangen~Allgaeu.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wangen~Allgäu/City/Wangen~Allgaeu.protect.md) 
+### #is_/same_as :: [Wangen~Allgaeu.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wangen~Allgäu/City/Wangen~Allgaeu.internal.md) 
 
-### [Wangen~Allgaeu.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wangen~Allgäu/City/Wangen~Allgaeu.private.md) 
+### #is_/same_as :: [Wangen~Allgaeu.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wangen~Allgäu/City/Wangen~Allgaeu.protect.md) 
 
-### [Wangen~Allgaeu.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wangen~Allgäu/City/Wangen~Allgaeu.personal.md) 
+### #is_/same_as :: [Wangen~Allgaeu.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wangen~Allgäu/City/Wangen~Allgaeu.private.md) 
 
-### [Wangen~Allgaeu.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wangen~Allgäu/City/Wangen~Allgaeu.secret.md) 
+### #is_/same_as :: [Wangen~Allgaeu.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wangen~Allgäu/City/Wangen~Allgaeu.personal.md) 
+
+### #is_/same_as :: [Wangen~Allgaeu.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wangen~Allgäu/City/Wangen~Allgaeu.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
   - 48.52
   - 9.05
@@ -40,16 +40,20 @@ maxZoom: 18
 Mit insgesamt 350 Kulturdenkmalen, romantischen Plätzen, verwinkelten Gassen und der historischen Neckarfront 
 bezaubert Tübingen (Baden-Württemberg) seine Besucher. 
 
+
 ## Confidential Links & Embeds: 
 
-### [Tübingen-city](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Tübingen-city.md) 
+### #is_/same_as :: [Tübingen-city](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Tübingen-city.md) 
 
-### [Tübingen-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Tübingen-city.internal.md) 
+### #is_/same_as :: [Tübingen-city.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Tübingen-city.public.md) 
 
-### [Tübingen-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Tübingen-city.protect.md) 
+### #is_/same_as :: [Tübingen-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Tübingen-city.internal.md) 
 
-### [Tübingen-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Tübingen-city.private.md) 
+### #is_/same_as :: [Tübingen-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Tübingen-city.protect.md) 
 
-### [Tübingen-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Tübingen-city.personal.md) 
+### #is_/same_as :: [Tübingen-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Tübingen-city.private.md) 
 
-### [Tübingen-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Tübingen-city.secret.md) 
+### #is_/same_as :: [Tübingen-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Tübingen-city.personal.md) 
+
+### #is_/same_as :: [Tübingen-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Tübingen-city.secret.md)
+

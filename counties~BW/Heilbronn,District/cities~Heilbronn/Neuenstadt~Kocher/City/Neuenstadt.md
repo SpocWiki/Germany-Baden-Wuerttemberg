@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.23,9.33] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neuenstadt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Neuenstadt~Kocher/City/Neuenstadt.md) 
+### #is_/same_as :: [Neuenstadt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Neuenstadt~Kocher/City/Neuenstadt.md) 
 
-### [Neuenstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Neuenstadt~Kocher/City/Neuenstadt.internal.md) 
+### #is_/same_as :: [Neuenstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Neuenstadt~Kocher/City/Neuenstadt.public.md) 
 
-### [Neuenstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Neuenstadt~Kocher/City/Neuenstadt.protect.md) 
+### #is_/same_as :: [Neuenstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Neuenstadt~Kocher/City/Neuenstadt.internal.md) 
 
-### [Neuenstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Neuenstadt~Kocher/City/Neuenstadt.private.md) 
+### #is_/same_as :: [Neuenstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Neuenstadt~Kocher/City/Neuenstadt.protect.md) 
 
-### [Neuenstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Neuenstadt~Kocher/City/Neuenstadt.personal.md) 
+### #is_/same_as :: [Neuenstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Neuenstadt~Kocher/City/Neuenstadt.private.md) 
 
-### [Neuenstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Neuenstadt~Kocher/City/Neuenstadt.secret.md) 
+### #is_/same_as :: [Neuenstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Neuenstadt~Kocher/City/Neuenstadt.personal.md) 
+
+### #is_/same_as :: [Neuenstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Neuenstadt~Kocher/City/Neuenstadt.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.75,8.47] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Braeunlingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Braeunlingen.md) 
+### #is_/same_as :: [Braeunlingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Braeunlingen.md) 
 
-### [Braeunlingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Braeunlingen.internal.md) 
+### #is_/same_as :: [Braeunlingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Braeunlingen.public.md) 
 
-### [Braeunlingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Braeunlingen.protect.md) 
+### #is_/same_as :: [Braeunlingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Braeunlingen.internal.md) 
 
-### [Braeunlingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Braeunlingen.private.md) 
+### #is_/same_as :: [Braeunlingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Braeunlingen.protect.md) 
 
-### [Braeunlingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Braeunlingen.personal.md) 
+### #is_/same_as :: [Braeunlingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Braeunlingen.private.md) 
 
-### [Braeunlingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Braeunlingen.secret.md) 
+### #is_/same_as :: [Braeunlingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Braeunlingen.personal.md) 
+
+### #is_/same_as :: [Braeunlingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Braeunlingen.secret.md)
+

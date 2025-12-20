@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.68,9.05] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -38,16 +38,20 @@ maxZoom: 18
 ![[../../../../../../../../../assets/geo/Europe/Germany/Reichenau.webp]] 
 Klosterinsel Reichenau ( [[Unesco]] Welterbe seit 2000) 
 
+
 ## Confidential Links & Embeds: 
 
-### [Reichenau](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Reichenau.md) 
+### #is_/same_as :: [Reichenau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Reichenau.md) 
 
-### [Reichenau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Reichenau.internal.md) 
+### #is_/same_as :: [Reichenau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Reichenau.public.md) 
 
-### [Reichenau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Reichenau.protect.md) 
+### #is_/same_as :: [Reichenau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Reichenau.internal.md) 
 
-### [Reichenau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Reichenau.private.md) 
+### #is_/same_as :: [Reichenau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Reichenau.protect.md) 
 
-### [Reichenau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Reichenau.personal.md) 
+### #is_/same_as :: [Reichenau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Reichenau.private.md) 
 
-### [Reichenau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Reichenau.secret.md) 
+### #is_/same_as :: [Reichenau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Reichenau.personal.md) 
+
+### #is_/same_as :: [Reichenau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Reichenau.secret.md)
+

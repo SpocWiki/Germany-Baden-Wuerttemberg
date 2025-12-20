@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.12,9.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nordheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Lauffen~Neckar/City/Nordheim.md) 
+### #is_/same_as :: [Nordheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Lauffen~Neckar/City/Nordheim.md) 
 
-### [Nordheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Lauffen~Neckar/City/Nordheim.internal.md) 
+### #is_/same_as :: [Nordheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Lauffen~Neckar/City/Nordheim.public.md) 
 
-### [Nordheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Lauffen~Neckar/City/Nordheim.protect.md) 
+### #is_/same_as :: [Nordheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Lauffen~Neckar/City/Nordheim.internal.md) 
 
-### [Nordheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Lauffen~Neckar/City/Nordheim.private.md) 
+### #is_/same_as :: [Nordheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Lauffen~Neckar/City/Nordheim.protect.md) 
 
-### [Nordheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Lauffen~Neckar/City/Nordheim.personal.md) 
+### #is_/same_as :: [Nordheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Lauffen~Neckar/City/Nordheim.private.md) 
 
-### [Nordheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Lauffen~Neckar/City/Nordheim.secret.md) 
+### #is_/same_as :: [Nordheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Lauffen~Neckar/City/Nordheim.personal.md) 
+
+### #is_/same_as :: [Nordheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Lauffen~Neckar/City/Nordheim.secret.md)
+

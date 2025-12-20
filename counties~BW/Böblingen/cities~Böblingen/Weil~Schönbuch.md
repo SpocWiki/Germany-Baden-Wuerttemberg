@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.63,9.07] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Weil~Schönbuch](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch.md) 
+### #is_/same_as :: [Weil~Schönbuch](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch.md) 
 
-### [Weil~Schönbuch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch.internal.md) 
+### #is_/same_as :: [Weil~Schönbuch.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch.public.md) 
 
-### [Weil~Schönbuch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch.protect.md) 
+### #is_/same_as :: [Weil~Schönbuch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch.internal.md) 
 
-### [Weil~Schönbuch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch.private.md) 
+### #is_/same_as :: [Weil~Schönbuch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch.protect.md) 
 
-### [Weil~Schönbuch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch.personal.md) 
+### #is_/same_as :: [Weil~Schönbuch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch.private.md) 
 
-### [Weil~Schönbuch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch.secret.md) 
+### #is_/same_as :: [Weil~Schönbuch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch.personal.md) 
+
+### #is_/same_as :: [Weil~Schönbuch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch.secret.md)
+

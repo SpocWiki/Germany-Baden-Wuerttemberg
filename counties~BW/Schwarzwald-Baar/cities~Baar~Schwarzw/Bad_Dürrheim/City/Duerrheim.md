@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.02,8.53] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Duerrheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Bad_Dürrheim/City/Duerrheim.md) 
+### #is_/same_as :: [Duerrheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Bad_Dürrheim/City/Duerrheim.md) 
 
-### [Duerrheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Bad_Dürrheim/City/Duerrheim.internal.md) 
+### #is_/same_as :: [Duerrheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Bad_Dürrheim/City/Duerrheim.public.md) 
 
-### [Duerrheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Bad_Dürrheim/City/Duerrheim.protect.md) 
+### #is_/same_as :: [Duerrheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Bad_Dürrheim/City/Duerrheim.internal.md) 
 
-### [Duerrheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Bad_Dürrheim/City/Duerrheim.private.md) 
+### #is_/same_as :: [Duerrheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Bad_Dürrheim/City/Duerrheim.protect.md) 
 
-### [Duerrheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Bad_Dürrheim/City/Duerrheim.personal.md) 
+### #is_/same_as :: [Duerrheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Bad_Dürrheim/City/Duerrheim.private.md) 
 
-### [Duerrheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Bad_Dürrheim/City/Duerrheim.secret.md) 
+### #is_/same_as :: [Duerrheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Bad_Dürrheim/City/Duerrheim.personal.md) 
+
+### #is_/same_as :: [Duerrheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Bad_Dürrheim/City/Duerrheim.secret.md)
+

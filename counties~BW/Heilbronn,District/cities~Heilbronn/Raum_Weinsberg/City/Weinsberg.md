@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.17,9.3] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Weinsberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Raum_Weinsberg/City/Weinsberg.md) 
+### #is_/same_as :: [Weinsberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Raum_Weinsberg/City/Weinsberg.md) 
 
-### [Weinsberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Raum_Weinsberg/City/Weinsberg.internal.md) 
+### #is_/same_as :: [Weinsberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Raum_Weinsberg/City/Weinsberg.public.md) 
 
-### [Weinsberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Raum_Weinsberg/City/Weinsberg.protect.md) 
+### #is_/same_as :: [Weinsberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Raum_Weinsberg/City/Weinsberg.internal.md) 
 
-### [Weinsberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Raum_Weinsberg/City/Weinsberg.private.md) 
+### #is_/same_as :: [Weinsberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Raum_Weinsberg/City/Weinsberg.protect.md) 
 
-### [Weinsberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Raum_Weinsberg/City/Weinsberg.personal.md) 
+### #is_/same_as :: [Weinsberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Raum_Weinsberg/City/Weinsberg.private.md) 
 
-### [Weinsberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Raum_Weinsberg/City/Weinsberg.secret.md) 
+### #is_/same_as :: [Weinsberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Raum_Weinsberg/City/Weinsberg.personal.md) 
+
+### #is_/same_as :: [Weinsberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Raum_Weinsberg/City/Weinsberg.secret.md)
+

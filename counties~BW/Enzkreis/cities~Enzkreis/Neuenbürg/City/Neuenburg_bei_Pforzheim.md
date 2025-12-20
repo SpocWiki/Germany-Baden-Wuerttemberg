@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.85,8.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neuenburg_bei_Pforzheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Neuenbürg/City/Neuenburg_bei_Pforzheim.md) 
+### #is_/same_as :: [Neuenburg_bei_Pforzheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Neuenbürg/City/Neuenburg_bei_Pforzheim.md) 
 
-### [Neuenburg_bei_Pforzheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Neuenbürg/City/Neuenburg_bei_Pforzheim.internal.md) 
+### #is_/same_as :: [Neuenburg_bei_Pforzheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Neuenbürg/City/Neuenburg_bei_Pforzheim.public.md) 
 
-### [Neuenburg_bei_Pforzheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Neuenbürg/City/Neuenburg_bei_Pforzheim.protect.md) 
+### #is_/same_as :: [Neuenburg_bei_Pforzheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Neuenbürg/City/Neuenburg_bei_Pforzheim.internal.md) 
 
-### [Neuenburg_bei_Pforzheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Neuenbürg/City/Neuenburg_bei_Pforzheim.private.md) 
+### #is_/same_as :: [Neuenburg_bei_Pforzheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Neuenbürg/City/Neuenburg_bei_Pforzheim.protect.md) 
 
-### [Neuenburg_bei_Pforzheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Neuenbürg/City/Neuenburg_bei_Pforzheim.personal.md) 
+### #is_/same_as :: [Neuenburg_bei_Pforzheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Neuenbürg/City/Neuenburg_bei_Pforzheim.private.md) 
 
-### [Neuenburg_bei_Pforzheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Neuenbürg/City/Neuenburg_bei_Pforzheim.secret.md) 
+### #is_/same_as :: [Neuenburg_bei_Pforzheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Neuenbürg/City/Neuenburg_bei_Pforzheim.personal.md) 
+
+### #is_/same_as :: [Neuenburg_bei_Pforzheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Neuenbürg/City/Neuenburg_bei_Pforzheim.secret.md)
+

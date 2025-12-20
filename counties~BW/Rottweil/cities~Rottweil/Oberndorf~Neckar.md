@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.3,8.57] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oberndorf~Neckar](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Oberndorf~Neckar.md) 
+### #is_/same_as :: [Oberndorf~Neckar](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Oberndorf~Neckar.md) 
 
-### [Oberndorf~Neckar.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Oberndorf~Neckar.internal.md) 
+### #is_/same_as :: [Oberndorf~Neckar.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Oberndorf~Neckar.public.md) 
 
-### [Oberndorf~Neckar.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Oberndorf~Neckar.protect.md) 
+### #is_/same_as :: [Oberndorf~Neckar.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Oberndorf~Neckar.internal.md) 
 
-### [Oberndorf~Neckar.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Oberndorf~Neckar.private.md) 
+### #is_/same_as :: [Oberndorf~Neckar.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Oberndorf~Neckar.protect.md) 
 
-### [Oberndorf~Neckar.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Oberndorf~Neckar.personal.md) 
+### #is_/same_as :: [Oberndorf~Neckar.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Oberndorf~Neckar.private.md) 
 
-### [Oberndorf~Neckar.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Oberndorf~Neckar.secret.md) 
+### #is_/same_as :: [Oberndorf~Neckar.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Oberndorf~Neckar.personal.md) 
+
+### #is_/same_as :: [Oberndorf~Neckar.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Oberndorf~Neckar.secret.md)
+

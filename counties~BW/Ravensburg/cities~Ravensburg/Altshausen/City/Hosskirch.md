@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.95,9.43] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hosskirch](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Altshausen/City/Hosskirch.md) 
+### #is_/same_as :: [Hosskirch](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Altshausen/City/Hosskirch.md) 
 
-### [Hosskirch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Altshausen/City/Hosskirch.internal.md) 
+### #is_/same_as :: [Hosskirch.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Altshausen/City/Hosskirch.public.md) 
 
-### [Hosskirch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Altshausen/City/Hosskirch.protect.md) 
+### #is_/same_as :: [Hosskirch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Altshausen/City/Hosskirch.internal.md) 
 
-### [Hosskirch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Altshausen/City/Hosskirch.private.md) 
+### #is_/same_as :: [Hosskirch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Altshausen/City/Hosskirch.protect.md) 
 
-### [Hosskirch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Altshausen/City/Hosskirch.personal.md) 
+### #is_/same_as :: [Hosskirch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Altshausen/City/Hosskirch.private.md) 
 
-### [Hosskirch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Altshausen/City/Hosskirch.secret.md) 
+### #is_/same_as :: [Hosskirch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Altshausen/City/Hosskirch.personal.md) 
+
+### #is_/same_as :: [Hosskirch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Altshausen/City/Hosskirch.secret.md)
+

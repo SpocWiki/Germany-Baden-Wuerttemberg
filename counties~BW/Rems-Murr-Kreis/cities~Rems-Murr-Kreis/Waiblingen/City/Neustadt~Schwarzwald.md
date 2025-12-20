@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.85,9.32] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neustadt~Schwarzwald](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Neustadt~Schwarzwald.md) 
+### #is_/same_as :: [Neustadt~Schwarzwald](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Neustadt~Schwarzwald.md) 
 
-### [Neustadt~Schwarzwald.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Neustadt~Schwarzwald.internal.md) 
+### #is_/same_as :: [Neustadt~Schwarzwald.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Neustadt~Schwarzwald.public.md) 
 
-### [Neustadt~Schwarzwald.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Neustadt~Schwarzwald.protect.md) 
+### #is_/same_as :: [Neustadt~Schwarzwald.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Neustadt~Schwarzwald.internal.md) 
 
-### [Neustadt~Schwarzwald.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Neustadt~Schwarzwald.private.md) 
+### #is_/same_as :: [Neustadt~Schwarzwald.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Neustadt~Schwarzwald.protect.md) 
 
-### [Neustadt~Schwarzwald.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Neustadt~Schwarzwald.personal.md) 
+### #is_/same_as :: [Neustadt~Schwarzwald.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Neustadt~Schwarzwald.private.md) 
 
-### [Neustadt~Schwarzwald.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Neustadt~Schwarzwald.secret.md) 
+### #is_/same_as :: [Neustadt~Schwarzwald.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Neustadt~Schwarzwald.personal.md) 
+
+### #is_/same_as :: [Neustadt~Schwarzwald.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Neustadt~Schwarzwald.secret.md)
+

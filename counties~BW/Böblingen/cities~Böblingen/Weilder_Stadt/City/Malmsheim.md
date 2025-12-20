@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.75,8.87] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Malmsheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weilder_Stadt/City/Malmsheim.md) 
+### #is_/same_as :: [Malmsheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weilder_Stadt/City/Malmsheim.md) 
 
-### [Malmsheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weilder_Stadt/City/Malmsheim.internal.md) 
+### #is_/same_as :: [Malmsheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weilder_Stadt/City/Malmsheim.public.md) 
 
-### [Malmsheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weilder_Stadt/City/Malmsheim.protect.md) 
+### #is_/same_as :: [Malmsheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weilder_Stadt/City/Malmsheim.internal.md) 
 
-### [Malmsheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weilder_Stadt/City/Malmsheim.private.md) 
+### #is_/same_as :: [Malmsheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weilder_Stadt/City/Malmsheim.protect.md) 
 
-### [Malmsheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weilder_Stadt/City/Malmsheim.personal.md) 
+### #is_/same_as :: [Malmsheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weilder_Stadt/City/Malmsheim.private.md) 
 
-### [Malmsheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weilder_Stadt/City/Malmsheim.secret.md) 
+### #is_/same_as :: [Malmsheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weilder_Stadt/City/Malmsheim.personal.md) 
+
+### #is_/same_as :: [Malmsheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weilder_Stadt/City/Malmsheim.secret.md)
+

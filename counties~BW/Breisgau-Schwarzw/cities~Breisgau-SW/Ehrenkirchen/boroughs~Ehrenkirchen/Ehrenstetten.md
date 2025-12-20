@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.92,7.8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ehrenstetten](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Ehrenkirchen/boroughs~Ehrenkirchen/Ehrenstetten.md) 
+### #is_/same_as :: [Ehrenstetten](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Ehrenkirchen/boroughs~Ehrenkirchen/Ehrenstetten.md) 
 
-### [Ehrenstetten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Ehrenkirchen/boroughs~Ehrenkirchen/Ehrenstetten.internal.md) 
+### #is_/same_as :: [Ehrenstetten.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Ehrenkirchen/boroughs~Ehrenkirchen/Ehrenstetten.public.md) 
 
-### [Ehrenstetten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Ehrenkirchen/boroughs~Ehrenkirchen/Ehrenstetten.protect.md) 
+### #is_/same_as :: [Ehrenstetten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Ehrenkirchen/boroughs~Ehrenkirchen/Ehrenstetten.internal.md) 
 
-### [Ehrenstetten.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Ehrenkirchen/boroughs~Ehrenkirchen/Ehrenstetten.private.md) 
+### #is_/same_as :: [Ehrenstetten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Ehrenkirchen/boroughs~Ehrenkirchen/Ehrenstetten.protect.md) 
 
-### [Ehrenstetten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Ehrenkirchen/boroughs~Ehrenkirchen/Ehrenstetten.personal.md) 
+### #is_/same_as :: [Ehrenstetten.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Ehrenkirchen/boroughs~Ehrenkirchen/Ehrenstetten.private.md) 
 
-### [Ehrenstetten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Ehrenkirchen/boroughs~Ehrenkirchen/Ehrenstetten.secret.md) 
+### #is_/same_as :: [Ehrenstetten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Ehrenkirchen/boroughs~Ehrenkirchen/Ehrenstetten.personal.md) 
+
+### #is_/same_as :: [Ehrenstetten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Ehrenkirchen/boroughs~Ehrenkirchen/Ehrenstetten.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.46,8.41] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Freudenstadt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Freudenstadt-city/City/Freudenstadt.md) 
+### #is_/same_as :: [Freudenstadt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Freudenstadt-city/City/Freudenstadt.md) 
 
-### [Freudenstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Freudenstadt-city/City/Freudenstadt.internal.md) 
+### #is_/same_as :: [Freudenstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Freudenstadt-city/City/Freudenstadt.public.md) 
 
-### [Freudenstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Freudenstadt-city/City/Freudenstadt.protect.md) 
+### #is_/same_as :: [Freudenstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Freudenstadt-city/City/Freudenstadt.internal.md) 
 
-### [Freudenstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Freudenstadt-city/City/Freudenstadt.private.md) 
+### #is_/same_as :: [Freudenstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Freudenstadt-city/City/Freudenstadt.protect.md) 
 
-### [Freudenstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Freudenstadt-city/City/Freudenstadt.personal.md) 
+### #is_/same_as :: [Freudenstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Freudenstadt-city/City/Freudenstadt.private.md) 
 
-### [Freudenstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Freudenstadt-city/City/Freudenstadt.secret.md) 
+### #is_/same_as :: [Freudenstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Freudenstadt-city/City/Freudenstadt.personal.md) 
+
+### #is_/same_as :: [Freudenstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Freudenstadt-city/City/Freudenstadt.secret.md)
+

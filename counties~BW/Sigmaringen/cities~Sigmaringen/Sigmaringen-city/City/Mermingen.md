@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48,9.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mermingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Sigmaringen-city/City/Mermingen.md) 
+### #is_/same_as :: [Mermingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Sigmaringen-city/City/Mermingen.md) 
 
-### [Mermingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Sigmaringen-city/City/Mermingen.internal.md) 
+### #is_/same_as :: [Mermingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Sigmaringen-city/City/Mermingen.public.md) 
 
-### [Mermingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Sigmaringen-city/City/Mermingen.protect.md) 
+### #is_/same_as :: [Mermingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Sigmaringen-city/City/Mermingen.internal.md) 
 
-### [Mermingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Sigmaringen-city/City/Mermingen.private.md) 
+### #is_/same_as :: [Mermingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Sigmaringen-city/City/Mermingen.protect.md) 
 
-### [Mermingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Sigmaringen-city/City/Mermingen.personal.md) 
+### #is_/same_as :: [Mermingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Sigmaringen-city/City/Mermingen.private.md) 
 
-### [Mermingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Sigmaringen-city/City/Mermingen.secret.md) 
+### #is_/same_as :: [Mermingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Sigmaringen-city/City/Mermingen.personal.md) 
+
+### #is_/same_as :: [Mermingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Sigmaringen-city/City/Mermingen.secret.md)
+

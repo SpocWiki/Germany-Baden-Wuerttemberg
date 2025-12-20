@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.45,9.1] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gomaringen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Steinlach-Wiesaz/City/Gomaringen.md) 
+### #is_/same_as :: [Gomaringen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Steinlach-Wiesaz/City/Gomaringen.md) 
 
-### [Gomaringen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Steinlach-Wiesaz/City/Gomaringen.internal.md) 
+### #is_/same_as :: [Gomaringen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Steinlach-Wiesaz/City/Gomaringen.public.md) 
 
-### [Gomaringen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Steinlach-Wiesaz/City/Gomaringen.protect.md) 
+### #is_/same_as :: [Gomaringen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Steinlach-Wiesaz/City/Gomaringen.internal.md) 
 
-### [Gomaringen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Steinlach-Wiesaz/City/Gomaringen.private.md) 
+### #is_/same_as :: [Gomaringen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Steinlach-Wiesaz/City/Gomaringen.protect.md) 
 
-### [Gomaringen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Steinlach-Wiesaz/City/Gomaringen.personal.md) 
+### #is_/same_as :: [Gomaringen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Steinlach-Wiesaz/City/Gomaringen.private.md) 
 
-### [Gomaringen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Steinlach-Wiesaz/City/Gomaringen.secret.md) 
+### #is_/same_as :: [Gomaringen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Steinlach-Wiesaz/City/Gomaringen.personal.md) 
+
+### #is_/same_as :: [Gomaringen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Steinlach-Wiesaz/City/Gomaringen.secret.md)
+

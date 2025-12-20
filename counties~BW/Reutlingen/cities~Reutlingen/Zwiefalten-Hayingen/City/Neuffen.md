@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.3,9.4] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neuffen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Zwiefalten-Hayingen/City/Neuffen.md) 
+### #is_/same_as :: [Neuffen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Zwiefalten-Hayingen/City/Neuffen.md) 
 
-### [Neuffen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Zwiefalten-Hayingen/City/Neuffen.internal.md) 
+### #is_/same_as :: [Neuffen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Zwiefalten-Hayingen/City/Neuffen.public.md) 
 
-### [Neuffen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Zwiefalten-Hayingen/City/Neuffen.protect.md) 
+### #is_/same_as :: [Neuffen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Zwiefalten-Hayingen/City/Neuffen.internal.md) 
 
-### [Neuffen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Zwiefalten-Hayingen/City/Neuffen.private.md) 
+### #is_/same_as :: [Neuffen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Zwiefalten-Hayingen/City/Neuffen.protect.md) 
 
-### [Neuffen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Zwiefalten-Hayingen/City/Neuffen.personal.md) 
+### #is_/same_as :: [Neuffen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Zwiefalten-Hayingen/City/Neuffen.private.md) 
 
-### [Neuffen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Zwiefalten-Hayingen/City/Neuffen.secret.md) 
+### #is_/same_as :: [Neuffen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Zwiefalten-Hayingen/City/Neuffen.personal.md) 
+
+### #is_/same_as :: [Neuffen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Zwiefalten-Hayingen/City/Neuffen.secret.md)
+

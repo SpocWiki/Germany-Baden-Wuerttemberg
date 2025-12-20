@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.02,8.8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wurmlingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Tuttlingen-city/City/Wurmlingen.md) 
+### #is_/same_as :: [Wurmlingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Tuttlingen-city/City/Wurmlingen.md) 
 
-### [Wurmlingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Tuttlingen-city/City/Wurmlingen.internal.md) 
+### #is_/same_as :: [Wurmlingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Tuttlingen-city/City/Wurmlingen.public.md) 
 
-### [Wurmlingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Tuttlingen-city/City/Wurmlingen.protect.md) 
+### #is_/same_as :: [Wurmlingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Tuttlingen-city/City/Wurmlingen.internal.md) 
 
-### [Wurmlingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Tuttlingen-city/City/Wurmlingen.private.md) 
+### #is_/same_as :: [Wurmlingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Tuttlingen-city/City/Wurmlingen.protect.md) 
 
-### [Wurmlingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Tuttlingen-city/City/Wurmlingen.personal.md) 
+### #is_/same_as :: [Wurmlingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Tuttlingen-city/City/Wurmlingen.private.md) 
 
-### [Wurmlingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Tuttlingen-city/City/Wurmlingen.secret.md) 
+### #is_/same_as :: [Wurmlingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Tuttlingen-city/City/Wurmlingen.personal.md) 
+
+### #is_/same_as :: [Wurmlingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Tuttlingen-city/City/Wurmlingen.secret.md)
+

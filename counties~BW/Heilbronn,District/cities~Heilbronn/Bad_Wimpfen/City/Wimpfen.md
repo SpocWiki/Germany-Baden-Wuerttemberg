@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.22,9.15] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wimpfen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Bad_Wimpfen/City/Wimpfen.md) 
+### #is_/same_as :: [Wimpfen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Bad_Wimpfen/City/Wimpfen.md) 
 
-### [Wimpfen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Bad_Wimpfen/City/Wimpfen.internal.md) 
+### #is_/same_as :: [Wimpfen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Bad_Wimpfen/City/Wimpfen.public.md) 
 
-### [Wimpfen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Bad_Wimpfen/City/Wimpfen.protect.md) 
+### #is_/same_as :: [Wimpfen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Bad_Wimpfen/City/Wimpfen.internal.md) 
 
-### [Wimpfen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Bad_Wimpfen/City/Wimpfen.private.md) 
+### #is_/same_as :: [Wimpfen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Bad_Wimpfen/City/Wimpfen.protect.md) 
 
-### [Wimpfen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Bad_Wimpfen/City/Wimpfen.personal.md) 
+### #is_/same_as :: [Wimpfen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Bad_Wimpfen/City/Wimpfen.private.md) 
 
-### [Wimpfen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn/cities~Heilbronn/Bad_Wimpfen/City/Wimpfen.secret.md) 
+### #is_/same_as :: [Wimpfen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Bad_Wimpfen/City/Wimpfen.personal.md) 
+
+### #is_/same_as :: [Wimpfen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Bad_Wimpfen/City/Wimpfen.secret.md)
+

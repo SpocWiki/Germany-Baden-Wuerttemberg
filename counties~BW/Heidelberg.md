@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.42,8.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -42,14 +42,17 @@ ziehen jährlich Millionen Besucherinnen und Besucher an.
 
 ## Confidential Links & Embeds: 
 
-### [Heidelberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg.md) 
+### #is_/same_as :: [Heidelberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg.md) 
 
-### [Heidelberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg.internal.md) 
+### #is_/same_as :: [Heidelberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg.public.md) 
 
-### [Heidelberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg.protect.md) 
+### #is_/same_as :: [Heidelberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg.internal.md) 
 
-### [Heidelberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg.private.md) 
+### #is_/same_as :: [Heidelberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg.protect.md) 
 
-### [Heidelberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg.personal.md) 
+### #is_/same_as :: [Heidelberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg.private.md) 
 
-### [Heidelberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg.secret.md) 
+### #is_/same_as :: [Heidelberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg.personal.md) 
+
+### #is_/same_as :: [Heidelberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg.secret.md)
+

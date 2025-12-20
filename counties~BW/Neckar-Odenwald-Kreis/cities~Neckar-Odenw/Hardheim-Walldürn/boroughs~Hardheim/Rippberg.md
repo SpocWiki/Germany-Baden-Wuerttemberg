@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.62,9.3] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rippberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Hardheim-Walldürn/boroughs~Hardheim/Rippberg.md) 
+### #is_/same_as :: [Rippberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Hardheim-Walldürn/boroughs~Hardheim/Rippberg.md) 
 
-### [Rippberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Hardheim-Walldürn/boroughs~Hardheim/Rippberg.internal.md) 
+### #is_/same_as :: [Rippberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Hardheim-Walldürn/boroughs~Hardheim/Rippberg.public.md) 
 
-### [Rippberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Hardheim-Walldürn/boroughs~Hardheim/Rippberg.protect.md) 
+### #is_/same_as :: [Rippberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Hardheim-Walldürn/boroughs~Hardheim/Rippberg.internal.md) 
 
-### [Rippberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Hardheim-Walldürn/boroughs~Hardheim/Rippberg.private.md) 
+### #is_/same_as :: [Rippberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Hardheim-Walldürn/boroughs~Hardheim/Rippberg.protect.md) 
 
-### [Rippberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Hardheim-Walldürn/boroughs~Hardheim/Rippberg.personal.md) 
+### #is_/same_as :: [Rippberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Hardheim-Walldürn/boroughs~Hardheim/Rippberg.private.md) 
 
-### [Rippberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Hardheim-Walldürn/boroughs~Hardheim/Rippberg.secret.md) 
+### #is_/same_as :: [Rippberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Hardheim-Walldürn/boroughs~Hardheim/Rippberg.personal.md) 
+
+### #is_/same_as :: [Rippberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Hardheim-Walldürn/boroughs~Hardheim/Rippberg.secret.md)
+

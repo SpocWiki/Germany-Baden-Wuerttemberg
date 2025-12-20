@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.92,9.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sentenhart](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Pfullendorf/City/Sentenhart.md) 
+### #is_/same_as :: [Sentenhart](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Pfullendorf/City/Sentenhart.md) 
 
-### [Sentenhart.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Pfullendorf/City/Sentenhart.internal.md) 
+### #is_/same_as :: [Sentenhart.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Pfullendorf/City/Sentenhart.public.md) 
 
-### [Sentenhart.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Pfullendorf/City/Sentenhart.protect.md) 
+### #is_/same_as :: [Sentenhart.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Pfullendorf/City/Sentenhart.internal.md) 
 
-### [Sentenhart.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Pfullendorf/City/Sentenhart.private.md) 
+### #is_/same_as :: [Sentenhart.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Pfullendorf/City/Sentenhart.protect.md) 
 
-### [Sentenhart.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Pfullendorf/City/Sentenhart.personal.md) 
+### #is_/same_as :: [Sentenhart.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Pfullendorf/City/Sentenhart.private.md) 
 
-### [Sentenhart.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Pfullendorf/City/Sentenhart.secret.md) 
+### #is_/same_as :: [Sentenhart.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Pfullendorf/City/Sentenhart.personal.md) 
+
+### #is_/same_as :: [Sentenhart.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Pfullendorf/City/Sentenhart.secret.md)
+

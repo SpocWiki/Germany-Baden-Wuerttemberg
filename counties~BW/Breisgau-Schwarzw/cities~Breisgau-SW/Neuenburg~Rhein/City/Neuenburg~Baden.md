@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.82,7.57] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neuenburg~Baden](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Neuenburg~Rhein/City/Neuenburg~Baden.md) 
+### #is_/same_as :: [Neuenburg~Baden](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Neuenburg~Rhein/City/Neuenburg~Baden.md) 
 
-### [Neuenburg~Baden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Neuenburg~Rhein/City/Neuenburg~Baden.internal.md) 
+### #is_/same_as :: [Neuenburg~Baden.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Neuenburg~Rhein/City/Neuenburg~Baden.public.md) 
 
-### [Neuenburg~Baden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Neuenburg~Rhein/City/Neuenburg~Baden.protect.md) 
+### #is_/same_as :: [Neuenburg~Baden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Neuenburg~Rhein/City/Neuenburg~Baden.internal.md) 
 
-### [Neuenburg~Baden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Neuenburg~Rhein/City/Neuenburg~Baden.private.md) 
+### #is_/same_as :: [Neuenburg~Baden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Neuenburg~Rhein/City/Neuenburg~Baden.protect.md) 
 
-### [Neuenburg~Baden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Neuenburg~Rhein/City/Neuenburg~Baden.personal.md) 
+### #is_/same_as :: [Neuenburg~Baden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Neuenburg~Rhein/City/Neuenburg~Baden.private.md) 
 
-### [Neuenburg~Baden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Neuenburg~Rhein/City/Neuenburg~Baden.secret.md) 
+### #is_/same_as :: [Neuenburg~Baden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Neuenburg~Rhein/City/Neuenburg~Baden.personal.md) 
+
+### #is_/same_as :: [Neuenburg~Baden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Neuenburg~Rhein/City/Neuenburg~Baden.secret.md)
+

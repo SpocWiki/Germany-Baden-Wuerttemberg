@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.93,10.15] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schwabsberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Ellwangen~Jagst/City/Schwabsberg.md) 
+### #is_/same_as :: [Schwabsberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Ellwangen~Jagst/City/Schwabsberg.md) 
 
-### [Schwabsberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Ellwangen~Jagst/City/Schwabsberg.internal.md) 
+### #is_/same_as :: [Schwabsberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Ellwangen~Jagst/City/Schwabsberg.public.md) 
 
-### [Schwabsberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Ellwangen~Jagst/City/Schwabsberg.protect.md) 
+### #is_/same_as :: [Schwabsberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Ellwangen~Jagst/City/Schwabsberg.internal.md) 
 
-### [Schwabsberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Ellwangen~Jagst/City/Schwabsberg.private.md) 
+### #is_/same_as :: [Schwabsberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Ellwangen~Jagst/City/Schwabsberg.protect.md) 
 
-### [Schwabsberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Ellwangen~Jagst/City/Schwabsberg.personal.md) 
+### #is_/same_as :: [Schwabsberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Ellwangen~Jagst/City/Schwabsberg.private.md) 
 
-### [Schwabsberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Ellwangen~Jagst/City/Schwabsberg.secret.md) 
+### #is_/same_as :: [Schwabsberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Ellwangen~Jagst/City/Schwabsberg.personal.md) 
+
+### #is_/same_as :: [Schwabsberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Ellwangen~Jagst/City/Schwabsberg.secret.md)
+

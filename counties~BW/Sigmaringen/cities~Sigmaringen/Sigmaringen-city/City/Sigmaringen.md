@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.08,9.22] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sigmaringen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Sigmaringen-city/City/Sigmaringen.md) 
+### #is_/same_as :: [Sigmaringen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Sigmaringen-city/City/Sigmaringen.md) 
 
-### [Sigmaringen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Sigmaringen-city/City/Sigmaringen.internal.md) 
+### #is_/same_as :: [Sigmaringen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Sigmaringen-city/City/Sigmaringen.public.md) 
 
-### [Sigmaringen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Sigmaringen-city/City/Sigmaringen.protect.md) 
+### #is_/same_as :: [Sigmaringen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Sigmaringen-city/City/Sigmaringen.internal.md) 
 
-### [Sigmaringen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Sigmaringen-city/City/Sigmaringen.private.md) 
+### #is_/same_as :: [Sigmaringen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Sigmaringen-city/City/Sigmaringen.protect.md) 
 
-### [Sigmaringen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Sigmaringen-city/City/Sigmaringen.personal.md) 
+### #is_/same_as :: [Sigmaringen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Sigmaringen-city/City/Sigmaringen.private.md) 
 
-### [Sigmaringen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Sigmaringen-city/City/Sigmaringen.secret.md) 
+### #is_/same_as :: [Sigmaringen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Sigmaringen-city/City/Sigmaringen.personal.md) 
+
+### #is_/same_as :: [Sigmaringen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Sigmaringen-city/City/Sigmaringen.secret.md)
+

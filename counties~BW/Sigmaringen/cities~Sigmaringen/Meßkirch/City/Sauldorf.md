@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.93,9.1] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sauldorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Meßkirch/City/Sauldorf.md) 
+### #is_/same_as :: [Sauldorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Meßkirch/City/Sauldorf.md) 
 
-### [Sauldorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Meßkirch/City/Sauldorf.internal.md) 
+### #is_/same_as :: [Sauldorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Meßkirch/City/Sauldorf.public.md) 
 
-### [Sauldorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Meßkirch/City/Sauldorf.protect.md) 
+### #is_/same_as :: [Sauldorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Meßkirch/City/Sauldorf.internal.md) 
 
-### [Sauldorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Meßkirch/City/Sauldorf.private.md) 
+### #is_/same_as :: [Sauldorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Meßkirch/City/Sauldorf.protect.md) 
 
-### [Sauldorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Meßkirch/City/Sauldorf.personal.md) 
+### #is_/same_as :: [Sauldorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Meßkirch/City/Sauldorf.private.md) 
 
-### [Sauldorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Meßkirch/City/Sauldorf.secret.md) 
+### #is_/same_as :: [Sauldorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Meßkirch/City/Sauldorf.personal.md) 
+
+### #is_/same_as :: [Sauldorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Meßkirch/City/Sauldorf.secret.md)
+

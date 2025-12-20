@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.4,9.93] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nieder-Stetten](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Niederstetten/City/Nieder-Stetten.md) 
+### #is_/same_as :: [Nieder-Stetten](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Niederstetten/City/Nieder-Stetten.md) 
 
-### [Nieder-Stetten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Niederstetten/City/Nieder-Stetten.internal.md) 
+### #is_/same_as :: [Nieder-Stetten.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Niederstetten/City/Nieder-Stetten.public.md) 
 
-### [Nieder-Stetten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Niederstetten/City/Nieder-Stetten.protect.md) 
+### #is_/same_as :: [Nieder-Stetten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Niederstetten/City/Nieder-Stetten.internal.md) 
 
-### [Nieder-Stetten.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Niederstetten/City/Nieder-Stetten.private.md) 
+### #is_/same_as :: [Nieder-Stetten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Niederstetten/City/Nieder-Stetten.protect.md) 
 
-### [Nieder-Stetten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Niederstetten/City/Nieder-Stetten.personal.md) 
+### #is_/same_as :: [Nieder-Stetten.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Niederstetten/City/Nieder-Stetten.private.md) 
 
-### [Nieder-Stetten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Niederstetten/City/Nieder-Stetten.secret.md) 
+### #is_/same_as :: [Nieder-Stetten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Niederstetten/City/Nieder-Stetten.personal.md) 
+
+### #is_/same_as :: [Nieder-Stetten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Niederstetten/City/Nieder-Stetten.secret.md)
+

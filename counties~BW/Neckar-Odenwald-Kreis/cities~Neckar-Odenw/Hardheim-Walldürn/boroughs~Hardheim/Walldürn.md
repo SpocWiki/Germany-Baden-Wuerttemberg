@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.6,9.3] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Walldürn](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Hardheim-Walldürn/boroughs~Hardheim/Walldürn.md) 
+### #is_/same_as :: [Walldürn](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Hardheim-Walldürn/boroughs~Hardheim/Walldürn.md) 
 
-### [Walldürn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Hardheim-Walldürn/boroughs~Hardheim/Walldürn.internal.md) 
+### #is_/same_as :: [Walldürn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Hardheim-Walldürn/boroughs~Hardheim/Walldürn.public.md) 
 
-### [Walldürn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Hardheim-Walldürn/boroughs~Hardheim/Walldürn.protect.md) 
+### #is_/same_as :: [Walldürn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Hardheim-Walldürn/boroughs~Hardheim/Walldürn.internal.md) 
 
-### [Walldürn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Hardheim-Walldürn/boroughs~Hardheim/Walldürn.private.md) 
+### #is_/same_as :: [Walldürn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Hardheim-Walldürn/boroughs~Hardheim/Walldürn.protect.md) 
 
-### [Walldürn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Hardheim-Walldürn/boroughs~Hardheim/Walldürn.personal.md) 
+### #is_/same_as :: [Walldürn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Hardheim-Walldürn/boroughs~Hardheim/Walldürn.private.md) 
 
-### [Walldürn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Hardheim-Walldürn/boroughs~Hardheim/Walldürn.secret.md) 
+### #is_/same_as :: [Walldürn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Hardheim-Walldürn/boroughs~Hardheim/Walldürn.personal.md) 
+
+### #is_/same_as :: [Walldürn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Hardheim-Walldürn/boroughs~Hardheim/Walldürn.secret.md)
+

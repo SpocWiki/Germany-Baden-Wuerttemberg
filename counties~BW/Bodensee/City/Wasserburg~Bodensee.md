@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.55,9.62] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wasserburg~Bodensee](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Wasserburg~Bodensee.md) 
+### #is_/same_as :: [Wasserburg~Bodensee](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Wasserburg~Bodensee.md) 
 
-### [Wasserburg~Bodensee.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Wasserburg~Bodensee.internal.md) 
+### #is_/same_as :: [Wasserburg~Bodensee.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Wasserburg~Bodensee.public.md) 
 
-### [Wasserburg~Bodensee.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Wasserburg~Bodensee.protect.md) 
+### #is_/same_as :: [Wasserburg~Bodensee.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Wasserburg~Bodensee.internal.md) 
 
-### [Wasserburg~Bodensee.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Wasserburg~Bodensee.private.md) 
+### #is_/same_as :: [Wasserburg~Bodensee.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Wasserburg~Bodensee.protect.md) 
 
-### [Wasserburg~Bodensee.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Wasserburg~Bodensee.personal.md) 
+### #is_/same_as :: [Wasserburg~Bodensee.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Wasserburg~Bodensee.private.md) 
 
-### [Wasserburg~Bodensee.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Wasserburg~Bodensee.secret.md) 
+### #is_/same_as :: [Wasserburg~Bodensee.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Wasserburg~Bodensee.personal.md) 
+
+### #is_/same_as :: [Wasserburg~Bodensee.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Wasserburg~Bodensee.secret.md)
+

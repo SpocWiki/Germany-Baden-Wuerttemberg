@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.65,8.9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gertringen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Gärtringen_Ehningen/City/Gertringen.md) 
+### #is_/same_as :: [Gertringen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Gärtringen_Ehningen/City/Gertringen.md) 
 
-### [Gertringen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Gärtringen_Ehningen/City/Gertringen.internal.md) 
+### #is_/same_as :: [Gertringen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Gärtringen_Ehningen/City/Gertringen.public.md) 
 
-### [Gertringen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Gärtringen_Ehningen/City/Gertringen.protect.md) 
+### #is_/same_as :: [Gertringen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Gärtringen_Ehningen/City/Gertringen.internal.md) 
 
-### [Gertringen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Gärtringen_Ehningen/City/Gertringen.private.md) 
+### #is_/same_as :: [Gertringen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Gärtringen_Ehningen/City/Gertringen.protect.md) 
 
-### [Gertringen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Gärtringen_Ehningen/City/Gertringen.personal.md) 
+### #is_/same_as :: [Gertringen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Gärtringen_Ehningen/City/Gertringen.private.md) 
 
-### [Gertringen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Gärtringen_Ehningen/City/Gertringen.secret.md) 
+### #is_/same_as :: [Gertringen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Gärtringen_Ehningen/City/Gertringen.personal.md) 
+
+### #is_/same_as :: [Gertringen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Gärtringen_Ehningen/City/Gertringen.secret.md)
+

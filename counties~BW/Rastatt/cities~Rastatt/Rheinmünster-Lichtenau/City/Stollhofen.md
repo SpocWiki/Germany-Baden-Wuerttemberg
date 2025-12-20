@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.75,8.05] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stollhofen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Stollhofen.md) 
+### #is_/same_as :: [Stollhofen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Stollhofen.md) 
 
-### [Stollhofen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Stollhofen.internal.md) 
+### #is_/same_as :: [Stollhofen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Stollhofen.public.md) 
 
-### [Stollhofen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Stollhofen.protect.md) 
+### #is_/same_as :: [Stollhofen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Stollhofen.internal.md) 
 
-### [Stollhofen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Stollhofen.private.md) 
+### #is_/same_as :: [Stollhofen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Stollhofen.protect.md) 
 
-### [Stollhofen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Stollhofen.personal.md) 
+### #is_/same_as :: [Stollhofen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Stollhofen.private.md) 
 
-### [Stollhofen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Stollhofen.secret.md) 
+### #is_/same_as :: [Stollhofen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Stollhofen.personal.md) 
+
+### #is_/same_as :: [Stollhofen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Stollhofen.secret.md)
+

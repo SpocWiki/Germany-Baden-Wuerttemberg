@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.08,8.38] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Eggenstein](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein.md) 
+### #is_/same_as :: [Eggenstein](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein.md) 
 
-### [Eggenstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein.internal.md) 
+### #is_/same_as :: [Eggenstein.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein.public.md) 
 
-### [Eggenstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein.protect.md) 
+### #is_/same_as :: [Eggenstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein.internal.md) 
 
-### [Eggenstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein.private.md) 
+### #is_/same_as :: [Eggenstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein.protect.md) 
 
-### [Eggenstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein.personal.md) 
+### #is_/same_as :: [Eggenstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein.private.md) 
 
-### [Eggenstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein.secret.md) 
+### #is_/same_as :: [Eggenstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein.personal.md) 
+
+### #is_/same_as :: [Eggenstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein.secret.md)
+

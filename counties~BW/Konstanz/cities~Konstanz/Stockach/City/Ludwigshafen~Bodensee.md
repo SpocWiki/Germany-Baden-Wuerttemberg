@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.82,9.07] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ludwigshafen~Bodensee](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Stockach/City/Ludwigshafen~Bodensee.md) 
+### #is_/same_as :: [Ludwigshafen~Bodensee](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Stockach/City/Ludwigshafen~Bodensee.md) 
 
-### [Ludwigshafen~Bodensee.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Stockach/City/Ludwigshafen~Bodensee.internal.md) 
+### #is_/same_as :: [Ludwigshafen~Bodensee.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Stockach/City/Ludwigshafen~Bodensee.public.md) 
 
-### [Ludwigshafen~Bodensee.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Stockach/City/Ludwigshafen~Bodensee.protect.md) 
+### #is_/same_as :: [Ludwigshafen~Bodensee.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Stockach/City/Ludwigshafen~Bodensee.internal.md) 
 
-### [Ludwigshafen~Bodensee.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Stockach/City/Ludwigshafen~Bodensee.private.md) 
+### #is_/same_as :: [Ludwigshafen~Bodensee.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Stockach/City/Ludwigshafen~Bodensee.protect.md) 
 
-### [Ludwigshafen~Bodensee.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Stockach/City/Ludwigshafen~Bodensee.personal.md) 
+### #is_/same_as :: [Ludwigshafen~Bodensee.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Stockach/City/Ludwigshafen~Bodensee.private.md) 
 
-### [Ludwigshafen~Bodensee.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Stockach/City/Ludwigshafen~Bodensee.secret.md) 
+### #is_/same_as :: [Ludwigshafen~Bodensee.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Stockach/City/Ludwigshafen~Bodensee.personal.md) 
+
+### #is_/same_as :: [Ludwigshafen~Bodensee.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Stockach/City/Ludwigshafen~Bodensee.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.95,8.49] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Donaueschingen-City](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Donaueschingen/boroughs~Donau-E/Donaueschingen-City.md) 
+### #is_/same_as :: [Donaueschingen-City](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Donaueschingen/boroughs~Donau-E/Donaueschingen-City.md) 
 
-### [Donaueschingen-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Donaueschingen/boroughs~Donau-E/Donaueschingen-City.internal.md) 
+### #is_/same_as :: [Donaueschingen-City.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Donaueschingen/boroughs~Donau-E/Donaueschingen-City.public.md) 
 
-### [Donaueschingen-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Donaueschingen/boroughs~Donau-E/Donaueschingen-City.protect.md) 
+### #is_/same_as :: [Donaueschingen-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Donaueschingen/boroughs~Donau-E/Donaueschingen-City.internal.md) 
 
-### [Donaueschingen-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Donaueschingen/boroughs~Donau-E/Donaueschingen-City.private.md) 
+### #is_/same_as :: [Donaueschingen-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Donaueschingen/boroughs~Donau-E/Donaueschingen-City.protect.md) 
 
-### [Donaueschingen-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Donaueschingen/boroughs~Donau-E/Donaueschingen-City.personal.md) 
+### #is_/same_as :: [Donaueschingen-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Donaueschingen/boroughs~Donau-E/Donaueschingen-City.private.md) 
 
-### [Donaueschingen-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Donaueschingen/boroughs~Donau-E/Donaueschingen-City.secret.md) 
+### #is_/same_as :: [Donaueschingen-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Donaueschingen/boroughs~Donau-E/Donaueschingen-City.personal.md) 
+
+### #is_/same_as :: [Donaueschingen-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Donaueschingen/boroughs~Donau-E/Donaueschingen-City.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.17,8.42] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Liedolsheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Graben-Neudorf/City/Liedolsheim.md) 
+### #is_/same_as :: [Liedolsheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Graben-Neudorf/City/Liedolsheim.md) 
 
-### [Liedolsheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Graben-Neudorf/City/Liedolsheim.internal.md) 
+### #is_/same_as :: [Liedolsheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Graben-Neudorf/City/Liedolsheim.public.md) 
 
-### [Liedolsheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Graben-Neudorf/City/Liedolsheim.protect.md) 
+### #is_/same_as :: [Liedolsheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Graben-Neudorf/City/Liedolsheim.internal.md) 
 
-### [Liedolsheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Graben-Neudorf/City/Liedolsheim.private.md) 
+### #is_/same_as :: [Liedolsheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Graben-Neudorf/City/Liedolsheim.protect.md) 
 
-### [Liedolsheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Graben-Neudorf/City/Liedolsheim.personal.md) 
+### #is_/same_as :: [Liedolsheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Graben-Neudorf/City/Liedolsheim.private.md) 
 
-### [Liedolsheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Graben-Neudorf/City/Liedolsheim.secret.md) 
+### #is_/same_as :: [Liedolsheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Graben-Neudorf/City/Liedolsheim.personal.md) 
+
+### #is_/same_as :: [Liedolsheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Graben-Neudorf/City/Liedolsheim.secret.md)
+

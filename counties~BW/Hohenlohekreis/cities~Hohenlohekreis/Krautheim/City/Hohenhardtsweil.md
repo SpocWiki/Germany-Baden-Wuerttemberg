@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.38,9.67] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hohenhardtsweil](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Krautheim/City/Hohenhardtsweil.md) 
+### #is_/same_as :: [Hohenhardtsweil](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Krautheim/City/Hohenhardtsweil.md) 
 
-### [Hohenhardtsweil.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Krautheim/City/Hohenhardtsweil.internal.md) 
+### #is_/same_as :: [Hohenhardtsweil.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Krautheim/City/Hohenhardtsweil.public.md) 
 
-### [Hohenhardtsweil.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Krautheim/City/Hohenhardtsweil.protect.md) 
+### #is_/same_as :: [Hohenhardtsweil.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Krautheim/City/Hohenhardtsweil.internal.md) 
 
-### [Hohenhardtsweil.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Krautheim/City/Hohenhardtsweil.private.md) 
+### #is_/same_as :: [Hohenhardtsweil.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Krautheim/City/Hohenhardtsweil.protect.md) 
 
-### [Hohenhardtsweil.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Krautheim/City/Hohenhardtsweil.personal.md) 
+### #is_/same_as :: [Hohenhardtsweil.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Krautheim/City/Hohenhardtsweil.private.md) 
 
-### [Hohenhardtsweil.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Krautheim/City/Hohenhardtsweil.secret.md) 
+### #is_/same_as :: [Hohenhardtsweil.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Krautheim/City/Hohenhardtsweil.personal.md) 
+
+### #is_/same_as :: [Hohenhardtsweil.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Krautheim/City/Hohenhardtsweil.secret.md)
+

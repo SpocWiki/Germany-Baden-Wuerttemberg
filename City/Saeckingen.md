@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.53,7.95] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Saeckingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Saeckingen.md) 
+### #is_/same_as :: [Saeckingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Saeckingen.md) 
 
-### [Saeckingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Saeckingen.internal.md) 
+### #is_/same_as :: [Saeckingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Saeckingen.public.md) 
 
-### [Saeckingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Saeckingen.protect.md) 
+### #is_/same_as :: [Saeckingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Saeckingen.internal.md) 
 
-### [Saeckingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Saeckingen.private.md) 
+### #is_/same_as :: [Saeckingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Saeckingen.protect.md) 
 
-### [Saeckingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Saeckingen.personal.md) 
+### #is_/same_as :: [Saeckingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Saeckingen.private.md) 
 
-### [Saeckingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Saeckingen.secret.md) 
+### #is_/same_as :: [Saeckingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Saeckingen.personal.md) 
+
+### #is_/same_as :: [Saeckingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Saeckingen.secret.md)
+

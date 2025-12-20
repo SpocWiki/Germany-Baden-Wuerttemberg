@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.67,9.18] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Konstanz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Konstanz-city/City/Konstanz.md) 
+### #is_/same_as :: [Konstanz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Konstanz-city/City/Konstanz.md) 
 
-### [Konstanz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Konstanz-city/City/Konstanz.internal.md) 
+### #is_/same_as :: [Konstanz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Konstanz-city/City/Konstanz.public.md) 
 
-### [Konstanz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Konstanz-city/City/Konstanz.protect.md) 
+### #is_/same_as :: [Konstanz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Konstanz-city/City/Konstanz.internal.md) 
 
-### [Konstanz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Konstanz-city/City/Konstanz.private.md) 
+### #is_/same_as :: [Konstanz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Konstanz-city/City/Konstanz.protect.md) 
 
-### [Konstanz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Konstanz-city/City/Konstanz.personal.md) 
+### #is_/same_as :: [Konstanz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Konstanz-city/City/Konstanz.private.md) 
 
-### [Konstanz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Konstanz-city/City/Konstanz.secret.md) 
+### #is_/same_as :: [Konstanz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Konstanz-city/City/Konstanz.personal.md) 
+
+### #is_/same_as :: [Konstanz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Konstanz-city/City/Konstanz.secret.md)
+

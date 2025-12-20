@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.92,7.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Krozingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Bad_Krozingen/boroughs~Krozingen/Krozingen.md) 
+### #is_/same_as :: [Krozingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Bad_Krozingen/boroughs~Krozingen/Krozingen.md) 
 
-### [Krozingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Bad_Krozingen/boroughs~Krozingen/Krozingen.internal.md) 
+### #is_/same_as :: [Krozingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Bad_Krozingen/boroughs~Krozingen/Krozingen.public.md) 
 
-### [Krozingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Bad_Krozingen/boroughs~Krozingen/Krozingen.protect.md) 
+### #is_/same_as :: [Krozingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Bad_Krozingen/boroughs~Krozingen/Krozingen.internal.md) 
 
-### [Krozingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Bad_Krozingen/boroughs~Krozingen/Krozingen.private.md) 
+### #is_/same_as :: [Krozingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Bad_Krozingen/boroughs~Krozingen/Krozingen.protect.md) 
 
-### [Krozingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Bad_Krozingen/boroughs~Krozingen/Krozingen.personal.md) 
+### #is_/same_as :: [Krozingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Bad_Krozingen/boroughs~Krozingen/Krozingen.private.md) 
 
-### [Krozingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Bad_Krozingen/boroughs~Krozingen/Krozingen.secret.md) 
+### #is_/same_as :: [Krozingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Bad_Krozingen/boroughs~Krozingen/Krozingen.personal.md) 
+
+### #is_/same_as :: [Krozingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Bad_Krozingen/boroughs~Krozingen/Krozingen.secret.md)
+

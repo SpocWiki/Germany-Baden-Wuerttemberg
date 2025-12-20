@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.7,9.28] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -40,16 +40,20 @@ Die guterhaltene Altstadt mit ihren vielen kleinen Gassen, die St. Martinskirche
 und das berühmte Meersburger Schloss aus dem 7. Jahrhundert beeindrucken 
 neben dem wunderschönen Blick auf den See und die Schweizer Alpen.
 
+
 ## Confidential Links & Embeds: 
 
-### [Meersburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg.md) 
+### #is_/same_as :: [Meersburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg.md) 
 
-### [Meersburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg.internal.md) 
+### #is_/same_as :: [Meersburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg.public.md) 
 
-### [Meersburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg.protect.md) 
+### #is_/same_as :: [Meersburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg.internal.md) 
 
-### [Meersburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg.private.md) 
+### #is_/same_as :: [Meersburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg.protect.md) 
 
-### [Meersburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg.personal.md) 
+### #is_/same_as :: [Meersburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg.private.md) 
 
-### [Meersburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg.secret.md) 
+### #is_/same_as :: [Meersburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg.personal.md) 
+
+### #is_/same_as :: [Meersburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg.secret.md)
+

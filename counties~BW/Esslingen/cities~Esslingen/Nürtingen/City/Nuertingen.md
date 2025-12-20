@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.63,9.32] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nuertingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Nuertingen.md) 
+### #is_/same_as :: [Nuertingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Nuertingen.md) 
 
-### [Nuertingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Nuertingen.internal.md) 
+### #is_/same_as :: [Nuertingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Nuertingen.public.md) 
 
-### [Nuertingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Nuertingen.protect.md) 
+### #is_/same_as :: [Nuertingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Nuertingen.internal.md) 
 
-### [Nuertingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Nuertingen.private.md) 
+### #is_/same_as :: [Nuertingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Nuertingen.protect.md) 
 
-### [Nuertingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Nuertingen.personal.md) 
+### #is_/same_as :: [Nuertingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Nuertingen.private.md) 
 
-### [Nuertingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Nuertingen.secret.md) 
+### #is_/same_as :: [Nuertingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Nuertingen.personal.md) 
+
+### #is_/same_as :: [Nuertingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Nuertingen.secret.md)
+

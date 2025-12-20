@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.93,8.95] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vaihingen~Enz-city](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Vaihingen~Enz/boroughs~Vaihingen~Enz/Vaihingen~Enz-city.md) 
+### #is_/same_as :: [Vaihingen~Enz-city](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Vaihingen~Enz/boroughs~Vaihingen~Enz/Vaihingen~Enz-city.md) 
 
-### [Vaihingen~Enz-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Vaihingen~Enz/boroughs~Vaihingen~Enz/Vaihingen~Enz-city.internal.md) 
+### #is_/same_as :: [Vaihingen~Enz-city.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Vaihingen~Enz/boroughs~Vaihingen~Enz/Vaihingen~Enz-city.public.md) 
 
-### [Vaihingen~Enz-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Vaihingen~Enz/boroughs~Vaihingen~Enz/Vaihingen~Enz-city.protect.md) 
+### #is_/same_as :: [Vaihingen~Enz-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Vaihingen~Enz/boroughs~Vaihingen~Enz/Vaihingen~Enz-city.internal.md) 
 
-### [Vaihingen~Enz-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Vaihingen~Enz/boroughs~Vaihingen~Enz/Vaihingen~Enz-city.private.md) 
+### #is_/same_as :: [Vaihingen~Enz-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Vaihingen~Enz/boroughs~Vaihingen~Enz/Vaihingen~Enz-city.protect.md) 
 
-### [Vaihingen~Enz-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Vaihingen~Enz/boroughs~Vaihingen~Enz/Vaihingen~Enz-city.personal.md) 
+### #is_/same_as :: [Vaihingen~Enz-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Vaihingen~Enz/boroughs~Vaihingen~Enz/Vaihingen~Enz-city.private.md) 
 
-### [Vaihingen~Enz-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Vaihingen~Enz/boroughs~Vaihingen~Enz/Vaihingen~Enz-city.secret.md) 
+### #is_/same_as :: [Vaihingen~Enz-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Vaihingen~Enz/boroughs~Vaihingen~Enz/Vaihingen~Enz-city.personal.md) 
+
+### #is_/same_as :: [Vaihingen~Enz-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Vaihingen~Enz/boroughs~Vaihingen~Enz/Vaihingen~Enz-city.secret.md)
+

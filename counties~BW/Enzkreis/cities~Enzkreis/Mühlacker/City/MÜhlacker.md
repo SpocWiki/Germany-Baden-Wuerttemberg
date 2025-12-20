@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.93,8.83] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [MÜhlacker](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Mühlacker/City/MÜhlacker.md) 
+### #is_/same_as :: [MÜhlacker](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Mühlacker/City/MÜhlacker.md) 
 
-### [MÜhlacker.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Mühlacker/City/MÜhlacker.internal.md) 
+### #is_/same_as :: [MÜhlacker.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Mühlacker/City/MÜhlacker.public.md) 
 
-### [MÜhlacker.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Mühlacker/City/MÜhlacker.protect.md) 
+### #is_/same_as :: [MÜhlacker.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Mühlacker/City/MÜhlacker.internal.md) 
 
-### [MÜhlacker.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Mühlacker/City/MÜhlacker.private.md) 
+### #is_/same_as :: [MÜhlacker.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Mühlacker/City/MÜhlacker.protect.md) 
 
-### [MÜhlacker.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Mühlacker/City/MÜhlacker.personal.md) 
+### #is_/same_as :: [MÜhlacker.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Mühlacker/City/MÜhlacker.private.md) 
 
-### [MÜhlacker.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Mühlacker/City/MÜhlacker.secret.md) 
+### #is_/same_as :: [MÜhlacker.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Mühlacker/City/MÜhlacker.personal.md) 
+
+### #is_/same_as :: [MÜhlacker.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Mühlacker/City/MÜhlacker.secret.md)
+

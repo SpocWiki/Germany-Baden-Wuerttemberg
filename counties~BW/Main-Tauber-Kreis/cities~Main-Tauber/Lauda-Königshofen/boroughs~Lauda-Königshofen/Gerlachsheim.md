@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.55,9.73] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gerlachsheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Lauda-Königshofen/boroughs~Lauda-Königshofen/Gerlachsheim.md) 
+### #is_/same_as :: [Gerlachsheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Lauda-Königshofen/boroughs~Lauda-Königshofen/Gerlachsheim.md) 
 
-### [Gerlachsheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Lauda-Königshofen/boroughs~Lauda-Königshofen/Gerlachsheim.internal.md) 
+### #is_/same_as :: [Gerlachsheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Lauda-Königshofen/boroughs~Lauda-Königshofen/Gerlachsheim.public.md) 
 
-### [Gerlachsheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Lauda-Königshofen/boroughs~Lauda-Königshofen/Gerlachsheim.protect.md) 
+### #is_/same_as :: [Gerlachsheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Lauda-Königshofen/boroughs~Lauda-Königshofen/Gerlachsheim.internal.md) 
 
-### [Gerlachsheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Lauda-Königshofen/boroughs~Lauda-Königshofen/Gerlachsheim.private.md) 
+### #is_/same_as :: [Gerlachsheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Lauda-Königshofen/boroughs~Lauda-Königshofen/Gerlachsheim.protect.md) 
 
-### [Gerlachsheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Lauda-Königshofen/boroughs~Lauda-Königshofen/Gerlachsheim.personal.md) 
+### #is_/same_as :: [Gerlachsheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Lauda-Königshofen/boroughs~Lauda-Königshofen/Gerlachsheim.private.md) 
 
-### [Gerlachsheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Lauda-Königshofen/boroughs~Lauda-Königshofen/Gerlachsheim.secret.md) 
+### #is_/same_as :: [Gerlachsheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Lauda-Königshofen/boroughs~Lauda-Königshofen/Gerlachsheim.personal.md) 
+
+### #is_/same_as :: [Gerlachsheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Lauda-Königshofen/boroughs~Lauda-Königshofen/Gerlachsheim.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.02,8.62] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Woessingen_bei_Karlsruhe](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Walzbachtal/City/Woessingen_bei_Karlsruhe.md) 
+### #is_/same_as :: [Woessingen_bei_Karlsruhe](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Walzbachtal/City/Woessingen_bei_Karlsruhe.md) 
 
-### [Woessingen_bei_Karlsruhe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Walzbachtal/City/Woessingen_bei_Karlsruhe.internal.md) 
+### #is_/same_as :: [Woessingen_bei_Karlsruhe.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Walzbachtal/City/Woessingen_bei_Karlsruhe.public.md) 
 
-### [Woessingen_bei_Karlsruhe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Walzbachtal/City/Woessingen_bei_Karlsruhe.protect.md) 
+### #is_/same_as :: [Woessingen_bei_Karlsruhe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Walzbachtal/City/Woessingen_bei_Karlsruhe.internal.md) 
 
-### [Woessingen_bei_Karlsruhe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Walzbachtal/City/Woessingen_bei_Karlsruhe.private.md) 
+### #is_/same_as :: [Woessingen_bei_Karlsruhe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Walzbachtal/City/Woessingen_bei_Karlsruhe.protect.md) 
 
-### [Woessingen_bei_Karlsruhe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Walzbachtal/City/Woessingen_bei_Karlsruhe.personal.md) 
+### #is_/same_as :: [Woessingen_bei_Karlsruhe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Walzbachtal/City/Woessingen_bei_Karlsruhe.private.md) 
 
-### [Woessingen_bei_Karlsruhe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Walzbachtal/City/Woessingen_bei_Karlsruhe.secret.md) 
+### #is_/same_as :: [Woessingen_bei_Karlsruhe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Walzbachtal/City/Woessingen_bei_Karlsruhe.personal.md) 
+
+### #is_/same_as :: [Woessingen_bei_Karlsruhe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Walzbachtal/City/Woessingen_bei_Karlsruhe.secret.md)
+
