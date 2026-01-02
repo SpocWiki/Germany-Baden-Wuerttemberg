@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stimpfach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Crailsheim/City/Stimpfach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Crailsheim/City/Stimpfach|Stimpfach]] 
 
-### #is_/same_as :: [Stimpfach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Crailsheim/City/Stimpfach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Crailsheim/City/Stimpfach.public|Stimpfach.public]] 
 
-### #is_/same_as :: [Stimpfach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Crailsheim/City/Stimpfach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Crailsheim/City/Stimpfach.internal|Stimpfach.internal]] 
 
-### #is_/same_as :: [Stimpfach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Crailsheim/City/Stimpfach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Crailsheim/City/Stimpfach.protect|Stimpfach.protect]] 
 
-### #is_/same_as :: [Stimpfach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Crailsheim/City/Stimpfach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Crailsheim/City/Stimpfach.private|Stimpfach.private]] 
 
-### #is_/same_as :: [Stimpfach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Crailsheim/City/Stimpfach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Crailsheim/City/Stimpfach.personal|Stimpfach.personal]] 
 
-### #is_/same_as :: [Stimpfach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Crailsheim/City/Stimpfach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Crailsheim/City/Stimpfach.secret|Stimpfach.secret]] 
 

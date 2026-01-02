@@ -40,17 +40,17 @@ Klosteranlage Maulbronn ( [[Unesco]] Welterbe seit 1993)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Maulbronn](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Maulbronn.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Maulbronn|Maulbronn]] 
 
-### #is_/same_as :: [Maulbronn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Maulbronn.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Maulbronn.public|Maulbronn.public]] 
 
-### #is_/same_as :: [Maulbronn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Maulbronn.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Maulbronn.internal|Maulbronn.internal]] 
 
-### #is_/same_as :: [Maulbronn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Maulbronn.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Maulbronn.protect|Maulbronn.protect]] 
 
-### #is_/same_as :: [Maulbronn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Maulbronn.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Maulbronn.private|Maulbronn.private]] 
 
-### #is_/same_as :: [Maulbronn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Maulbronn.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Maulbronn.personal|Maulbronn.personal]] 
 
-### #is_/same_as :: [Maulbronn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Maulbronn.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Maulbronn.secret|Maulbronn.secret]] 
 

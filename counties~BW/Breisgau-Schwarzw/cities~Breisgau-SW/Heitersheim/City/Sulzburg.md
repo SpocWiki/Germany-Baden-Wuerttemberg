@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sulzburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Heitersheim/City/Sulzburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Heitersheim/City/Sulzburg|Sulzburg]] 
 
-### #is_/same_as :: [Sulzburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Heitersheim/City/Sulzburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Heitersheim/City/Sulzburg.public|Sulzburg.public]] 
 
-### #is_/same_as :: [Sulzburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Heitersheim/City/Sulzburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Heitersheim/City/Sulzburg.internal|Sulzburg.internal]] 
 
-### #is_/same_as :: [Sulzburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Heitersheim/City/Sulzburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Heitersheim/City/Sulzburg.protect|Sulzburg.protect]] 
 
-### #is_/same_as :: [Sulzburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Heitersheim/City/Sulzburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Heitersheim/City/Sulzburg.private|Sulzburg.private]] 
 
-### #is_/same_as :: [Sulzburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Heitersheim/City/Sulzburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Heitersheim/City/Sulzburg.personal|Sulzburg.personal]] 
 
-### #is_/same_as :: [Sulzburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Heitersheim/City/Sulzburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Heitersheim/City/Sulzburg.secret|Sulzburg.secret]] 
 

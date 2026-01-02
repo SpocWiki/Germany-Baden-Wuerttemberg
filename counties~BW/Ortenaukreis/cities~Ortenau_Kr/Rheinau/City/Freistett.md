@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Freistett](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Rheinau/City/Freistett.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Rheinau/City/Freistett|Freistett]] 
 
-### #is_/same_as :: [Freistett.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Rheinau/City/Freistett.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Rheinau/City/Freistett.public|Freistett.public]] 
 
-### #is_/same_as :: [Freistett.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Rheinau/City/Freistett.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Rheinau/City/Freistett.internal|Freistett.internal]] 
 
-### #is_/same_as :: [Freistett.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Rheinau/City/Freistett.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Rheinau/City/Freistett.protect|Freistett.protect]] 
 
-### #is_/same_as :: [Freistett.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Rheinau/City/Freistett.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Rheinau/City/Freistett.private|Freistett.private]] 
 
-### #is_/same_as :: [Freistett.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Rheinau/City/Freistett.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Rheinau/City/Freistett.personal|Freistett.personal]] 
 
-### #is_/same_as :: [Freistett.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Rheinau/City/Freistett.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Rheinau/City/Freistett.secret|Freistett.secret]] 
 

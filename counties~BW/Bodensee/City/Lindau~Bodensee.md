@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lindau~Bodensee](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Lindau~Bodensee.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Lindau~Bodensee|Lindau~Bodensee]] 
 
-### #is_/same_as :: [Lindau~Bodensee.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Lindau~Bodensee.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Lindau~Bodensee.public|Lindau~Bodensee.public]] 
 
-### #is_/same_as :: [Lindau~Bodensee.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Lindau~Bodensee.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Lindau~Bodensee.internal|Lindau~Bodensee.internal]] 
 
-### #is_/same_as :: [Lindau~Bodensee.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Lindau~Bodensee.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Lindau~Bodensee.protect|Lindau~Bodensee.protect]] 
 
-### #is_/same_as :: [Lindau~Bodensee.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Lindau~Bodensee.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Lindau~Bodensee.private|Lindau~Bodensee.private]] 
 
-### #is_/same_as :: [Lindau~Bodensee.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Lindau~Bodensee.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Lindau~Bodensee.personal|Lindau~Bodensee.personal]] 
 
-### #is_/same_as :: [Lindau~Bodensee.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Lindau~Bodensee.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Lindau~Bodensee.secret|Lindau~Bodensee.secret]] 
 

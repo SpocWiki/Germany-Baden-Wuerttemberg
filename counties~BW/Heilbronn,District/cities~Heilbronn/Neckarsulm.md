@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neckarsulm](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Neckarsulm.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Neckarsulm|Neckarsulm]] 
 
-### #is_/same_as :: [Neckarsulm.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Neckarsulm.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Neckarsulm.public|Neckarsulm.public]] 
 
-### #is_/same_as :: [Neckarsulm.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Neckarsulm.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Neckarsulm.internal|Neckarsulm.internal]] 
 
-### #is_/same_as :: [Neckarsulm.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Neckarsulm.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Neckarsulm.protect|Neckarsulm.protect]] 
 
-### #is_/same_as :: [Neckarsulm.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Neckarsulm.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Neckarsulm.private|Neckarsulm.private]] 
 
-### #is_/same_as :: [Neckarsulm.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Neckarsulm.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Neckarsulm.personal|Neckarsulm.personal]] 
 
-### #is_/same_as :: [Neckarsulm.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Neckarsulm.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Neckarsulm.secret|Neckarsulm.secret]] 
 

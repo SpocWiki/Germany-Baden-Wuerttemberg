@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schopfheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Schopfheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Schopfheim|Schopfheim]] 
 
-### #is_/same_as :: [Schopfheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Schopfheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Schopfheim.public|Schopfheim.public]] 
 
-### #is_/same_as :: [Schopfheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Schopfheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Schopfheim.internal|Schopfheim.internal]] 
 
-### #is_/same_as :: [Schopfheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Schopfheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Schopfheim.protect|Schopfheim.protect]] 
 
-### #is_/same_as :: [Schopfheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Schopfheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Schopfheim.private|Schopfheim.private]] 
 
-### #is_/same_as :: [Schopfheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Schopfheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Schopfheim.personal|Schopfheim.personal]] 
 
-### #is_/same_as :: [Schopfheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Schopfheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Schopfheim.secret|Schopfheim.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trossingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Trossingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Trossingen|Trossingen]] 
 
-### #is_/same_as :: [Trossingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Trossingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Trossingen.public|Trossingen.public]] 
 
-### #is_/same_as :: [Trossingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Trossingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Trossingen.internal|Trossingen.internal]] 
 
-### #is_/same_as :: [Trossingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Trossingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Trossingen.protect|Trossingen.protect]] 
 
-### #is_/same_as :: [Trossingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Trossingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Trossingen.private|Trossingen.private]] 
 
-### #is_/same_as :: [Trossingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Trossingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Trossingen.personal|Trossingen.personal]] 
 
-### #is_/same_as :: [Trossingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Trossingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Trossingen.secret|Trossingen.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schwaebische_Alb](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Laichinger_Alb/City/Schwaebische_Alb.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Laichinger_Alb/City/Schwaebische_Alb|Schwaebische_Alb]] 
 
-### #is_/same_as :: [Schwaebische_Alb.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Laichinger_Alb/City/Schwaebische_Alb.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Laichinger_Alb/City/Schwaebische_Alb.public|Schwaebische_Alb.public]] 
 
-### #is_/same_as :: [Schwaebische_Alb.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Laichinger_Alb/City/Schwaebische_Alb.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Laichinger_Alb/City/Schwaebische_Alb.internal|Schwaebische_Alb.internal]] 
 
-### #is_/same_as :: [Schwaebische_Alb.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Laichinger_Alb/City/Schwaebische_Alb.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Laichinger_Alb/City/Schwaebische_Alb.protect|Schwaebische_Alb.protect]] 
 
-### #is_/same_as :: [Schwaebische_Alb.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Laichinger_Alb/City/Schwaebische_Alb.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Laichinger_Alb/City/Schwaebische_Alb.private|Schwaebische_Alb.private]] 
 
-### #is_/same_as :: [Schwaebische_Alb.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Laichinger_Alb/City/Schwaebische_Alb.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Laichinger_Alb/City/Schwaebische_Alb.personal|Schwaebische_Alb.personal]] 
 
-### #is_/same_as :: [Schwaebische_Alb.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Laichinger_Alb/City/Schwaebische_Alb.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Laichinger_Alb/City/Schwaebische_Alb.secret|Schwaebische_Alb.secret]] 
 

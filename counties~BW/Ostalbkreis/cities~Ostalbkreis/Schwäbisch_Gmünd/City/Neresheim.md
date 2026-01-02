@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neresheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Neresheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Neresheim|Neresheim]] 
 
-### #is_/same_as :: [Neresheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Neresheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Neresheim.public|Neresheim.public]] 
 
-### #is_/same_as :: [Neresheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Neresheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Neresheim.internal|Neresheim.internal]] 
 
-### #is_/same_as :: [Neresheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Neresheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Neresheim.protect|Neresheim.protect]] 
 
-### #is_/same_as :: [Neresheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Neresheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Neresheim.private|Neresheim.private]] 
 
-### #is_/same_as :: [Neresheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Neresheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Neresheim.personal|Neresheim.personal]] 
 
-### #is_/same_as :: [Neresheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Neresheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Neresheim.secret|Neresheim.secret]] 
 

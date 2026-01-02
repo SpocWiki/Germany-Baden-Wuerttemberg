@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rottenburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Rottenburg~Neckar/City/Rottenburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Rottenburg~Neckar/City/Rottenburg|Rottenburg]] 
 
-### #is_/same_as :: [Rottenburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Rottenburg~Neckar/City/Rottenburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Rottenburg~Neckar/City/Rottenburg.public|Rottenburg.public]] 
 
-### #is_/same_as :: [Rottenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Rottenburg~Neckar/City/Rottenburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Rottenburg~Neckar/City/Rottenburg.internal|Rottenburg.internal]] 
 
-### #is_/same_as :: [Rottenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Rottenburg~Neckar/City/Rottenburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Rottenburg~Neckar/City/Rottenburg.protect|Rottenburg.protect]] 
 
-### #is_/same_as :: [Rottenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Rottenburg~Neckar/City/Rottenburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Rottenburg~Neckar/City/Rottenburg.private|Rottenburg.private]] 
 
-### #is_/same_as :: [Rottenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Rottenburg~Neckar/City/Rottenburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Rottenburg~Neckar/City/Rottenburg.personal|Rottenburg.personal]] 
 
-### #is_/same_as :: [Rottenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Rottenburg~Neckar/City/Rottenburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Rottenburg~Neckar/City/Rottenburg.secret|Rottenburg.secret]] 
 

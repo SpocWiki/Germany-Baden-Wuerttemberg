@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Biberach~Riß-city](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Biberach~Riß-city.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Biberach~Riß-city|Biberach~Riß-city]] 
 
-### #is_/same_as :: [Biberach~Riß-city.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Biberach~Riß-city.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Biberach~Riß-city.public|Biberach~Riß-city.public]] 
 
-### #is_/same_as :: [Biberach~Riß-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Biberach~Riß-city.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Biberach~Riß-city.internal|Biberach~Riß-city.internal]] 
 
-### #is_/same_as :: [Biberach~Riß-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Biberach~Riß-city.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Biberach~Riß-city.protect|Biberach~Riß-city.protect]] 
 
-### #is_/same_as :: [Biberach~Riß-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Biberach~Riß-city.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Biberach~Riß-city.private|Biberach~Riß-city.private]] 
 
-### #is_/same_as :: [Biberach~Riß-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Biberach~Riß-city.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Biberach~Riß-city.personal|Biberach~Riß-city.personal]] 
 
-### #is_/same_as :: [Biberach~Riß-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Biberach~Riß-city.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Biberach~Riß-city.secret|Biberach~Riß-city.secret]] 
 

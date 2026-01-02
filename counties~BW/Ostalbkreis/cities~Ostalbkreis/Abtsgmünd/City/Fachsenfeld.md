@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fachsenfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Fachsenfeld.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Fachsenfeld|Fachsenfeld]] 
 
-### #is_/same_as :: [Fachsenfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Fachsenfeld.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Fachsenfeld.public|Fachsenfeld.public]] 
 
-### #is_/same_as :: [Fachsenfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Fachsenfeld.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Fachsenfeld.internal|Fachsenfeld.internal]] 
 
-### #is_/same_as :: [Fachsenfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Fachsenfeld.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Fachsenfeld.protect|Fachsenfeld.protect]] 
 
-### #is_/same_as :: [Fachsenfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Fachsenfeld.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Fachsenfeld.private|Fachsenfeld.private]] 
 
-### #is_/same_as :: [Fachsenfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Fachsenfeld.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Fachsenfeld.personal|Fachsenfeld.personal]] 
 
-### #is_/same_as :: [Fachsenfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Fachsenfeld.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Fachsenfeld.secret|Fachsenfeld.secret]] 
 

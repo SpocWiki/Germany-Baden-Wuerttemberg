@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bad_Cannstatt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Bad_Cannstatt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Bad_Cannstatt|Bad_Cannstatt]] 
 
-### #is_/same_as :: [Bad_Cannstatt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Bad_Cannstatt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Bad_Cannstatt.public|Bad_Cannstatt.public]] 
 
-### #is_/same_as :: [Bad_Cannstatt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Bad_Cannstatt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Bad_Cannstatt.internal|Bad_Cannstatt.internal]] 
 
-### #is_/same_as :: [Bad_Cannstatt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Bad_Cannstatt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Bad_Cannstatt.protect|Bad_Cannstatt.protect]] 
 
-### #is_/same_as :: [Bad_Cannstatt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Bad_Cannstatt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Bad_Cannstatt.private|Bad_Cannstatt.private]] 
 
-### #is_/same_as :: [Bad_Cannstatt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Bad_Cannstatt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Bad_Cannstatt.personal|Bad_Cannstatt.personal]] 
 
-### #is_/same_as :: [Bad_Cannstatt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Bad_Cannstatt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Bad_Cannstatt.secret|Bad_Cannstatt.secret]] 
 

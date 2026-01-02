@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Koenigsbach~Baden](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Kämpfelbachtal/City/Koenigsbach~Baden.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Kämpfelbachtal/City/Koenigsbach~Baden|Koenigsbach~Baden]] 
 
-### #is_/same_as :: [Koenigsbach~Baden.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Kämpfelbachtal/City/Koenigsbach~Baden.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Kämpfelbachtal/City/Koenigsbach~Baden.public|Koenigsbach~Baden.public]] 
 
-### #is_/same_as :: [Koenigsbach~Baden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Kämpfelbachtal/City/Koenigsbach~Baden.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Kämpfelbachtal/City/Koenigsbach~Baden.internal|Koenigsbach~Baden.internal]] 
 
-### #is_/same_as :: [Koenigsbach~Baden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Kämpfelbachtal/City/Koenigsbach~Baden.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Kämpfelbachtal/City/Koenigsbach~Baden.protect|Koenigsbach~Baden.protect]] 
 
-### #is_/same_as :: [Koenigsbach~Baden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Kämpfelbachtal/City/Koenigsbach~Baden.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Kämpfelbachtal/City/Koenigsbach~Baden.private|Koenigsbach~Baden.private]] 
 
-### #is_/same_as :: [Koenigsbach~Baden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Kämpfelbachtal/City/Koenigsbach~Baden.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Kämpfelbachtal/City/Koenigsbach~Baden.personal|Koenigsbach~Baden.personal]] 
 
-### #is_/same_as :: [Koenigsbach~Baden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Kämpfelbachtal/City/Koenigsbach~Baden.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Enzkreis/cities~Enzkreis/Kämpfelbachtal/City/Koenigsbach~Baden.secret|Koenigsbach~Baden.secret]] 
 

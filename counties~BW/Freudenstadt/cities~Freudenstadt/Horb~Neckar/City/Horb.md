@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Horb](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Horb~Neckar/City/Horb.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Horb~Neckar/City/Horb|Horb]] 
 
-### #is_/same_as :: [Horb.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Horb~Neckar/City/Horb.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Horb~Neckar/City/Horb.public|Horb.public]] 
 
-### #is_/same_as :: [Horb.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Horb~Neckar/City/Horb.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Horb~Neckar/City/Horb.internal|Horb.internal]] 
 
-### #is_/same_as :: [Horb.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Horb~Neckar/City/Horb.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Horb~Neckar/City/Horb.protect|Horb.protect]] 
 
-### #is_/same_as :: [Horb.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Horb~Neckar/City/Horb.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Horb~Neckar/City/Horb.private|Horb.private]] 
 
-### #is_/same_as :: [Horb.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Horb~Neckar/City/Horb.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Horb~Neckar/City/Horb.personal|Horb.personal]] 
 
-### #is_/same_as :: [Horb.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Horb~Neckar/City/Horb.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Horb~Neckar/City/Horb.secret|Horb.secret]] 
 

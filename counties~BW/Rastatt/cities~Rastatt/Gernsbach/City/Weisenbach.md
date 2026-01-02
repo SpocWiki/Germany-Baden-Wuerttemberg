@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Weisenbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gernsbach/City/Weisenbach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gernsbach/City/Weisenbach|Weisenbach]] 
 
-### #is_/same_as :: [Weisenbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gernsbach/City/Weisenbach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gernsbach/City/Weisenbach.public|Weisenbach.public]] 
 
-### #is_/same_as :: [Weisenbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gernsbach/City/Weisenbach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gernsbach/City/Weisenbach.internal|Weisenbach.internal]] 
 
-### #is_/same_as :: [Weisenbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gernsbach/City/Weisenbach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gernsbach/City/Weisenbach.protect|Weisenbach.protect]] 
 
-### #is_/same_as :: [Weisenbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gernsbach/City/Weisenbach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gernsbach/City/Weisenbach.private|Weisenbach.private]] 
 
-### #is_/same_as :: [Weisenbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gernsbach/City/Weisenbach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gernsbach/City/Weisenbach.personal|Weisenbach.personal]] 
 
-### #is_/same_as :: [Weisenbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gernsbach/City/Weisenbach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gernsbach/City/Weisenbach.secret|Weisenbach.secret]] 
 

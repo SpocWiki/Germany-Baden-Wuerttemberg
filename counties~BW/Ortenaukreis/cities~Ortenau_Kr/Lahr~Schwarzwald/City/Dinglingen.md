@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dinglingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Lahr~Schwarzwald/City/Dinglingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Lahr~Schwarzwald/City/Dinglingen|Dinglingen]] 
 
-### #is_/same_as :: [Dinglingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Lahr~Schwarzwald/City/Dinglingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Lahr~Schwarzwald/City/Dinglingen.public|Dinglingen.public]] 
 
-### #is_/same_as :: [Dinglingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Lahr~Schwarzwald/City/Dinglingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Lahr~Schwarzwald/City/Dinglingen.internal|Dinglingen.internal]] 
 
-### #is_/same_as :: [Dinglingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Lahr~Schwarzwald/City/Dinglingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Lahr~Schwarzwald/City/Dinglingen.protect|Dinglingen.protect]] 
 
-### #is_/same_as :: [Dinglingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Lahr~Schwarzwald/City/Dinglingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Lahr~Schwarzwald/City/Dinglingen.private|Dinglingen.private]] 
 
-### #is_/same_as :: [Dinglingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Lahr~Schwarzwald/City/Dinglingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Lahr~Schwarzwald/City/Dinglingen.personal|Dinglingen.personal]] 
 
-### #is_/same_as :: [Dinglingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Lahr~Schwarzwald/City/Dinglingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Lahr~Schwarzwald/City/Dinglingen.secret|Dinglingen.secret]] 
 

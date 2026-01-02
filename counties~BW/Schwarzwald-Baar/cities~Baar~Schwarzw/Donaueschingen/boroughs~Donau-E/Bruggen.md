@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bruggen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Donaueschingen/boroughs~Donau-E/Bruggen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Donaueschingen/boroughs~Donau-E/Bruggen|Bruggen]] 
 
-### #is_/same_as :: [Bruggen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Donaueschingen/boroughs~Donau-E/Bruggen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Donaueschingen/boroughs~Donau-E/Bruggen.public|Bruggen.public]] 
 
-### #is_/same_as :: [Bruggen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Donaueschingen/boroughs~Donau-E/Bruggen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Donaueschingen/boroughs~Donau-E/Bruggen.internal|Bruggen.internal]] 
 
-### #is_/same_as :: [Bruggen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Donaueschingen/boroughs~Donau-E/Bruggen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Donaueschingen/boroughs~Donau-E/Bruggen.protect|Bruggen.protect]] 
 
-### #is_/same_as :: [Bruggen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Donaueschingen/boroughs~Donau-E/Bruggen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Donaueschingen/boroughs~Donau-E/Bruggen.private|Bruggen.private]] 
 
-### #is_/same_as :: [Bruggen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Donaueschingen/boroughs~Donau-E/Bruggen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Donaueschingen/boroughs~Donau-E/Bruggen.personal|Bruggen.personal]] 
 
-### #is_/same_as :: [Bruggen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Donaueschingen/boroughs~Donau-E/Bruggen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Donaueschingen/boroughs~Donau-E/Bruggen.secret|Bruggen.secret]] 
 

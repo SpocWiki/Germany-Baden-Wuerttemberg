@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wasseralfingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Aalen/City/Wasseralfingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Aalen/City/Wasseralfingen|Wasseralfingen]] 
 
-### #is_/same_as :: [Wasseralfingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Aalen/City/Wasseralfingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Aalen/City/Wasseralfingen.public|Wasseralfingen.public]] 
 
-### #is_/same_as :: [Wasseralfingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Aalen/City/Wasseralfingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Aalen/City/Wasseralfingen.internal|Wasseralfingen.internal]] 
 
-### #is_/same_as :: [Wasseralfingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Aalen/City/Wasseralfingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Aalen/City/Wasseralfingen.protect|Wasseralfingen.protect]] 
 
-### #is_/same_as :: [Wasseralfingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Aalen/City/Wasseralfingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Aalen/City/Wasseralfingen.private|Wasseralfingen.private]] 
 
-### #is_/same_as :: [Wasseralfingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Aalen/City/Wasseralfingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Aalen/City/Wasseralfingen.personal|Wasseralfingen.personal]] 
 
-### #is_/same_as :: [Wasseralfingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Aalen/City/Wasseralfingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Aalen/City/Wasseralfingen.secret|Wasseralfingen.secret]] 
 

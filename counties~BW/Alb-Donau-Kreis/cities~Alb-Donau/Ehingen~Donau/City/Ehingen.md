@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ehingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Ehingen~Donau/City/Ehingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Ehingen~Donau/City/Ehingen|Ehingen]] 
 
-### #is_/same_as :: [Ehingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Ehingen~Donau/City/Ehingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Ehingen~Donau/City/Ehingen.public|Ehingen.public]] 
 
-### #is_/same_as :: [Ehingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Ehingen~Donau/City/Ehingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Ehingen~Donau/City/Ehingen.internal|Ehingen.internal]] 
 
-### #is_/same_as :: [Ehingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Ehingen~Donau/City/Ehingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Ehingen~Donau/City/Ehingen.protect|Ehingen.protect]] 
 
-### #is_/same_as :: [Ehingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Ehingen~Donau/City/Ehingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Ehingen~Donau/City/Ehingen.private|Ehingen.private]] 
 
-### #is_/same_as :: [Ehingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Ehingen~Donau/City/Ehingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Ehingen~Donau/City/Ehingen.personal|Ehingen.personal]] 
 
-### #is_/same_as :: [Ehingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Ehingen~Donau/City/Ehingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Ehingen~Donau/City/Ehingen.secret|Ehingen.secret]] 
 

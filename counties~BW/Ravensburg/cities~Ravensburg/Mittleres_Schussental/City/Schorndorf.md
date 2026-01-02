@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schorndorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Schorndorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Schorndorf|Schorndorf]] 
 
-### #is_/same_as :: [Schorndorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Schorndorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Schorndorf.public|Schorndorf.public]] 
 
-### #is_/same_as :: [Schorndorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Schorndorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Schorndorf.internal|Schorndorf.internal]] 
 
-### #is_/same_as :: [Schorndorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Schorndorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Schorndorf.protect|Schorndorf.protect]] 
 
-### #is_/same_as :: [Schorndorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Schorndorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Schorndorf.private|Schorndorf.private]] 
 
-### #is_/same_as :: [Schorndorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Schorndorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Schorndorf.personal|Schorndorf.personal]] 
 
-### #is_/same_as :: [Schorndorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Schorndorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Schorndorf.secret|Schorndorf.secret]] 
 

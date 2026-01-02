@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tettnang](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Tettnang.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Tettnang|Tettnang]] 
 
-### #is_/same_as :: [Tettnang.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Tettnang.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Tettnang.public|Tettnang.public]] 
 
-### #is_/same_as :: [Tettnang.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Tettnang.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Tettnang.internal|Tettnang.internal]] 
 
-### #is_/same_as :: [Tettnang.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Tettnang.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Tettnang.protect|Tettnang.protect]] 
 
-### #is_/same_as :: [Tettnang.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Tettnang.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Tettnang.private|Tettnang.private]] 
 
-### #is_/same_as :: [Tettnang.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Tettnang.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Tettnang.personal|Tettnang.personal]] 
 
-### #is_/same_as :: [Tettnang.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Tettnang.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Tettnang.secret|Tettnang.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mergentheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Bad_Mergentheim/City/Mergentheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Bad_Mergentheim/City/Mergentheim|Mergentheim]] 
 
-### #is_/same_as :: [Mergentheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Bad_Mergentheim/City/Mergentheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Bad_Mergentheim/City/Mergentheim.public|Mergentheim.public]] 
 
-### #is_/same_as :: [Mergentheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Bad_Mergentheim/City/Mergentheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Bad_Mergentheim/City/Mergentheim.internal|Mergentheim.internal]] 
 
-### #is_/same_as :: [Mergentheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Bad_Mergentheim/City/Mergentheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Bad_Mergentheim/City/Mergentheim.protect|Mergentheim.protect]] 
 
-### #is_/same_as :: [Mergentheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Bad_Mergentheim/City/Mergentheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Bad_Mergentheim/City/Mergentheim.private|Mergentheim.private]] 
 
-### #is_/same_as :: [Mergentheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Bad_Mergentheim/City/Mergentheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Bad_Mergentheim/City/Mergentheim.personal|Mergentheim.personal]] 
 
-### #is_/same_as :: [Mergentheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Bad_Mergentheim/City/Mergentheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Bad_Mergentheim/City/Mergentheim.secret|Mergentheim.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aalen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Aalen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Aalen|Aalen]] 
 
-### #is_/same_as :: [Aalen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Aalen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Aalen.public|Aalen.public]] 
 
-### #is_/same_as :: [Aalen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Aalen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Aalen.internal|Aalen.internal]] 
 
-### #is_/same_as :: [Aalen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Aalen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Aalen.protect|Aalen.protect]] 
 
-### #is_/same_as :: [Aalen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Aalen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Aalen.private|Aalen.private]] 
 
-### #is_/same_as :: [Aalen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Aalen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Aalen.personal|Aalen.personal]] 
 
-### #is_/same_as :: [Aalen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Aalen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Aalen.secret|Aalen.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Loeffingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Löffingen/City/Loeffingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Löffingen/City/Loeffingen|Loeffingen]] 
 
-### #is_/same_as :: [Loeffingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Löffingen/City/Loeffingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Löffingen/City/Loeffingen.public|Loeffingen.public]] 
 
-### #is_/same_as :: [Loeffingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Löffingen/City/Loeffingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Löffingen/City/Loeffingen.internal|Loeffingen.internal]] 
 
-### #is_/same_as :: [Loeffingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Löffingen/City/Loeffingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Löffingen/City/Loeffingen.protect|Loeffingen.protect]] 
 
-### #is_/same_as :: [Loeffingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Löffingen/City/Loeffingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Löffingen/City/Loeffingen.private|Loeffingen.private]] 
 
-### #is_/same_as :: [Loeffingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Löffingen/City/Loeffingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Löffingen/City/Loeffingen.personal|Loeffingen.personal]] 
 
-### #is_/same_as :: [Loeffingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Löffingen/City/Loeffingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Löffingen/City/Loeffingen.secret|Loeffingen.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gerhausen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Blaubeuren/City/Gerhausen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Blaubeuren/City/Gerhausen|Gerhausen]] 
 
-### #is_/same_as :: [Gerhausen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Blaubeuren/City/Gerhausen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Blaubeuren/City/Gerhausen.public|Gerhausen.public]] 
 
-### #is_/same_as :: [Gerhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Blaubeuren/City/Gerhausen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Blaubeuren/City/Gerhausen.internal|Gerhausen.internal]] 
 
-### #is_/same_as :: [Gerhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Blaubeuren/City/Gerhausen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Blaubeuren/City/Gerhausen.protect|Gerhausen.protect]] 
 
-### #is_/same_as :: [Gerhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Blaubeuren/City/Gerhausen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Blaubeuren/City/Gerhausen.private|Gerhausen.private]] 
 
-### #is_/same_as :: [Gerhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Blaubeuren/City/Gerhausen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Blaubeuren/City/Gerhausen.personal|Gerhausen.personal]] 
 
-### #is_/same_as :: [Gerhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Blaubeuren/City/Gerhausen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Blaubeuren/City/Gerhausen.secret|Gerhausen.secret]] 
 

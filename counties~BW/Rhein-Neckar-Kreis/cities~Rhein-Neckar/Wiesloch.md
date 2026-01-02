@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wiesloch](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Wiesloch.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Wiesloch|Wiesloch]] 
 
-### #is_/same_as :: [Wiesloch.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Wiesloch.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Wiesloch.public|Wiesloch.public]] 
 
-### #is_/same_as :: [Wiesloch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Wiesloch.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Wiesloch.internal|Wiesloch.internal]] 
 
-### #is_/same_as :: [Wiesloch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Wiesloch.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Wiesloch.protect|Wiesloch.protect]] 
 
-### #is_/same_as :: [Wiesloch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Wiesloch.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Wiesloch.private|Wiesloch.private]] 
 
-### #is_/same_as :: [Wiesloch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Wiesloch.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Wiesloch.personal|Wiesloch.personal]] 
 
-### #is_/same_as :: [Wiesloch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Wiesloch.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Wiesloch.secret|Wiesloch.secret]] 
 

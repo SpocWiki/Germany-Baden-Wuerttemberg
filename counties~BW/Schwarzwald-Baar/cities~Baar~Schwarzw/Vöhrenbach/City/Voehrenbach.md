@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Voehrenbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Vöhrenbach/City/Voehrenbach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Vöhrenbach/City/Voehrenbach|Voehrenbach]] 
 
-### #is_/same_as :: [Voehrenbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Vöhrenbach/City/Voehrenbach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Vöhrenbach/City/Voehrenbach.public|Voehrenbach.public]] 
 
-### #is_/same_as :: [Voehrenbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Vöhrenbach/City/Voehrenbach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Vöhrenbach/City/Voehrenbach.internal|Voehrenbach.internal]] 
 
-### #is_/same_as :: [Voehrenbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Vöhrenbach/City/Voehrenbach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Vöhrenbach/City/Voehrenbach.protect|Voehrenbach.protect]] 
 
-### #is_/same_as :: [Voehrenbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Vöhrenbach/City/Voehrenbach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Vöhrenbach/City/Voehrenbach.private|Voehrenbach.private]] 
 
-### #is_/same_as :: [Voehrenbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Vöhrenbach/City/Voehrenbach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Vöhrenbach/City/Voehrenbach.personal|Voehrenbach.personal]] 
 
-### #is_/same_as :: [Voehrenbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Vöhrenbach/City/Voehrenbach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Vöhrenbach/City/Voehrenbach.secret|Voehrenbach.secret]] 
 

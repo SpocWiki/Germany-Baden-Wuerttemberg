@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oppenau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Oberes_Renchtal/City/Oppenau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Oberes_Renchtal/City/Oppenau|Oppenau]] 
 
-### #is_/same_as :: [Oppenau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Oberes_Renchtal/City/Oppenau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Oberes_Renchtal/City/Oppenau.public|Oppenau.public]] 
 
-### #is_/same_as :: [Oppenau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Oberes_Renchtal/City/Oppenau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Oberes_Renchtal/City/Oppenau.internal|Oppenau.internal]] 
 
-### #is_/same_as :: [Oppenau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Oberes_Renchtal/City/Oppenau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Oberes_Renchtal/City/Oppenau.protect|Oppenau.protect]] 
 
-### #is_/same_as :: [Oppenau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Oberes_Renchtal/City/Oppenau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Oberes_Renchtal/City/Oppenau.private|Oppenau.private]] 
 
-### #is_/same_as :: [Oppenau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Oberes_Renchtal/City/Oppenau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Oberes_Renchtal/City/Oppenau.personal|Oppenau.personal]] 
 
-### #is_/same_as :: [Oppenau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Oberes_Renchtal/City/Oppenau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Oberes_Renchtal/City/Oppenau.secret|Oppenau.secret]] 
 

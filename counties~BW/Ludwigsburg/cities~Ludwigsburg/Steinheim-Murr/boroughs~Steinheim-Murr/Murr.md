@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Murr](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Steinheim-Murr/boroughs~Steinheim-Murr/Murr.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Steinheim-Murr/boroughs~Steinheim-Murr/Murr|Murr]] 
 
-### #is_/same_as :: [Murr.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Steinheim-Murr/boroughs~Steinheim-Murr/Murr.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Steinheim-Murr/boroughs~Steinheim-Murr/Murr.public|Murr.public]] 
 
-### #is_/same_as :: [Murr.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Steinheim-Murr/boroughs~Steinheim-Murr/Murr.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Steinheim-Murr/boroughs~Steinheim-Murr/Murr.internal|Murr.internal]] 
 
-### #is_/same_as :: [Murr.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Steinheim-Murr/boroughs~Steinheim-Murr/Murr.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Steinheim-Murr/boroughs~Steinheim-Murr/Murr.protect|Murr.protect]] 
 
-### #is_/same_as :: [Murr.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Steinheim-Murr/boroughs~Steinheim-Murr/Murr.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Steinheim-Murr/boroughs~Steinheim-Murr/Murr.private|Murr.private]] 
 
-### #is_/same_as :: [Murr.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Steinheim-Murr/boroughs~Steinheim-Murr/Murr.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Steinheim-Murr/boroughs~Steinheim-Murr/Murr.personal|Murr.personal]] 
 
-### #is_/same_as :: [Murr.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Steinheim-Murr/boroughs~Steinheim-Murr/Murr.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Steinheim-Murr/boroughs~Steinheim-Murr/Murr.secret|Murr.secret]] 
 

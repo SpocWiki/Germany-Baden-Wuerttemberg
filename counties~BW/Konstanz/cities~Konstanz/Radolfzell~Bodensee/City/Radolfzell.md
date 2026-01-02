@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Radolfzell](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Radolfzell.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Radolfzell|Radolfzell]] 
 
-### #is_/same_as :: [Radolfzell.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Radolfzell.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Radolfzell.public|Radolfzell.public]] 
 
-### #is_/same_as :: [Radolfzell.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Radolfzell.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Radolfzell.internal|Radolfzell.internal]] 
 
-### #is_/same_as :: [Radolfzell.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Radolfzell.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Radolfzell.protect|Radolfzell.protect]] 
 
-### #is_/same_as :: [Radolfzell.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Radolfzell.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Radolfzell.private|Radolfzell.private]] 
 
-### #is_/same_as :: [Radolfzell.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Radolfzell.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Radolfzell.personal|Radolfzell.personal]] 
 
-### #is_/same_as :: [Radolfzell.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Radolfzell.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Radolfzell.secret|Radolfzell.secret]] 
 

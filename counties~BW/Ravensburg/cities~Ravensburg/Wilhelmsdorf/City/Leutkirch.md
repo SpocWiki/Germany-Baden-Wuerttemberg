@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Leutkirch](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wilhelmsdorf/City/Leutkirch.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wilhelmsdorf/City/Leutkirch|Leutkirch]] 
 
-### #is_/same_as :: [Leutkirch.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wilhelmsdorf/City/Leutkirch.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wilhelmsdorf/City/Leutkirch.public|Leutkirch.public]] 
 
-### #is_/same_as :: [Leutkirch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wilhelmsdorf/City/Leutkirch.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wilhelmsdorf/City/Leutkirch.internal|Leutkirch.internal]] 
 
-### #is_/same_as :: [Leutkirch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wilhelmsdorf/City/Leutkirch.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wilhelmsdorf/City/Leutkirch.protect|Leutkirch.protect]] 
 
-### #is_/same_as :: [Leutkirch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wilhelmsdorf/City/Leutkirch.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wilhelmsdorf/City/Leutkirch.private|Leutkirch.private]] 
 
-### #is_/same_as :: [Leutkirch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wilhelmsdorf/City/Leutkirch.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wilhelmsdorf/City/Leutkirch.personal|Leutkirch.personal]] 
 
-### #is_/same_as :: [Leutkirch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wilhelmsdorf/City/Leutkirch.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Wilhelmsdorf/City/Leutkirch.secret|Leutkirch.secret]] 
 

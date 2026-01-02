@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kuenzelsau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Künzelsau/City/Kuenzelsau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Künzelsau/City/Kuenzelsau|Kuenzelsau]] 
 
-### #is_/same_as :: [Kuenzelsau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Künzelsau/City/Kuenzelsau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Künzelsau/City/Kuenzelsau.public|Kuenzelsau.public]] 
 
-### #is_/same_as :: [Kuenzelsau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Künzelsau/City/Kuenzelsau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Künzelsau/City/Kuenzelsau.internal|Kuenzelsau.internal]] 
 
-### #is_/same_as :: [Kuenzelsau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Künzelsau/City/Kuenzelsau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Künzelsau/City/Kuenzelsau.protect|Kuenzelsau.protect]] 
 
-### #is_/same_as :: [Kuenzelsau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Künzelsau/City/Kuenzelsau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Künzelsau/City/Kuenzelsau.private|Kuenzelsau.private]] 
 
-### #is_/same_as :: [Kuenzelsau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Künzelsau/City/Kuenzelsau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Künzelsau/City/Kuenzelsau.personal|Kuenzelsau.personal]] 
 
-### #is_/same_as :: [Kuenzelsau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Künzelsau/City/Kuenzelsau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Künzelsau/City/Kuenzelsau.secret|Kuenzelsau.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mauer](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Neckargemünd/City/Mauer.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Neckargemünd/City/Mauer|Mauer]] 
 
-### #is_/same_as :: [Mauer.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Neckargemünd/City/Mauer.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Neckargemünd/City/Mauer.public|Mauer.public]] 
 
-### #is_/same_as :: [Mauer.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Neckargemünd/City/Mauer.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Neckargemünd/City/Mauer.internal|Mauer.internal]] 
 
-### #is_/same_as :: [Mauer.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Neckargemünd/City/Mauer.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Neckargemünd/City/Mauer.protect|Mauer.protect]] 
 
-### #is_/same_as :: [Mauer.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Neckargemünd/City/Mauer.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Neckargemünd/City/Mauer.private|Mauer.private]] 
 
-### #is_/same_as :: [Mauer.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Neckargemünd/City/Mauer.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Neckargemünd/City/Mauer.personal|Mauer.personal]] 
 
-### #is_/same_as :: [Mauer.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Neckargemünd/City/Mauer.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Neckargemünd/City/Mauer.secret|Mauer.secret]] 
 

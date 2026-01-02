@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Haigerloch](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Haigerloch.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Haigerloch|Haigerloch]] 
 
-### #is_/same_as :: [Haigerloch.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Haigerloch.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Haigerloch.public|Haigerloch.public]] 
 
-### #is_/same_as :: [Haigerloch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Haigerloch.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Haigerloch.internal|Haigerloch.internal]] 
 
-### #is_/same_as :: [Haigerloch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Haigerloch.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Haigerloch.protect|Haigerloch.protect]] 
 
-### #is_/same_as :: [Haigerloch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Haigerloch.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Haigerloch.private|Haigerloch.private]] 
 
-### #is_/same_as :: [Haigerloch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Haigerloch.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Haigerloch.personal|Haigerloch.personal]] 
 
-### #is_/same_as :: [Haigerloch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Haigerloch.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Haigerloch.secret|Haigerloch.secret]] 
 

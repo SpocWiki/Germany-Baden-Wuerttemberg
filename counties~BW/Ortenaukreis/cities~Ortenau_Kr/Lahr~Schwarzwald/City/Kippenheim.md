@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kippenheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Lahr~Schwarzwald/City/Kippenheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Lahr~Schwarzwald/City/Kippenheim|Kippenheim]] 
 
-### #is_/same_as :: [Kippenheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Lahr~Schwarzwald/City/Kippenheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Lahr~Schwarzwald/City/Kippenheim.public|Kippenheim.public]] 
 
-### #is_/same_as :: [Kippenheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Lahr~Schwarzwald/City/Kippenheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Lahr~Schwarzwald/City/Kippenheim.internal|Kippenheim.internal]] 
 
-### #is_/same_as :: [Kippenheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Lahr~Schwarzwald/City/Kippenheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Lahr~Schwarzwald/City/Kippenheim.protect|Kippenheim.protect]] 
 
-### #is_/same_as :: [Kippenheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Lahr~Schwarzwald/City/Kippenheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Lahr~Schwarzwald/City/Kippenheim.private|Kippenheim.private]] 
 
-### #is_/same_as :: [Kippenheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Lahr~Schwarzwald/City/Kippenheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Lahr~Schwarzwald/City/Kippenheim.personal|Kippenheim.personal]] 
 
-### #is_/same_as :: [Kippenheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Lahr~Schwarzwald/City/Kippenheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Lahr~Schwarzwald/City/Kippenheim.secret|Kippenheim.secret]] 
 

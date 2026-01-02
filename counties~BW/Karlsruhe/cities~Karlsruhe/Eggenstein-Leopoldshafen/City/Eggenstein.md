@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eggenstein](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein|Eggenstein]] 
 
-### #is_/same_as :: [Eggenstein.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein.public|Eggenstein.public]] 
 
-### #is_/same_as :: [Eggenstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein.internal|Eggenstein.internal]] 
 
-### #is_/same_as :: [Eggenstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein.protect|Eggenstein.protect]] 
 
-### #is_/same_as :: [Eggenstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein.private|Eggenstein.private]] 
 
-### #is_/same_as :: [Eggenstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein.personal|Eggenstein.personal]] 
 
-### #is_/same_as :: [Eggenstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Eggenstein-Leopoldshafen/City/Eggenstein.secret|Eggenstein.secret]] 
 

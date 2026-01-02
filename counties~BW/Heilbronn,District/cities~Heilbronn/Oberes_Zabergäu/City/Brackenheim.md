@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brackenheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Oberes_Zabergäu/City/Brackenheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Oberes_Zabergäu/City/Brackenheim|Brackenheim]] 
 
-### #is_/same_as :: [Brackenheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Oberes_Zabergäu/City/Brackenheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Oberes_Zabergäu/City/Brackenheim.public|Brackenheim.public]] 
 
-### #is_/same_as :: [Brackenheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Oberes_Zabergäu/City/Brackenheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Oberes_Zabergäu/City/Brackenheim.internal|Brackenheim.internal]] 
 
-### #is_/same_as :: [Brackenheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Oberes_Zabergäu/City/Brackenheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Oberes_Zabergäu/City/Brackenheim.protect|Brackenheim.protect]] 
 
-### #is_/same_as :: [Brackenheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Oberes_Zabergäu/City/Brackenheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Oberes_Zabergäu/City/Brackenheim.private|Brackenheim.private]] 
 
-### #is_/same_as :: [Brackenheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Oberes_Zabergäu/City/Brackenheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Oberes_Zabergäu/City/Brackenheim.personal|Brackenheim.personal]] 
 
-### #is_/same_as :: [Brackenheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Oberes_Zabergäu/City/Brackenheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Oberes_Zabergäu/City/Brackenheim.secret|Brackenheim.secret]] 
 

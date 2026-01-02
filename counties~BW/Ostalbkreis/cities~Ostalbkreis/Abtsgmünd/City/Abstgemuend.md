@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Abstgemuend](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Abstgemuend.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Abstgemuend|Abstgemuend]] 
 
-### #is_/same_as :: [Abstgemuend.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Abstgemuend.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Abstgemuend.public|Abstgemuend.public]] 
 
-### #is_/same_as :: [Abstgemuend.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Abstgemuend.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Abstgemuend.internal|Abstgemuend.internal]] 
 
-### #is_/same_as :: [Abstgemuend.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Abstgemuend.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Abstgemuend.protect|Abstgemuend.protect]] 
 
-### #is_/same_as :: [Abstgemuend.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Abstgemuend.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Abstgemuend.private|Abstgemuend.private]] 
 
-### #is_/same_as :: [Abstgemuend.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Abstgemuend.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Abstgemuend.personal|Abstgemuend.personal]] 
 
-### #is_/same_as :: [Abstgemuend.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Abstgemuend.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Abtsgmünd/City/Abstgemuend.secret|Abstgemuend.secret]] 
 

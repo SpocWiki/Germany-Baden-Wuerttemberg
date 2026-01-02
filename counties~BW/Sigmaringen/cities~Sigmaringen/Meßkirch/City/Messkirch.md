@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Messkirch](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Meßkirch/City/Messkirch.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Meßkirch/City/Messkirch|Messkirch]] 
 
-### #is_/same_as :: [Messkirch.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Meßkirch/City/Messkirch.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Meßkirch/City/Messkirch.public|Messkirch.public]] 
 
-### #is_/same_as :: [Messkirch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Meßkirch/City/Messkirch.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Meßkirch/City/Messkirch.internal|Messkirch.internal]] 
 
-### #is_/same_as :: [Messkirch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Meßkirch/City/Messkirch.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Meßkirch/City/Messkirch.protect|Messkirch.protect]] 
 
-### #is_/same_as :: [Messkirch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Meßkirch/City/Messkirch.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Meßkirch/City/Messkirch.private|Messkirch.private]] 
 
-### #is_/same_as :: [Messkirch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Meßkirch/City/Messkirch.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Meßkirch/City/Messkirch.personal|Messkirch.personal]] 
 
-### #is_/same_as :: [Messkirch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Meßkirch/City/Messkirch.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Meßkirch/City/Messkirch.secret|Messkirch.secret]] 
 

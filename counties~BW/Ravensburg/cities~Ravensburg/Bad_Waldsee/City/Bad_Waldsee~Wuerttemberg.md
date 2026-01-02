@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bad_Waldsee~Wuerttemberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Bad_Waldsee/City/Bad_Waldsee~Wuerttemberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Bad_Waldsee/City/Bad_Waldsee~Wuerttemberg|Bad_Waldsee~Wuerttemberg]] 
 
-### #is_/same_as :: [Bad_Waldsee~Wuerttemberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Bad_Waldsee/City/Bad_Waldsee~Wuerttemberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Bad_Waldsee/City/Bad_Waldsee~Wuerttemberg.public|Bad_Waldsee~Wuerttemberg.public]] 
 
-### #is_/same_as :: [Bad_Waldsee~Wuerttemberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Bad_Waldsee/City/Bad_Waldsee~Wuerttemberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Bad_Waldsee/City/Bad_Waldsee~Wuerttemberg.internal|Bad_Waldsee~Wuerttemberg.internal]] 
 
-### #is_/same_as :: [Bad_Waldsee~Wuerttemberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Bad_Waldsee/City/Bad_Waldsee~Wuerttemberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Bad_Waldsee/City/Bad_Waldsee~Wuerttemberg.protect|Bad_Waldsee~Wuerttemberg.protect]] 
 
-### #is_/same_as :: [Bad_Waldsee~Wuerttemberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Bad_Waldsee/City/Bad_Waldsee~Wuerttemberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Bad_Waldsee/City/Bad_Waldsee~Wuerttemberg.private|Bad_Waldsee~Wuerttemberg.private]] 
 
-### #is_/same_as :: [Bad_Waldsee~Wuerttemberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Bad_Waldsee/City/Bad_Waldsee~Wuerttemberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Bad_Waldsee/City/Bad_Waldsee~Wuerttemberg.personal|Bad_Waldsee~Wuerttemberg.personal]] 
 
-### #is_/same_as :: [Bad_Waldsee~Wuerttemberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Bad_Waldsee/City/Bad_Waldsee~Wuerttemberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Bad_Waldsee/City/Bad_Waldsee~Wuerttemberg.secret|Bad_Waldsee~Wuerttemberg.secret]] 
 

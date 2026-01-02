@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diersburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Offenburg/City/Diersburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Offenburg/City/Diersburg|Diersburg]] 
 
-### #is_/same_as :: [Diersburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Offenburg/City/Diersburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Offenburg/City/Diersburg.public|Diersburg.public]] 
 
-### #is_/same_as :: [Diersburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Offenburg/City/Diersburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Offenburg/City/Diersburg.internal|Diersburg.internal]] 
 
-### #is_/same_as :: [Diersburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Offenburg/City/Diersburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Offenburg/City/Diersburg.protect|Diersburg.protect]] 
 
-### #is_/same_as :: [Diersburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Offenburg/City/Diersburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Offenburg/City/Diersburg.private|Diersburg.private]] 
 
-### #is_/same_as :: [Diersburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Offenburg/City/Diersburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Offenburg/City/Diersburg.personal|Diersburg.personal]] 
 
-### #is_/same_as :: [Diersburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Offenburg/City/Diersburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Offenburg/City/Diersburg.secret|Diersburg.secret]] 
 

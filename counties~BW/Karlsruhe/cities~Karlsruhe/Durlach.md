@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Durlach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Durlach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Durlach|Durlach]] 
 
-### #is_/same_as :: [Durlach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Durlach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Durlach.public|Durlach.public]] 
 
-### #is_/same_as :: [Durlach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Durlach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Durlach.internal|Durlach.internal]] 
 
-### #is_/same_as :: [Durlach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Durlach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Durlach.protect|Durlach.protect]] 
 
-### #is_/same_as :: [Durlach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Durlach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Durlach.private|Durlach.private]] 
 
-### #is_/same_as :: [Durlach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Durlach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Durlach.personal|Durlach.personal]] 
 
-### #is_/same_as :: [Durlach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Durlach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Durlach.secret|Durlach.secret]] 
 

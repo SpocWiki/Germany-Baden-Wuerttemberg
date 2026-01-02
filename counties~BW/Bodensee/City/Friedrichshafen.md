@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Friedrichshafen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Friedrichshafen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Friedrichshafen|Friedrichshafen]] 
 
-### #is_/same_as :: [Friedrichshafen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Friedrichshafen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Friedrichshafen.public|Friedrichshafen.public]] 
 
-### #is_/same_as :: [Friedrichshafen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Friedrichshafen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Friedrichshafen.internal|Friedrichshafen.internal]] 
 
-### #is_/same_as :: [Friedrichshafen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Friedrichshafen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Friedrichshafen.protect|Friedrichshafen.protect]] 
 
-### #is_/same_as :: [Friedrichshafen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Friedrichshafen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Friedrichshafen.private|Friedrichshafen.private]] 
 
-### #is_/same_as :: [Friedrichshafen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Friedrichshafen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Friedrichshafen.personal|Friedrichshafen.personal]] 
 
-### #is_/same_as :: [Friedrichshafen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Friedrichshafen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodensee/City/Friedrichshafen.secret|Friedrichshafen.secret]] 
 

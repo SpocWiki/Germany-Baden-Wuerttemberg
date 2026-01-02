@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tuttlingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Tuttlingen-city/City/Tuttlingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Tuttlingen-city/City/Tuttlingen|Tuttlingen]] 
 
-### #is_/same_as :: [Tuttlingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Tuttlingen-city/City/Tuttlingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Tuttlingen-city/City/Tuttlingen.public|Tuttlingen.public]] 
 
-### #is_/same_as :: [Tuttlingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Tuttlingen-city/City/Tuttlingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Tuttlingen-city/City/Tuttlingen.internal|Tuttlingen.internal]] 
 
-### #is_/same_as :: [Tuttlingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Tuttlingen-city/City/Tuttlingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Tuttlingen-city/City/Tuttlingen.protect|Tuttlingen.protect]] 
 
-### #is_/same_as :: [Tuttlingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Tuttlingen-city/City/Tuttlingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Tuttlingen-city/City/Tuttlingen.private|Tuttlingen.private]] 
 
-### #is_/same_as :: [Tuttlingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Tuttlingen-city/City/Tuttlingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Tuttlingen-city/City/Tuttlingen.personal|Tuttlingen.personal]] 
 
-### #is_/same_as :: [Tuttlingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Tuttlingen-city/City/Tuttlingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Tuttlingen-city/City/Tuttlingen.secret|Tuttlingen.secret]] 
 

@@ -176,17 +176,17 @@ inception: 1386-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Heidelberg_University](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg/Heidelberg_University.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg/Heidelberg_University|Heidelberg_University]] 
 
-### #is_/same_as :: [Heidelberg_University.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg/Heidelberg_University.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg/Heidelberg_University.public|Heidelberg_University.public]] 
 
-### #is_/same_as :: [Heidelberg_University.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg/Heidelberg_University.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg/Heidelberg_University.internal|Heidelberg_University.internal]] 
 
-### #is_/same_as :: [Heidelberg_University.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg/Heidelberg_University.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg/Heidelberg_University.protect|Heidelberg_University.protect]] 
 
-### #is_/same_as :: [Heidelberg_University.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg/Heidelberg_University.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg/Heidelberg_University.private|Heidelberg_University.private]] 
 
-### #is_/same_as :: [Heidelberg_University.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg/Heidelberg_University.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg/Heidelberg_University.personal|Heidelberg_University.personal]] 
 
-### #is_/same_as :: [Heidelberg_University.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg/Heidelberg_University.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidelberg/Heidelberg_University.secret|Heidelberg_University.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Goeppingen-city](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Goeppingen-city.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Goeppingen-city|Goeppingen-city]] 
 
-### #is_/same_as :: [Goeppingen-city.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Goeppingen-city.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Goeppingen-city.public|Goeppingen-city.public]] 
 
-### #is_/same_as :: [Goeppingen-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Goeppingen-city.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Goeppingen-city.internal|Goeppingen-city.internal]] 
 
-### #is_/same_as :: [Goeppingen-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Goeppingen-city.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Goeppingen-city.protect|Goeppingen-city.protect]] 
 
-### #is_/same_as :: [Goeppingen-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Goeppingen-city.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Goeppingen-city.private|Goeppingen-city.private]] 
 
-### #is_/same_as :: [Goeppingen-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Goeppingen-city.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Goeppingen-city.personal|Goeppingen-city.personal]] 
 
-### #is_/same_as :: [Goeppingen-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Goeppingen-city.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Goeppingen-city.secret|Goeppingen-city.secret]] 
 

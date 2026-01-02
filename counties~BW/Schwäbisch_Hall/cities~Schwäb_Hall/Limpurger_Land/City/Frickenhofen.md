@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Frickenhofen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Limpurger_Land/City/Frickenhofen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Limpurger_Land/City/Frickenhofen|Frickenhofen]] 
 
-### #is_/same_as :: [Frickenhofen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Limpurger_Land/City/Frickenhofen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Limpurger_Land/City/Frickenhofen.public|Frickenhofen.public]] 
 
-### #is_/same_as :: [Frickenhofen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Limpurger_Land/City/Frickenhofen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Limpurger_Land/City/Frickenhofen.internal|Frickenhofen.internal]] 
 
-### #is_/same_as :: [Frickenhofen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Limpurger_Land/City/Frickenhofen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Limpurger_Land/City/Frickenhofen.protect|Frickenhofen.protect]] 
 
-### #is_/same_as :: [Frickenhofen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Limpurger_Land/City/Frickenhofen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Limpurger_Land/City/Frickenhofen.private|Frickenhofen.private]] 
 
-### #is_/same_as :: [Frickenhofen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Limpurger_Land/City/Frickenhofen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Limpurger_Land/City/Frickenhofen.personal|Frickenhofen.personal]] 
 
-### #is_/same_as :: [Frickenhofen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Limpurger_Land/City/Frickenhofen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Limpurger_Land/City/Frickenhofen.secret|Frickenhofen.secret]] 
 

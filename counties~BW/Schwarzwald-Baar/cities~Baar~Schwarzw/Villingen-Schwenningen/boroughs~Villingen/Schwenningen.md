@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schwenningen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Schwenningen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Schwenningen|Schwenningen]] 
 
-### #is_/same_as :: [Schwenningen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Schwenningen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Schwenningen.public|Schwenningen.public]] 
 
-### #is_/same_as :: [Schwenningen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Schwenningen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Schwenningen.internal|Schwenningen.internal]] 
 
-### #is_/same_as :: [Schwenningen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Schwenningen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Schwenningen.protect|Schwenningen.protect]] 
 
-### #is_/same_as :: [Schwenningen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Schwenningen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Schwenningen.private|Schwenningen.private]] 
 
-### #is_/same_as :: [Schwenningen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Schwenningen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Schwenningen.personal|Schwenningen.personal]] 
 
-### #is_/same_as :: [Schwenningen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Schwenningen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Schwenningen.secret|Schwenningen.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Weil~Schönbuch](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch|Weil~Schönbuch]] 
 
-### #is_/same_as :: [Weil~Schönbuch.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch.public|Weil~Schönbuch.public]] 
 
-### #is_/same_as :: [Weil~Schönbuch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch.internal|Weil~Schönbuch.internal]] 
 
-### #is_/same_as :: [Weil~Schönbuch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch.protect|Weil~Schönbuch.protect]] 
 
-### #is_/same_as :: [Weil~Schönbuch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch.private|Weil~Schönbuch.private]] 
 
-### #is_/same_as :: [Weil~Schönbuch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch.personal|Weil~Schönbuch.personal]] 
 
-### #is_/same_as :: [Weil~Schönbuch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Weil~Schönbuch.secret|Weil~Schönbuch.secret]] 
 

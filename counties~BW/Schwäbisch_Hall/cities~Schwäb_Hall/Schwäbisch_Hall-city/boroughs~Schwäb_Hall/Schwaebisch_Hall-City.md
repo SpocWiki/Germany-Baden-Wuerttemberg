@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schwaebisch_Hall-City](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Schwäbisch_Hall-city/boroughs~Schwäb_Hall/Schwaebisch_Hall-City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Schwäbisch_Hall-city/boroughs~Schwäb_Hall/Schwaebisch_Hall-City|Schwaebisch_Hall-City]] 
 
-### #is_/same_as :: [Schwaebisch_Hall-City.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Schwäbisch_Hall-city/boroughs~Schwäb_Hall/Schwaebisch_Hall-City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Schwäbisch_Hall-city/boroughs~Schwäb_Hall/Schwaebisch_Hall-City.public|Schwaebisch_Hall-City.public]] 
 
-### #is_/same_as :: [Schwaebisch_Hall-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Schwäbisch_Hall-city/boroughs~Schwäb_Hall/Schwaebisch_Hall-City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Schwäbisch_Hall-city/boroughs~Schwäb_Hall/Schwaebisch_Hall-City.internal|Schwaebisch_Hall-City.internal]] 
 
-### #is_/same_as :: [Schwaebisch_Hall-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Schwäbisch_Hall-city/boroughs~Schwäb_Hall/Schwaebisch_Hall-City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Schwäbisch_Hall-city/boroughs~Schwäb_Hall/Schwaebisch_Hall-City.protect|Schwaebisch_Hall-City.protect]] 
 
-### #is_/same_as :: [Schwaebisch_Hall-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Schwäbisch_Hall-city/boroughs~Schwäb_Hall/Schwaebisch_Hall-City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Schwäbisch_Hall-city/boroughs~Schwäb_Hall/Schwaebisch_Hall-City.private|Schwaebisch_Hall-City.private]] 
 
-### #is_/same_as :: [Schwaebisch_Hall-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Schwäbisch_Hall-city/boroughs~Schwäb_Hall/Schwaebisch_Hall-City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Schwäbisch_Hall-city/boroughs~Schwäb_Hall/Schwaebisch_Hall-City.personal|Schwaebisch_Hall-City.personal]] 
 
-### #is_/same_as :: [Schwaebisch_Hall-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Schwäbisch_Hall-city/boroughs~Schwäb_Hall/Schwaebisch_Hall-City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Schwäbisch_Hall-city/boroughs~Schwäb_Hall/Schwaebisch_Hall-City.secret|Schwaebisch_Hall-City.secret]] 
 

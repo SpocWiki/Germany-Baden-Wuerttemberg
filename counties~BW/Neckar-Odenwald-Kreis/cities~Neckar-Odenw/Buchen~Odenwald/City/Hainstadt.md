@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hainstadt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Buchen~Odenwald/City/Hainstadt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Buchen~Odenwald/City/Hainstadt|Hainstadt]] 
 
-### #is_/same_as :: [Hainstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Buchen~Odenwald/City/Hainstadt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Buchen~Odenwald/City/Hainstadt.public|Hainstadt.public]] 
 
-### #is_/same_as :: [Hainstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Buchen~Odenwald/City/Hainstadt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Buchen~Odenwald/City/Hainstadt.internal|Hainstadt.internal]] 
 
-### #is_/same_as :: [Hainstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Buchen~Odenwald/City/Hainstadt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Buchen~Odenwald/City/Hainstadt.protect|Hainstadt.protect]] 
 
-### #is_/same_as :: [Hainstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Buchen~Odenwald/City/Hainstadt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Buchen~Odenwald/City/Hainstadt.private|Hainstadt.private]] 
 
-### #is_/same_as :: [Hainstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Buchen~Odenwald/City/Hainstadt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Buchen~Odenwald/City/Hainstadt.personal|Hainstadt.personal]] 
 
-### #is_/same_as :: [Hainstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Buchen~Odenwald/City/Hainstadt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Buchen~Odenwald/City/Hainstadt.secret|Hainstadt.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mosbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Mosbach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Mosbach|Mosbach]] 
 
-### #is_/same_as :: [Mosbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Mosbach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Mosbach.public|Mosbach.public]] 
 
-### #is_/same_as :: [Mosbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Mosbach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Mosbach.internal|Mosbach.internal]] 
 
-### #is_/same_as :: [Mosbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Mosbach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Mosbach.protect|Mosbach.protect]] 
 
-### #is_/same_as :: [Mosbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Mosbach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Mosbach.private|Mosbach.private]] 
 
-### #is_/same_as :: [Mosbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Mosbach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Mosbach.personal|Mosbach.personal]] 
 
-### #is_/same_as :: [Mosbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Mosbach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Mosbach.secret|Mosbach.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Muehlhofen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg/City/Muehlhofen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg/City/Muehlhofen|Muehlhofen]] 
 
-### #is_/same_as :: [Muehlhofen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg/City/Muehlhofen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg/City/Muehlhofen.public|Muehlhofen.public]] 
 
-### #is_/same_as :: [Muehlhofen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg/City/Muehlhofen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg/City/Muehlhofen.internal|Muehlhofen.internal]] 
 
-### #is_/same_as :: [Muehlhofen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg/City/Muehlhofen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg/City/Muehlhofen.protect|Muehlhofen.protect]] 
 
-### #is_/same_as :: [Muehlhofen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg/City/Muehlhofen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg/City/Muehlhofen.private|Muehlhofen.private]] 
 
-### #is_/same_as :: [Muehlhofen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg/City/Muehlhofen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg/City/Muehlhofen.personal|Muehlhofen.personal]] 
 
-### #is_/same_as :: [Muehlhofen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg/City/Muehlhofen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Meersburg/City/Muehlhofen.secret|Muehlhofen.secret]] 
 

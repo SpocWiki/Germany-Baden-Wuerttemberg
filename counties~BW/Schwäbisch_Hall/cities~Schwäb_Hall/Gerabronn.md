@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gerabronn](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Gerabronn.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Gerabronn|Gerabronn]] 
 
-### #is_/same_as :: [Gerabronn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Gerabronn.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Gerabronn.public|Gerabronn.public]] 
 
-### #is_/same_as :: [Gerabronn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Gerabronn.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Gerabronn.internal|Gerabronn.internal]] 
 
-### #is_/same_as :: [Gerabronn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Gerabronn.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Gerabronn.protect|Gerabronn.protect]] 
 
-### #is_/same_as :: [Gerabronn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Gerabronn.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Gerabronn.private|Gerabronn.private]] 
 
-### #is_/same_as :: [Gerabronn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Gerabronn.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Gerabronn.personal|Gerabronn.personal]] 
 
-### #is_/same_as :: [Gerabronn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Gerabronn.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Gerabronn.secret|Gerabronn.secret]] 
 

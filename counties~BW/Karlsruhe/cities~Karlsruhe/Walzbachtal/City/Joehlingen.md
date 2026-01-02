@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Joehlingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Walzbachtal/City/Joehlingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Walzbachtal/City/Joehlingen|Joehlingen]] 
 
-### #is_/same_as :: [Joehlingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Walzbachtal/City/Joehlingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Walzbachtal/City/Joehlingen.public|Joehlingen.public]] 
 
-### #is_/same_as :: [Joehlingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Walzbachtal/City/Joehlingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Walzbachtal/City/Joehlingen.internal|Joehlingen.internal]] 
 
-### #is_/same_as :: [Joehlingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Walzbachtal/City/Joehlingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Walzbachtal/City/Joehlingen.protect|Joehlingen.protect]] 
 
-### #is_/same_as :: [Joehlingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Walzbachtal/City/Joehlingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Walzbachtal/City/Joehlingen.private|Joehlingen.private]] 
 
-### #is_/same_as :: [Joehlingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Walzbachtal/City/Joehlingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Walzbachtal/City/Joehlingen.personal|Joehlingen.personal]] 
 
-### #is_/same_as :: [Joehlingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Walzbachtal/City/Joehlingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Walzbachtal/City/Joehlingen.secret|Joehlingen.secret]] 
 

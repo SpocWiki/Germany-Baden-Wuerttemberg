@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reutlingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Reutlingen-city/City/Reutlingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Reutlingen-city/City/Reutlingen|Reutlingen]] 
 
-### #is_/same_as :: [Reutlingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Reutlingen-city/City/Reutlingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Reutlingen-city/City/Reutlingen.public|Reutlingen.public]] 
 
-### #is_/same_as :: [Reutlingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Reutlingen-city/City/Reutlingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Reutlingen-city/City/Reutlingen.internal|Reutlingen.internal]] 
 
-### #is_/same_as :: [Reutlingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Reutlingen-city/City/Reutlingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Reutlingen-city/City/Reutlingen.protect|Reutlingen.protect]] 
 
-### #is_/same_as :: [Reutlingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Reutlingen-city/City/Reutlingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Reutlingen-city/City/Reutlingen.private|Reutlingen.private]] 
 
-### #is_/same_as :: [Reutlingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Reutlingen-city/City/Reutlingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Reutlingen-city/City/Reutlingen.personal|Reutlingen.personal]] 
 
-### #is_/same_as :: [Reutlingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Reutlingen-city/City/Reutlingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Reutlingen-city/City/Reutlingen.secret|Reutlingen.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Maselheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Maselheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Maselheim|Maselheim]] 
 
-### #is_/same_as :: [Maselheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Maselheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Maselheim.public|Maselheim.public]] 
 
-### #is_/same_as :: [Maselheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Maselheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Maselheim.internal|Maselheim.internal]] 
 
-### #is_/same_as :: [Maselheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Maselheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Maselheim.protect|Maselheim.protect]] 
 
-### #is_/same_as :: [Maselheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Maselheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Maselheim.private|Maselheim.private]] 
 
-### #is_/same_as :: [Maselheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Maselheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Maselheim.personal|Maselheim.personal]] 
 
-### #is_/same_as :: [Maselheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Maselheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Biberach~Riß/boroughs~Biberach~Riß/Maselheim.secret|Maselheim.secret]] 
 

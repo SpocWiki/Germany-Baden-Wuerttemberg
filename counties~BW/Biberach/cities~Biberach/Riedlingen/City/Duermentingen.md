@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Duermentingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Riedlingen/City/Duermentingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Riedlingen/City/Duermentingen|Duermentingen]] 
 
-### #is_/same_as :: [Duermentingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Riedlingen/City/Duermentingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Riedlingen/City/Duermentingen.public|Duermentingen.public]] 
 
-### #is_/same_as :: [Duermentingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Riedlingen/City/Duermentingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Riedlingen/City/Duermentingen.internal|Duermentingen.internal]] 
 
-### #is_/same_as :: [Duermentingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Riedlingen/City/Duermentingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Riedlingen/City/Duermentingen.protect|Duermentingen.protect]] 
 
-### #is_/same_as :: [Duermentingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Riedlingen/City/Duermentingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Riedlingen/City/Duermentingen.private|Duermentingen.private]] 
 
-### #is_/same_as :: [Duermentingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Riedlingen/City/Duermentingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Riedlingen/City/Duermentingen.personal|Duermentingen.personal]] 
 
-### #is_/same_as :: [Duermentingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Riedlingen/City/Duermentingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Riedlingen/City/Duermentingen.secret|Duermentingen.secret]] 
 

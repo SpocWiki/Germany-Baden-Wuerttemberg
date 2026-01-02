@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gerstettn](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Gerstetten/City/Gerstettn.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Gerstetten/City/Gerstettn|Gerstettn]] 
 
-### #is_/same_as :: [Gerstettn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Gerstetten/City/Gerstettn.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Gerstetten/City/Gerstettn.public|Gerstettn.public]] 
 
-### #is_/same_as :: [Gerstettn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Gerstetten/City/Gerstettn.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Gerstetten/City/Gerstettn.internal|Gerstettn.internal]] 
 
-### #is_/same_as :: [Gerstettn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Gerstetten/City/Gerstettn.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Gerstetten/City/Gerstettn.protect|Gerstettn.protect]] 
 
-### #is_/same_as :: [Gerstettn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Gerstetten/City/Gerstettn.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Gerstetten/City/Gerstettn.private|Gerstettn.private]] 
 
-### #is_/same_as :: [Gerstettn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Gerstetten/City/Gerstettn.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Gerstetten/City/Gerstettn.personal|Gerstettn.personal]] 
 
-### #is_/same_as :: [Gerstettn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Gerstetten/City/Gerstettn.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Gerstetten/City/Gerstettn.secret|Gerstettn.secret]] 
 

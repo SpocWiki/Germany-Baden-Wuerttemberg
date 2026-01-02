@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schwaebisch-Gmuend](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Schwaebisch-Gmuend.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Schwaebisch-Gmuend|Schwaebisch-Gmuend]] 
 
-### #is_/same_as :: [Schwaebisch-Gmuend.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Schwaebisch-Gmuend.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Schwaebisch-Gmuend.public|Schwaebisch-Gmuend.public]] 
 
-### #is_/same_as :: [Schwaebisch-Gmuend.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Schwaebisch-Gmuend.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Schwaebisch-Gmuend.internal|Schwaebisch-Gmuend.internal]] 
 
-### #is_/same_as :: [Schwaebisch-Gmuend.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Schwaebisch-Gmuend.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Schwaebisch-Gmuend.protect|Schwaebisch-Gmuend.protect]] 
 
-### #is_/same_as :: [Schwaebisch-Gmuend.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Schwaebisch-Gmuend.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Schwaebisch-Gmuend.private|Schwaebisch-Gmuend.private]] 
 
-### #is_/same_as :: [Schwaebisch-Gmuend.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Schwaebisch-Gmuend.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Schwaebisch-Gmuend.personal|Schwaebisch-Gmuend.personal]] 
 
-### #is_/same_as :: [Schwaebisch-Gmuend.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Schwaebisch-Gmuend.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Schwaebisch-Gmuend.secret|Schwaebisch-Gmuend.secret]] 
 

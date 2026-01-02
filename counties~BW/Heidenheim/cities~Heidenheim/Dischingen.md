@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dischingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Dischingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Dischingen|Dischingen]] 
 
-### #is_/same_as :: [Dischingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Dischingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Dischingen.public|Dischingen.public]] 
 
-### #is_/same_as :: [Dischingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Dischingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Dischingen.internal|Dischingen.internal]] 
 
-### #is_/same_as :: [Dischingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Dischingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Dischingen.protect|Dischingen.protect]] 
 
-### #is_/same_as :: [Dischingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Dischingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Dischingen.private|Dischingen.private]] 
 
-### #is_/same_as :: [Dischingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Dischingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Dischingen.personal|Dischingen.personal]] 
 
-### #is_/same_as :: [Dischingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Dischingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Dischingen.secret|Dischingen.secret]] 
 

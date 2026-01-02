@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Haslach~Kinzigtal~City](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Haslach~Kinzigtal/boroughs~Haslach~Kinzigtal/Haslach~Kinzigtal~City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Haslach~Kinzigtal/boroughs~Haslach~Kinzigtal/Haslach~Kinzigtal~City|Haslach~Kinzigtal~City]] 
 
-### #is_/same_as :: [Haslach~Kinzigtal~City.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Haslach~Kinzigtal/boroughs~Haslach~Kinzigtal/Haslach~Kinzigtal~City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Haslach~Kinzigtal/boroughs~Haslach~Kinzigtal/Haslach~Kinzigtal~City.public|Haslach~Kinzigtal~City.public]] 
 
-### #is_/same_as :: [Haslach~Kinzigtal~City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Haslach~Kinzigtal/boroughs~Haslach~Kinzigtal/Haslach~Kinzigtal~City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Haslach~Kinzigtal/boroughs~Haslach~Kinzigtal/Haslach~Kinzigtal~City.internal|Haslach~Kinzigtal~City.internal]] 
 
-### #is_/same_as :: [Haslach~Kinzigtal~City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Haslach~Kinzigtal/boroughs~Haslach~Kinzigtal/Haslach~Kinzigtal~City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Haslach~Kinzigtal/boroughs~Haslach~Kinzigtal/Haslach~Kinzigtal~City.protect|Haslach~Kinzigtal~City.protect]] 
 
-### #is_/same_as :: [Haslach~Kinzigtal~City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Haslach~Kinzigtal/boroughs~Haslach~Kinzigtal/Haslach~Kinzigtal~City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Haslach~Kinzigtal/boroughs~Haslach~Kinzigtal/Haslach~Kinzigtal~City.private|Haslach~Kinzigtal~City.private]] 
 
-### #is_/same_as :: [Haslach~Kinzigtal~City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Haslach~Kinzigtal/boroughs~Haslach~Kinzigtal/Haslach~Kinzigtal~City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Haslach~Kinzigtal/boroughs~Haslach~Kinzigtal/Haslach~Kinzigtal~City.personal|Haslach~Kinzigtal~City.personal]] 
 
-### #is_/same_as :: [Haslach~Kinzigtal~City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Haslach~Kinzigtal/boroughs~Haslach~Kinzigtal/Haslach~Kinzigtal~City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ortenaukreis/cities~Ortenau_Kr/Haslach~Kinzigtal/boroughs~Haslach~Kinzigtal/Haslach~Kinzigtal~City.secret|Haslach~Kinzigtal~City.secret]] 
 

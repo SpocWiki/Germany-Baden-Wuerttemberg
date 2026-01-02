@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Waibstadt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Waibstadt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Waibstadt|Waibstadt]] 
 
-### #is_/same_as :: [Waibstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Waibstadt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Waibstadt.public|Waibstadt.public]] 
 
-### #is_/same_as :: [Waibstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Waibstadt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Waibstadt.internal|Waibstadt.internal]] 
 
-### #is_/same_as :: [Waibstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Waibstadt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Waibstadt.protect|Waibstadt.protect]] 
 
-### #is_/same_as :: [Waibstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Waibstadt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Waibstadt.private|Waibstadt.private]] 
 
-### #is_/same_as :: [Waibstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Waibstadt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Waibstadt.personal|Waibstadt.personal]] 
 
-### #is_/same_as :: [Waibstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Waibstadt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Waibstadt.secret|Waibstadt.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gaggenau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gaggenau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gaggenau|Gaggenau]] 
 
-### #is_/same_as :: [Gaggenau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gaggenau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gaggenau.public|Gaggenau.public]] 
 
-### #is_/same_as :: [Gaggenau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gaggenau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gaggenau.internal|Gaggenau.internal]] 
 
-### #is_/same_as :: [Gaggenau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gaggenau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gaggenau.protect|Gaggenau.protect]] 
 
-### #is_/same_as :: [Gaggenau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gaggenau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gaggenau.private|Gaggenau.private]] 
 
-### #is_/same_as :: [Gaggenau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gaggenau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gaggenau.personal|Gaggenau.personal]] 
 
-### #is_/same_as :: [Gaggenau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gaggenau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Gaggenau.secret|Gaggenau.secret]] 
 

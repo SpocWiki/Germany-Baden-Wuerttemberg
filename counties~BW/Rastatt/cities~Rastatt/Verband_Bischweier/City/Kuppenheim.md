@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kuppenheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Verband_Bischweier/City/Kuppenheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Verband_Bischweier/City/Kuppenheim|Kuppenheim]] 
 
-### #is_/same_as :: [Kuppenheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Verband_Bischweier/City/Kuppenheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Verband_Bischweier/City/Kuppenheim.public|Kuppenheim.public]] 
 
-### #is_/same_as :: [Kuppenheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Verband_Bischweier/City/Kuppenheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Verband_Bischweier/City/Kuppenheim.internal|Kuppenheim.internal]] 
 
-### #is_/same_as :: [Kuppenheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Verband_Bischweier/City/Kuppenheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Verband_Bischweier/City/Kuppenheim.protect|Kuppenheim.protect]] 
 
-### #is_/same_as :: [Kuppenheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Verband_Bischweier/City/Kuppenheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Verband_Bischweier/City/Kuppenheim.private|Kuppenheim.private]] 
 
-### #is_/same_as :: [Kuppenheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Verband_Bischweier/City/Kuppenheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Verband_Bischweier/City/Kuppenheim.personal|Kuppenheim.personal]] 
 
-### #is_/same_as :: [Kuppenheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Verband_Bischweier/City/Kuppenheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Verband_Bischweier/City/Kuppenheim.secret|Kuppenheim.secret]] 
 

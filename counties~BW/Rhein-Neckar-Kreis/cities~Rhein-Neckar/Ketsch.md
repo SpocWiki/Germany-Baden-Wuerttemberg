@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ketsch](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Ketsch.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Ketsch|Ketsch]] 
 
-### #is_/same_as :: [Ketsch.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Ketsch.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Ketsch.public|Ketsch.public]] 
 
-### #is_/same_as :: [Ketsch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Ketsch.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Ketsch.internal|Ketsch.internal]] 
 
-### #is_/same_as :: [Ketsch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Ketsch.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Ketsch.protect|Ketsch.protect]] 
 
-### #is_/same_as :: [Ketsch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Ketsch.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Ketsch.private|Ketsch.private]] 
 
-### #is_/same_as :: [Ketsch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Ketsch.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Ketsch.personal|Ketsch.personal]] 
 
-### #is_/same_as :: [Ketsch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Ketsch.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Ketsch.secret|Ketsch.secret]] 
 

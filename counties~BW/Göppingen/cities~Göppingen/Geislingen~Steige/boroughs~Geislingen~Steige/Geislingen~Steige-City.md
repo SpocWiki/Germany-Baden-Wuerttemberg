@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Geislingen~Steige-City](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Geislingen~Steige/boroughs~Geislingen~Steige/Geislingen~Steige-City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Geislingen~Steige/boroughs~Geislingen~Steige/Geislingen~Steige-City|Geislingen~Steige-City]] 
 
-### #is_/same_as :: [Geislingen~Steige-City.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Geislingen~Steige/boroughs~Geislingen~Steige/Geislingen~Steige-City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Geislingen~Steige/boroughs~Geislingen~Steige/Geislingen~Steige-City.public|Geislingen~Steige-City.public]] 
 
-### #is_/same_as :: [Geislingen~Steige-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Geislingen~Steige/boroughs~Geislingen~Steige/Geislingen~Steige-City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Geislingen~Steige/boroughs~Geislingen~Steige/Geislingen~Steige-City.internal|Geislingen~Steige-City.internal]] 
 
-### #is_/same_as :: [Geislingen~Steige-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Geislingen~Steige/boroughs~Geislingen~Steige/Geislingen~Steige-City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Geislingen~Steige/boroughs~Geislingen~Steige/Geislingen~Steige-City.protect|Geislingen~Steige-City.protect]] 
 
-### #is_/same_as :: [Geislingen~Steige-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Geislingen~Steige/boroughs~Geislingen~Steige/Geislingen~Steige-City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Geislingen~Steige/boroughs~Geislingen~Steige/Geislingen~Steige-City.private|Geislingen~Steige-City.private]] 
 
-### #is_/same_as :: [Geislingen~Steige-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Geislingen~Steige/boroughs~Geislingen~Steige/Geislingen~Steige-City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Geislingen~Steige/boroughs~Geislingen~Steige/Geislingen~Steige-City.personal|Geislingen~Steige-City.personal]] 
 
-### #is_/same_as :: [Geislingen~Steige-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Geislingen~Steige/boroughs~Geislingen~Steige/Geislingen~Steige-City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Geislingen~Steige/boroughs~Geislingen~Steige/Geislingen~Steige-City.secret|Geislingen~Steige-City.secret]] 
 

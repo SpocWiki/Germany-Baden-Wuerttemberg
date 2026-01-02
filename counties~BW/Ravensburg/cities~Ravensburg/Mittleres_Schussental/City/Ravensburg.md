@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ravensburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Ravensburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Ravensburg|Ravensburg]] 
 
-### #is_/same_as :: [Ravensburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Ravensburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Ravensburg.public|Ravensburg.public]] 
 
-### #is_/same_as :: [Ravensburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Ravensburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Ravensburg.internal|Ravensburg.internal]] 
 
-### #is_/same_as :: [Ravensburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Ravensburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Ravensburg.protect|Ravensburg.protect]] 
 
-### #is_/same_as :: [Ravensburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Ravensburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Ravensburg.private|Ravensburg.private]] 
 
-### #is_/same_as :: [Ravensburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Ravensburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Ravensburg.personal|Ravensburg.personal]] 
 
-### #is_/same_as :: [Ravensburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Ravensburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Ravensburg.secret|Ravensburg.secret]] 
 

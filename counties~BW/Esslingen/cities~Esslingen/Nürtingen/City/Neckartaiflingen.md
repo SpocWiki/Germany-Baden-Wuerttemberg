@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neckartaiflingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Neckartaiflingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Neckartaiflingen|Neckartaiflingen]] 
 
-### #is_/same_as :: [Neckartaiflingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Neckartaiflingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Neckartaiflingen.public|Neckartaiflingen.public]] 
 
-### #is_/same_as :: [Neckartaiflingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Neckartaiflingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Neckartaiflingen.internal|Neckartaiflingen.internal]] 
 
-### #is_/same_as :: [Neckartaiflingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Neckartaiflingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Neckartaiflingen.protect|Neckartaiflingen.protect]] 
 
-### #is_/same_as :: [Neckartaiflingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Neckartaiflingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Neckartaiflingen.private|Neckartaiflingen.private]] 
 
-### #is_/same_as :: [Neckartaiflingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Neckartaiflingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Neckartaiflingen.personal|Neckartaiflingen.personal]] 
 
-### #is_/same_as :: [Neckartaiflingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Neckartaiflingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Nürtingen/City/Neckartaiflingen.secret|Neckartaiflingen.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schussenried-city](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Bad_Schussenried/boroughs~Schussenried/Schussenried-city.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Bad_Schussenried/boroughs~Schussenried/Schussenried-city|Schussenried-city]] 
 
-### #is_/same_as :: [Schussenried-city.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Bad_Schussenried/boroughs~Schussenried/Schussenried-city.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Bad_Schussenried/boroughs~Schussenried/Schussenried-city.public|Schussenried-city.public]] 
 
-### #is_/same_as :: [Schussenried-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Bad_Schussenried/boroughs~Schussenried/Schussenried-city.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Bad_Schussenried/boroughs~Schussenried/Schussenried-city.internal|Schussenried-city.internal]] 
 
-### #is_/same_as :: [Schussenried-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Bad_Schussenried/boroughs~Schussenried/Schussenried-city.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Bad_Schussenried/boroughs~Schussenried/Schussenried-city.protect|Schussenried-city.protect]] 
 
-### #is_/same_as :: [Schussenried-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Bad_Schussenried/boroughs~Schussenried/Schussenried-city.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Bad_Schussenried/boroughs~Schussenried/Schussenried-city.private|Schussenried-city.private]] 
 
-### #is_/same_as :: [Schussenried-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Bad_Schussenried/boroughs~Schussenried/Schussenried-city.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Bad_Schussenried/boroughs~Schussenried/Schussenried-city.personal|Schussenried-city.personal]] 
 
-### #is_/same_as :: [Schussenried-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Bad_Schussenried/boroughs~Schussenried/Schussenried-city.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Bad_Schussenried/boroughs~Schussenried/Schussenried-city.secret|Schussenried-city.secret]] 
 

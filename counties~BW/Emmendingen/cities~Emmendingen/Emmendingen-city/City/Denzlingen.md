@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Denzlingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Emmendingen-city/City/Denzlingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Emmendingen-city/City/Denzlingen|Denzlingen]] 
 
-### #is_/same_as :: [Denzlingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Emmendingen-city/City/Denzlingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Emmendingen-city/City/Denzlingen.public|Denzlingen.public]] 
 
-### #is_/same_as :: [Denzlingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Emmendingen-city/City/Denzlingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Emmendingen-city/City/Denzlingen.internal|Denzlingen.internal]] 
 
-### #is_/same_as :: [Denzlingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Emmendingen-city/City/Denzlingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Emmendingen-city/City/Denzlingen.protect|Denzlingen.protect]] 
 
-### #is_/same_as :: [Denzlingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Emmendingen-city/City/Denzlingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Emmendingen-city/City/Denzlingen.private|Denzlingen.private]] 
 
-### #is_/same_as :: [Denzlingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Emmendingen-city/City/Denzlingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Emmendingen-city/City/Denzlingen.personal|Denzlingen.personal]] 
 
-### #is_/same_as :: [Denzlingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Emmendingen-city/City/Denzlingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Emmendingen-city/City/Denzlingen.secret|Denzlingen.secret]] 
 

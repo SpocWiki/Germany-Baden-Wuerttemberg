@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Leinfelden](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Leinfelden-Echterdingen/City/Leinfelden.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Leinfelden-Echterdingen/City/Leinfelden|Leinfelden]] 
 
-### #is_/same_as :: [Leinfelden.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Leinfelden-Echterdingen/City/Leinfelden.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Leinfelden-Echterdingen/City/Leinfelden.public|Leinfelden.public]] 
 
-### #is_/same_as :: [Leinfelden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Leinfelden-Echterdingen/City/Leinfelden.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Leinfelden-Echterdingen/City/Leinfelden.internal|Leinfelden.internal]] 
 
-### #is_/same_as :: [Leinfelden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Leinfelden-Echterdingen/City/Leinfelden.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Leinfelden-Echterdingen/City/Leinfelden.protect|Leinfelden.protect]] 
 
-### #is_/same_as :: [Leinfelden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Leinfelden-Echterdingen/City/Leinfelden.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Leinfelden-Echterdingen/City/Leinfelden.private|Leinfelden.private]] 
 
-### #is_/same_as :: [Leinfelden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Leinfelden-Echterdingen/City/Leinfelden.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Leinfelden-Echterdingen/City/Leinfelden.personal|Leinfelden.personal]] 
 
-### #is_/same_as :: [Leinfelden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Leinfelden-Echterdingen/City/Leinfelden.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Leinfelden-Echterdingen/City/Leinfelden.secret|Leinfelden.secret]] 
 

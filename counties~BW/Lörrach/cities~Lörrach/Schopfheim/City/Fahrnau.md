@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fahrnau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Schopfheim/City/Fahrnau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Schopfheim/City/Fahrnau|Fahrnau]] 
 
-### #is_/same_as :: [Fahrnau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Schopfheim/City/Fahrnau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Schopfheim/City/Fahrnau.public|Fahrnau.public]] 
 
-### #is_/same_as :: [Fahrnau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Schopfheim/City/Fahrnau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Schopfheim/City/Fahrnau.internal|Fahrnau.internal]] 
 
-### #is_/same_as :: [Fahrnau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Schopfheim/City/Fahrnau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Schopfheim/City/Fahrnau.protect|Fahrnau.protect]] 
 
-### #is_/same_as :: [Fahrnau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Schopfheim/City/Fahrnau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Schopfheim/City/Fahrnau.private|Fahrnau.private]] 
 
-### #is_/same_as :: [Fahrnau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Schopfheim/City/Fahrnau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Schopfheim/City/Fahrnau.personal|Fahrnau.personal]] 
 
-### #is_/same_as :: [Fahrnau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Schopfheim/City/Fahrnau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Schopfheim/City/Fahrnau.secret|Fahrnau.secret]] 
 

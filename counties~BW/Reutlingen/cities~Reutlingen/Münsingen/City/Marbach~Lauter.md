@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Marbach~Lauter](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Marbach~Lauter.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Marbach~Lauter|Marbach~Lauter]] 
 
-### #is_/same_as :: [Marbach~Lauter.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Marbach~Lauter.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Marbach~Lauter.public|Marbach~Lauter.public]] 
 
-### #is_/same_as :: [Marbach~Lauter.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Marbach~Lauter.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Marbach~Lauter.internal|Marbach~Lauter.internal]] 
 
-### #is_/same_as :: [Marbach~Lauter.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Marbach~Lauter.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Marbach~Lauter.protect|Marbach~Lauter.protect]] 
 
-### #is_/same_as :: [Marbach~Lauter.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Marbach~Lauter.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Marbach~Lauter.private|Marbach~Lauter.private]] 
 
-### #is_/same_as :: [Marbach~Lauter.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Marbach~Lauter.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Marbach~Lauter.personal|Marbach~Lauter.personal]] 
 
-### #is_/same_as :: [Marbach~Lauter.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Marbach~Lauter.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Marbach~Lauter.secret|Marbach~Lauter.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lichtenau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Lichtenau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Lichtenau|Lichtenau]] 
 
-### #is_/same_as :: [Lichtenau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Lichtenau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Lichtenau.public|Lichtenau.public]] 
 
-### #is_/same_as :: [Lichtenau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Lichtenau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Lichtenau.internal|Lichtenau.internal]] 
 
-### #is_/same_as :: [Lichtenau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Lichtenau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Lichtenau.protect|Lichtenau.protect]] 
 
-### #is_/same_as :: [Lichtenau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Lichtenau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Lichtenau.private|Lichtenau.private]] 
 
-### #is_/same_as :: [Lichtenau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Lichtenau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Lichtenau.personal|Lichtenau.personal]] 
 
-### #is_/same_as :: [Lichtenau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Lichtenau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Rheinmünster-Lichtenau/City/Lichtenau.secret|Lichtenau.secret]] 
 

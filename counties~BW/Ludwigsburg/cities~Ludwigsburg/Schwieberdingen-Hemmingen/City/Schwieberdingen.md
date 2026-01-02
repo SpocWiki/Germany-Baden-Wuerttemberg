@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schwieberdingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Schwieberdingen-Hemmingen/City/Schwieberdingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Schwieberdingen-Hemmingen/City/Schwieberdingen|Schwieberdingen]] 
 
-### #is_/same_as :: [Schwieberdingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Schwieberdingen-Hemmingen/City/Schwieberdingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Schwieberdingen-Hemmingen/City/Schwieberdingen.public|Schwieberdingen.public]] 
 
-### #is_/same_as :: [Schwieberdingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Schwieberdingen-Hemmingen/City/Schwieberdingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Schwieberdingen-Hemmingen/City/Schwieberdingen.internal|Schwieberdingen.internal]] 
 
-### #is_/same_as :: [Schwieberdingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Schwieberdingen-Hemmingen/City/Schwieberdingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Schwieberdingen-Hemmingen/City/Schwieberdingen.protect|Schwieberdingen.protect]] 
 
-### #is_/same_as :: [Schwieberdingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Schwieberdingen-Hemmingen/City/Schwieberdingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Schwieberdingen-Hemmingen/City/Schwieberdingen.private|Schwieberdingen.private]] 
 
-### #is_/same_as :: [Schwieberdingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Schwieberdingen-Hemmingen/City/Schwieberdingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Schwieberdingen-Hemmingen/City/Schwieberdingen.personal|Schwieberdingen.personal]] 
 
-### #is_/same_as :: [Schwieberdingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Schwieberdingen-Hemmingen/City/Schwieberdingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Schwieberdingen-Hemmingen/City/Schwieberdingen.secret|Schwieberdingen.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Muensingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Muensingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Muensingen|Muensingen]] 
 
-### #is_/same_as :: [Muensingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Muensingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Muensingen.public|Muensingen.public]] 
 
-### #is_/same_as :: [Muensingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Muensingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Muensingen.internal|Muensingen.internal]] 
 
-### #is_/same_as :: [Muensingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Muensingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Muensingen.protect|Muensingen.protect]] 
 
-### #is_/same_as :: [Muensingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Muensingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Muensingen.private|Muensingen.private]] 
 
-### #is_/same_as :: [Muensingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Muensingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Muensingen.personal|Muensingen.personal]] 
 
-### #is_/same_as :: [Muensingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Muensingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Reutlingen/cities~Reutlingen/Münsingen/City/Muensingen.secret|Muensingen.secret]] 
 

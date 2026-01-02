@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rot~Rot](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Rot-Tannheim/City/Rot~Rot.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Rot-Tannheim/City/Rot~Rot|Rot~Rot]] 
 
-### #is_/same_as :: [Rot~Rot.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Rot-Tannheim/City/Rot~Rot.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Rot-Tannheim/City/Rot~Rot.public|Rot~Rot.public]] 
 
-### #is_/same_as :: [Rot~Rot.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Rot-Tannheim/City/Rot~Rot.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Rot-Tannheim/City/Rot~Rot.internal|Rot~Rot.internal]] 
 
-### #is_/same_as :: [Rot~Rot.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Rot-Tannheim/City/Rot~Rot.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Rot-Tannheim/City/Rot~Rot.protect|Rot~Rot.protect]] 
 
-### #is_/same_as :: [Rot~Rot.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Rot-Tannheim/City/Rot~Rot.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Rot-Tannheim/City/Rot~Rot.private|Rot~Rot.private]] 
 
-### #is_/same_as :: [Rot~Rot.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Rot-Tannheim/City/Rot~Rot.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Rot-Tannheim/City/Rot~Rot.personal|Rot~Rot.personal]] 
 
-### #is_/same_as :: [Rot~Rot.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Rot-Tannheim/City/Rot~Rot.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Biberach/cities~Biberach/Rot-Tannheim/City/Rot~Rot.secret|Rot~Rot.secret]] 
 

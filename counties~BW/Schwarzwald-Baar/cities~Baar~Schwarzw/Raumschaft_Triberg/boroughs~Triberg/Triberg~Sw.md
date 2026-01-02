@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Triberg~Sw](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Raumschaft_Triberg/boroughs~Triberg/Triberg~Sw.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Raumschaft_Triberg/boroughs~Triberg/Triberg~Sw|Triberg~Sw]] 
 
-### #is_/same_as :: [Triberg~Sw.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Raumschaft_Triberg/boroughs~Triberg/Triberg~Sw.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Raumschaft_Triberg/boroughs~Triberg/Triberg~Sw.public|Triberg~Sw.public]] 
 
-### #is_/same_as :: [Triberg~Sw.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Raumschaft_Triberg/boroughs~Triberg/Triberg~Sw.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Raumschaft_Triberg/boroughs~Triberg/Triberg~Sw.internal|Triberg~Sw.internal]] 
 
-### #is_/same_as :: [Triberg~Sw.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Raumschaft_Triberg/boroughs~Triberg/Triberg~Sw.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Raumschaft_Triberg/boroughs~Triberg/Triberg~Sw.protect|Triberg~Sw.protect]] 
 
-### #is_/same_as :: [Triberg~Sw.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Raumschaft_Triberg/boroughs~Triberg/Triberg~Sw.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Raumschaft_Triberg/boroughs~Triberg/Triberg~Sw.private|Triberg~Sw.private]] 
 
-### #is_/same_as :: [Triberg~Sw.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Raumschaft_Triberg/boroughs~Triberg/Triberg~Sw.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Raumschaft_Triberg/boroughs~Triberg/Triberg~Sw.personal|Triberg~Sw.personal]] 
 
-### #is_/same_as :: [Triberg~Sw.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Raumschaft_Triberg/boroughs~Triberg/Triberg~Sw.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Raumschaft_Triberg/boroughs~Triberg/Triberg~Sw.secret|Triberg~Sw.secret]] 
 

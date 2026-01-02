@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ladenburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Ladenburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Ladenburg|Ladenburg]] 
 
-### #is_/same_as :: [Ladenburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Ladenburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Ladenburg.public|Ladenburg.public]] 
 
-### #is_/same_as :: [Ladenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Ladenburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Ladenburg.internal|Ladenburg.internal]] 
 
-### #is_/same_as :: [Ladenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Ladenburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Ladenburg.protect|Ladenburg.protect]] 
 
-### #is_/same_as :: [Ladenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Ladenburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Ladenburg.private|Ladenburg.private]] 
 
-### #is_/same_as :: [Ladenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Ladenburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Ladenburg.personal|Ladenburg.personal]] 
 
-### #is_/same_as :: [Ladenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Ladenburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rhein-Neckar-Kreis/cities~Rhein-Neckar/Ladenburg.secret|Ladenburg.secret]] 
 

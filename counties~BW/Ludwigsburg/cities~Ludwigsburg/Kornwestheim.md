@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kornwestheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Kornwestheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Kornwestheim|Kornwestheim]] 
 
-### #is_/same_as :: [Kornwestheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Kornwestheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Kornwestheim.public|Kornwestheim.public]] 
 
-### #is_/same_as :: [Kornwestheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Kornwestheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Kornwestheim.internal|Kornwestheim.internal]] 
 
-### #is_/same_as :: [Kornwestheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Kornwestheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Kornwestheim.protect|Kornwestheim.protect]] 
 
-### #is_/same_as :: [Kornwestheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Kornwestheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Kornwestheim.private|Kornwestheim.private]] 
 
-### #is_/same_as :: [Kornwestheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Kornwestheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Kornwestheim.personal|Kornwestheim.personal]] 
 
-### #is_/same_as :: [Kornwestheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Kornwestheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Kornwestheim.secret|Kornwestheim.secret]] 
 

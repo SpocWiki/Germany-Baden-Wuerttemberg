@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Geratstetten](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Geratstetten.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Geratstetten|Geratstetten]] 
 
-### #is_/same_as :: [Geratstetten.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Geratstetten.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Geratstetten.public|Geratstetten.public]] 
 
-### #is_/same_as :: [Geratstetten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Geratstetten.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Geratstetten.internal|Geratstetten.internal]] 
 
-### #is_/same_as :: [Geratstetten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Geratstetten.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Geratstetten.protect|Geratstetten.protect]] 
 
-### #is_/same_as :: [Geratstetten.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Geratstetten.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Geratstetten.private|Geratstetten.private]] 
 
-### #is_/same_as :: [Geratstetten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Geratstetten.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Geratstetten.personal|Geratstetten.personal]] 
 
-### #is_/same_as :: [Geratstetten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Geratstetten.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Geratstetten.secret|Geratstetten.secret]] 
 

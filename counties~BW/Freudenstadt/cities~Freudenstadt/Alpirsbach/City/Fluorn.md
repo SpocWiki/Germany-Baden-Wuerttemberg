@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fluorn](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Alpirsbach/City/Fluorn.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Alpirsbach/City/Fluorn|Fluorn]] 
 
-### #is_/same_as :: [Fluorn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Alpirsbach/City/Fluorn.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Alpirsbach/City/Fluorn.public|Fluorn.public]] 
 
-### #is_/same_as :: [Fluorn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Alpirsbach/City/Fluorn.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Alpirsbach/City/Fluorn.internal|Fluorn.internal]] 
 
-### #is_/same_as :: [Fluorn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Alpirsbach/City/Fluorn.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Alpirsbach/City/Fluorn.protect|Fluorn.protect]] 
 
-### #is_/same_as :: [Fluorn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Alpirsbach/City/Fluorn.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Alpirsbach/City/Fluorn.private|Fluorn.private]] 
 
-### #is_/same_as :: [Fluorn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Alpirsbach/City/Fluorn.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Alpirsbach/City/Fluorn.personal|Fluorn.personal]] 
 
-### #is_/same_as :: [Fluorn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Alpirsbach/City/Fluorn.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Alpirsbach/City/Fluorn.secret|Fluorn.secret]] 
 

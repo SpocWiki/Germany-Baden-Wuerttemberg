@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dettenhausen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Waldenbuch_Steinenbronn/boroughs~Waldenbuch/Dettenhausen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Waldenbuch_Steinenbronn/boroughs~Waldenbuch/Dettenhausen|Dettenhausen]] 
 
-### #is_/same_as :: [Dettenhausen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Waldenbuch_Steinenbronn/boroughs~Waldenbuch/Dettenhausen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Waldenbuch_Steinenbronn/boroughs~Waldenbuch/Dettenhausen.public|Dettenhausen.public]] 
 
-### #is_/same_as :: [Dettenhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Waldenbuch_Steinenbronn/boroughs~Waldenbuch/Dettenhausen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Waldenbuch_Steinenbronn/boroughs~Waldenbuch/Dettenhausen.internal|Dettenhausen.internal]] 
 
-### #is_/same_as :: [Dettenhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Waldenbuch_Steinenbronn/boroughs~Waldenbuch/Dettenhausen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Waldenbuch_Steinenbronn/boroughs~Waldenbuch/Dettenhausen.protect|Dettenhausen.protect]] 
 
-### #is_/same_as :: [Dettenhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Waldenbuch_Steinenbronn/boroughs~Waldenbuch/Dettenhausen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Waldenbuch_Steinenbronn/boroughs~Waldenbuch/Dettenhausen.private|Dettenhausen.private]] 
 
-### #is_/same_as :: [Dettenhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Waldenbuch_Steinenbronn/boroughs~Waldenbuch/Dettenhausen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Waldenbuch_Steinenbronn/boroughs~Waldenbuch/Dettenhausen.personal|Dettenhausen.personal]] 
 
-### #is_/same_as :: [Dettenhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Waldenbuch_Steinenbronn/boroughs~Waldenbuch/Dettenhausen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Waldenbuch_Steinenbronn/boroughs~Waldenbuch/Dettenhausen.secret|Dettenhausen.secret]] 
 

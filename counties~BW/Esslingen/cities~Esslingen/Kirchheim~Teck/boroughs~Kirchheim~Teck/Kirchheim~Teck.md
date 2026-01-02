@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kirchheim~Teck](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Kirchheim~Teck/boroughs~Kirchheim~Teck/Kirchheim~Teck.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Kirchheim~Teck/boroughs~Kirchheim~Teck/Kirchheim~Teck|Kirchheim~Teck]] 
 
-### #is_/same_as :: [Kirchheim~Teck.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Kirchheim~Teck/boroughs~Kirchheim~Teck/Kirchheim~Teck.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Kirchheim~Teck/boroughs~Kirchheim~Teck/Kirchheim~Teck.public|Kirchheim~Teck.public]] 
 
-### #is_/same_as :: [Kirchheim~Teck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Kirchheim~Teck/boroughs~Kirchheim~Teck/Kirchheim~Teck.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Kirchheim~Teck/boroughs~Kirchheim~Teck/Kirchheim~Teck.internal|Kirchheim~Teck.internal]] 
 
-### #is_/same_as :: [Kirchheim~Teck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Kirchheim~Teck/boroughs~Kirchheim~Teck/Kirchheim~Teck.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Kirchheim~Teck/boroughs~Kirchheim~Teck/Kirchheim~Teck.protect|Kirchheim~Teck.protect]] 
 
-### #is_/same_as :: [Kirchheim~Teck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Kirchheim~Teck/boroughs~Kirchheim~Teck/Kirchheim~Teck.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Kirchheim~Teck/boroughs~Kirchheim~Teck/Kirchheim~Teck.private|Kirchheim~Teck.private]] 
 
-### #is_/same_as :: [Kirchheim~Teck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Kirchheim~Teck/boroughs~Kirchheim~Teck/Kirchheim~Teck.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Kirchheim~Teck/boroughs~Kirchheim~Teck/Kirchheim~Teck.personal|Kirchheim~Teck.personal]] 
 
-### #is_/same_as :: [Kirchheim~Teck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Kirchheim~Teck/boroughs~Kirchheim~Teck/Kirchheim~Teck.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Kirchheim~Teck/boroughs~Kirchheim~Teck/Kirchheim~Teck.secret|Kirchheim~Teck.secret]] 
 

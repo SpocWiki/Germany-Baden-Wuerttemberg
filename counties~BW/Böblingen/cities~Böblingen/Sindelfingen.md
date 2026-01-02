@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sindelfingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Sindelfingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Sindelfingen|Sindelfingen]] 
 
-### #is_/same_as :: [Sindelfingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Sindelfingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Sindelfingen.public|Sindelfingen.public]] 
 
-### #is_/same_as :: [Sindelfingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Sindelfingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Sindelfingen.internal|Sindelfingen.internal]] 
 
-### #is_/same_as :: [Sindelfingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Sindelfingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Sindelfingen.protect|Sindelfingen.protect]] 
 
-### #is_/same_as :: [Sindelfingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Sindelfingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Sindelfingen.private|Sindelfingen.private]] 
 
-### #is_/same_as :: [Sindelfingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Sindelfingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Sindelfingen.personal|Sindelfingen.personal]] 
 
-### #is_/same_as :: [Sindelfingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Sindelfingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Sindelfingen.secret|Sindelfingen.secret]] 
 

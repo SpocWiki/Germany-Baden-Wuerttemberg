@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Frickingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Salem/City/Frickingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Salem/City/Frickingen|Frickingen]] 
 
-### #is_/same_as :: [Frickingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Salem/City/Frickingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Salem/City/Frickingen.public|Frickingen.public]] 
 
-### #is_/same_as :: [Frickingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Salem/City/Frickingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Salem/City/Frickingen.internal|Frickingen.internal]] 
 
-### #is_/same_as :: [Frickingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Salem/City/Frickingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Salem/City/Frickingen.protect|Frickingen.protect]] 
 
-### #is_/same_as :: [Frickingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Salem/City/Frickingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Salem/City/Frickingen.private|Frickingen.private]] 
 
-### #is_/same_as :: [Frickingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Salem/City/Frickingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Salem/City/Frickingen.personal|Frickingen.personal]] 
 
-### #is_/same_as :: [Frickingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Salem/City/Frickingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Salem/City/Frickingen.secret|Frickingen.secret]] 
 

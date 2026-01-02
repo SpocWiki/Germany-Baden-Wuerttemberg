@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neufra~Hohenzollern](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Gammertingen/City/Neufra~Hohenzollern.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Gammertingen/City/Neufra~Hohenzollern|Neufra~Hohenzollern]] 
 
-### #is_/same_as :: [Neufra~Hohenzollern.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Gammertingen/City/Neufra~Hohenzollern.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Gammertingen/City/Neufra~Hohenzollern.public|Neufra~Hohenzollern.public]] 
 
-### #is_/same_as :: [Neufra~Hohenzollern.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Gammertingen/City/Neufra~Hohenzollern.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Gammertingen/City/Neufra~Hohenzollern.internal|Neufra~Hohenzollern.internal]] 
 
-### #is_/same_as :: [Neufra~Hohenzollern.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Gammertingen/City/Neufra~Hohenzollern.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Gammertingen/City/Neufra~Hohenzollern.protect|Neufra~Hohenzollern.protect]] 
 
-### #is_/same_as :: [Neufra~Hohenzollern.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Gammertingen/City/Neufra~Hohenzollern.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Gammertingen/City/Neufra~Hohenzollern.private|Neufra~Hohenzollern.private]] 
 
-### #is_/same_as :: [Neufra~Hohenzollern.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Gammertingen/City/Neufra~Hohenzollern.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Gammertingen/City/Neufra~Hohenzollern.personal|Neufra~Hohenzollern.personal]] 
 
-### #is_/same_as :: [Neufra~Hohenzollern.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Gammertingen/City/Neufra~Hohenzollern.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Gammertingen/City/Neufra~Hohenzollern.secret|Neufra~Hohenzollern.secret]] 
 

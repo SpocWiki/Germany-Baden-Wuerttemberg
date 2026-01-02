@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schramberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Forbach/City/Schramberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Forbach/City/Schramberg|Schramberg]] 
 
-### #is_/same_as :: [Schramberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Forbach/City/Schramberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Forbach/City/Schramberg.public|Schramberg.public]] 
 
-### #is_/same_as :: [Schramberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Forbach/City/Schramberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Forbach/City/Schramberg.internal|Schramberg.internal]] 
 
-### #is_/same_as :: [Schramberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Forbach/City/Schramberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Forbach/City/Schramberg.protect|Schramberg.protect]] 
 
-### #is_/same_as :: [Schramberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Forbach/City/Schramberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Forbach/City/Schramberg.private|Schramberg.private]] 
 
-### #is_/same_as :: [Schramberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Forbach/City/Schramberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Forbach/City/Schramberg.personal|Schramberg.personal]] 
 
-### #is_/same_as :: [Schramberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Forbach/City/Schramberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rastatt/cities~Rastatt/Forbach/City/Schramberg.secret|Schramberg.secret]] 
 

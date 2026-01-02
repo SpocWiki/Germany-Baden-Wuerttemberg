@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schmalegg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Schmalegg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Schmalegg|Schmalegg]] 
 
-### #is_/same_as :: [Schmalegg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Schmalegg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Schmalegg.public|Schmalegg.public]] 
 
-### #is_/same_as :: [Schmalegg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Schmalegg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Schmalegg.internal|Schmalegg.internal]] 
 
-### #is_/same_as :: [Schmalegg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Schmalegg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Schmalegg.protect|Schmalegg.protect]] 
 
-### #is_/same_as :: [Schmalegg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Schmalegg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Schmalegg.private|Schmalegg.private]] 
 
-### #is_/same_as :: [Schmalegg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Schmalegg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Schmalegg.personal|Schmalegg.personal]] 
 
-### #is_/same_as :: [Schmalegg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Schmalegg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ravensburg/cities~Ravensburg/Mittleres_Schussental/City/Schmalegg.secret|Schmalegg.secret]] 
 

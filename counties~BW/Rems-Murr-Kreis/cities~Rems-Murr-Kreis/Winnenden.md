@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Winnenden](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Winnenden.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Winnenden|Winnenden]] 
 
-### #is_/same_as :: [Winnenden.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Winnenden.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Winnenden.public|Winnenden.public]] 
 
-### #is_/same_as :: [Winnenden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Winnenden.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Winnenden.internal|Winnenden.internal]] 
 
-### #is_/same_as :: [Winnenden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Winnenden.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Winnenden.protect|Winnenden.protect]] 
 
-### #is_/same_as :: [Winnenden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Winnenden.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Winnenden.private|Winnenden.private]] 
 
-### #is_/same_as :: [Winnenden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Winnenden.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Winnenden.personal|Winnenden.personal]] 
 
-### #is_/same_as :: [Winnenden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Winnenden.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Winnenden.secret|Winnenden.secret]] 
 

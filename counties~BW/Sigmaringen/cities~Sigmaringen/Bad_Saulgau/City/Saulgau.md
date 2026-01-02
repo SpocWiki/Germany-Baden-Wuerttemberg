@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saulgau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Bad_Saulgau/City/Saulgau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Bad_Saulgau/City/Saulgau|Saulgau]] 
 
-### #is_/same_as :: [Saulgau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Bad_Saulgau/City/Saulgau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Bad_Saulgau/City/Saulgau.public|Saulgau.public]] 
 
-### #is_/same_as :: [Saulgau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Bad_Saulgau/City/Saulgau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Bad_Saulgau/City/Saulgau.internal|Saulgau.internal]] 
 
-### #is_/same_as :: [Saulgau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Bad_Saulgau/City/Saulgau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Bad_Saulgau/City/Saulgau.protect|Saulgau.protect]] 
 
-### #is_/same_as :: [Saulgau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Bad_Saulgau/City/Saulgau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Bad_Saulgau/City/Saulgau.private|Saulgau.private]] 
 
-### #is_/same_as :: [Saulgau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Bad_Saulgau/City/Saulgau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Bad_Saulgau/City/Saulgau.personal|Saulgau.personal]] 
 
-### #is_/same_as :: [Saulgau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Bad_Saulgau/City/Saulgau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Bad_Saulgau/City/Saulgau.secret|Saulgau.secret]] 
 

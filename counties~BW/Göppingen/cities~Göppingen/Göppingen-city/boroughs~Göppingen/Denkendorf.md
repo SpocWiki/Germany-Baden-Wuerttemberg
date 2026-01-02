@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Denkendorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Göppingen-city/boroughs~Göppingen/Denkendorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Göppingen-city/boroughs~Göppingen/Denkendorf|Denkendorf]] 
 
-### #is_/same_as :: [Denkendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Göppingen-city/boroughs~Göppingen/Denkendorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Göppingen-city/boroughs~Göppingen/Denkendorf.public|Denkendorf.public]] 
 
-### #is_/same_as :: [Denkendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Göppingen-city/boroughs~Göppingen/Denkendorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Göppingen-city/boroughs~Göppingen/Denkendorf.internal|Denkendorf.internal]] 
 
-### #is_/same_as :: [Denkendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Göppingen-city/boroughs~Göppingen/Denkendorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Göppingen-city/boroughs~Göppingen/Denkendorf.protect|Denkendorf.protect]] 
 
-### #is_/same_as :: [Denkendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Göppingen-city/boroughs~Göppingen/Denkendorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Göppingen-city/boroughs~Göppingen/Denkendorf.private|Denkendorf.private]] 
 
-### #is_/same_as :: [Denkendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Göppingen-city/boroughs~Göppingen/Denkendorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Göppingen-city/boroughs~Göppingen/Denkendorf.personal|Denkendorf.personal]] 
 
-### #is_/same_as :: [Denkendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Göppingen-city/boroughs~Göppingen/Denkendorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Göppingen/cities~Göppingen/Göppingen-city/boroughs~Göppingen/Denkendorf.secret|Denkendorf.secret]] 
 

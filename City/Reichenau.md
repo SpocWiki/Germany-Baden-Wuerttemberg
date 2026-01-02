@@ -41,17 +41,17 @@ Klosterinsel Reichenau ( [[Unesco]] Welterbe seit 2000)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reichenau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Reichenau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Reichenau|Reichenau]] 
 
-### #is_/same_as :: [Reichenau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Reichenau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Reichenau.public|Reichenau.public]] 
 
-### #is_/same_as :: [Reichenau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Reichenau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Reichenau.internal|Reichenau.internal]] 
 
-### #is_/same_as :: [Reichenau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Reichenau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Reichenau.protect|Reichenau.protect]] 
 
-### #is_/same_as :: [Reichenau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Reichenau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Reichenau.private|Reichenau.private]] 
 
-### #is_/same_as :: [Reichenau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Reichenau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Reichenau.personal|Reichenau.personal]] 
 
-### #is_/same_as :: [Reichenau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Reichenau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/City/Reichenau.secret|Reichenau.secret]] 
 

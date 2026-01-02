@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Singen~Hohentwiel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Singen~Hohentwiel.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Singen~Hohentwiel|Singen~Hohentwiel]] 
 
-### #is_/same_as :: [Singen~Hohentwiel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Singen~Hohentwiel.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Singen~Hohentwiel.public|Singen~Hohentwiel.public]] 
 
-### #is_/same_as :: [Singen~Hohentwiel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Singen~Hohentwiel.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Singen~Hohentwiel.internal|Singen~Hohentwiel.internal]] 
 
-### #is_/same_as :: [Singen~Hohentwiel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Singen~Hohentwiel.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Singen~Hohentwiel.protect|Singen~Hohentwiel.protect]] 
 
-### #is_/same_as :: [Singen~Hohentwiel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Singen~Hohentwiel.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Singen~Hohentwiel.private|Singen~Hohentwiel.private]] 
 
-### #is_/same_as :: [Singen~Hohentwiel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Singen~Hohentwiel.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Singen~Hohentwiel.personal|Singen~Hohentwiel.personal]] 
 
-### #is_/same_as :: [Singen~Hohentwiel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Singen~Hohentwiel.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Singen~Hohentwiel.secret|Singen~Hohentwiel.secret]] 
 

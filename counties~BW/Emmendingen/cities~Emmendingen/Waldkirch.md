@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Waldkirch](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Waldkirch.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Waldkirch|Waldkirch]] 
 
-### #is_/same_as :: [Waldkirch.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Waldkirch.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Waldkirch.public|Waldkirch.public]] 
 
-### #is_/same_as :: [Waldkirch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Waldkirch.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Waldkirch.internal|Waldkirch.internal]] 
 
-### #is_/same_as :: [Waldkirch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Waldkirch.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Waldkirch.protect|Waldkirch.protect]] 
 
-### #is_/same_as :: [Waldkirch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Waldkirch.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Waldkirch.private|Waldkirch.private]] 
 
-### #is_/same_as :: [Waldkirch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Waldkirch.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Waldkirch.personal|Waldkirch.personal]] 
 
-### #is_/same_as :: [Waldkirch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Waldkirch.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Waldkirch.secret|Waldkirch.secret]] 
 

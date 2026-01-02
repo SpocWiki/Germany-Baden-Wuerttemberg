@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pfullendorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Pfullendorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Pfullendorf|Pfullendorf]] 
 
-### #is_/same_as :: [Pfullendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Pfullendorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Pfullendorf.public|Pfullendorf.public]] 
 
-### #is_/same_as :: [Pfullendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Pfullendorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Pfullendorf.internal|Pfullendorf.internal]] 
 
-### #is_/same_as :: [Pfullendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Pfullendorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Pfullendorf.protect|Pfullendorf.protect]] 
 
-### #is_/same_as :: [Pfullendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Pfullendorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Pfullendorf.private|Pfullendorf.private]] 
 
-### #is_/same_as :: [Pfullendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Pfullendorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Pfullendorf.personal|Pfullendorf.personal]] 
 
-### #is_/same_as :: [Pfullendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Pfullendorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Pfullendorf.secret|Pfullendorf.secret]] 
 

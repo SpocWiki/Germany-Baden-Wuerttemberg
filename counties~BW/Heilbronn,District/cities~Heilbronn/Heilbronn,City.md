@@ -61,17 +61,17 @@ minZoom: 3
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Heilbronn,City](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Heilbronn,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Heilbronn,City|Heilbronn,City]] 
 
-### #is_/same_as :: [Heilbronn,City.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Heilbronn,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Heilbronn,City.public|Heilbronn,City.public]] 
 
-### #is_/same_as :: [Heilbronn,City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Heilbronn,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Heilbronn,City.internal|Heilbronn,City.internal]] 
 
-### #is_/same_as :: [Heilbronn,City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Heilbronn,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Heilbronn,City.protect|Heilbronn,City.protect]] 
 
-### #is_/same_as :: [Heilbronn,City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Heilbronn,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Heilbronn,City.private|Heilbronn,City.private]] 
 
-### #is_/same_as :: [Heilbronn,City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Heilbronn,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Heilbronn,City.personal|Heilbronn,City.personal]] 
 
-### #is_/same_as :: [Heilbronn,City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Heilbronn,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Heilbronn,City.secret|Heilbronn,City.secret]] 
 

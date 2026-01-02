@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Heitersheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Heitersheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Heitersheim|Heitersheim]] 
 
-### #is_/same_as :: [Heitersheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Heitersheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Heitersheim.public|Heitersheim.public]] 
 
-### #is_/same_as :: [Heitersheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Heitersheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Heitersheim.internal|Heitersheim.internal]] 
 
-### #is_/same_as :: [Heitersheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Heitersheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Heitersheim.protect|Heitersheim.protect]] 
 
-### #is_/same_as :: [Heitersheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Heitersheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Heitersheim.private|Heitersheim.private]] 
 
-### #is_/same_as :: [Heitersheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Heitersheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Heitersheim.personal|Heitersheim.personal]] 
 
-### #is_/same_as :: [Heitersheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Heitersheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Heitersheim.secret|Heitersheim.secret]] 
 

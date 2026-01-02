@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Knielingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Knielingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Knielingen|Knielingen]] 
 
-### #is_/same_as :: [Knielingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Knielingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Knielingen.public|Knielingen.public]] 
 
-### #is_/same_as :: [Knielingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Knielingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Knielingen.internal|Knielingen.internal]] 
 
-### #is_/same_as :: [Knielingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Knielingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Knielingen.protect|Knielingen.protect]] 
 
-### #is_/same_as :: [Knielingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Knielingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Knielingen.private|Knielingen.private]] 
 
-### #is_/same_as :: [Knielingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Knielingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Knielingen.personal|Knielingen.personal]] 
 
-### #is_/same_as :: [Knielingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Knielingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Knielingen.secret|Knielingen.secret]] 
 

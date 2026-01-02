@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bernau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Waldshut/cities~Waldshut/St.Blasien/City/Bernau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Waldshut/cities~Waldshut/St.Blasien/City/Bernau|Bernau]] 
 
-### #is_/same_as :: [Bernau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Waldshut/cities~Waldshut/St.Blasien/City/Bernau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Waldshut/cities~Waldshut/St.Blasien/City/Bernau.public|Bernau.public]] 
 
-### #is_/same_as :: [Bernau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Waldshut/cities~Waldshut/St.Blasien/City/Bernau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Waldshut/cities~Waldshut/St.Blasien/City/Bernau.internal|Bernau.internal]] 
 
-### #is_/same_as :: [Bernau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Waldshut/cities~Waldshut/St.Blasien/City/Bernau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Waldshut/cities~Waldshut/St.Blasien/City/Bernau.protect|Bernau.protect]] 
 
-### #is_/same_as :: [Bernau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Waldshut/cities~Waldshut/St.Blasien/City/Bernau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Waldshut/cities~Waldshut/St.Blasien/City/Bernau.private|Bernau.private]] 
 
-### #is_/same_as :: [Bernau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Waldshut/cities~Waldshut/St.Blasien/City/Bernau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Waldshut/cities~Waldshut/St.Blasien/City/Bernau.personal|Bernau.personal]] 
 
-### #is_/same_as :: [Bernau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Waldshut/cities~Waldshut/St.Blasien/City/Bernau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Waldshut/cities~Waldshut/St.Blasien/City/Bernau.secret|Bernau.secret]] 
 

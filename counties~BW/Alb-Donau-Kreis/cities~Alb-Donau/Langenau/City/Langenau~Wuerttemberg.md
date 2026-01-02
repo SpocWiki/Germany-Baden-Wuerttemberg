@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Langenau~Wuerttemberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Langenau/City/Langenau~Wuerttemberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Langenau/City/Langenau~Wuerttemberg|Langenau~Wuerttemberg]] 
 
-### #is_/same_as :: [Langenau~Wuerttemberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Langenau/City/Langenau~Wuerttemberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Langenau/City/Langenau~Wuerttemberg.public|Langenau~Wuerttemberg.public]] 
 
-### #is_/same_as :: [Langenau~Wuerttemberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Langenau/City/Langenau~Wuerttemberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Langenau/City/Langenau~Wuerttemberg.internal|Langenau~Wuerttemberg.internal]] 
 
-### #is_/same_as :: [Langenau~Wuerttemberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Langenau/City/Langenau~Wuerttemberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Langenau/City/Langenau~Wuerttemberg.protect|Langenau~Wuerttemberg.protect]] 
 
-### #is_/same_as :: [Langenau~Wuerttemberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Langenau/City/Langenau~Wuerttemberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Langenau/City/Langenau~Wuerttemberg.private|Langenau~Wuerttemberg.private]] 
 
-### #is_/same_as :: [Langenau~Wuerttemberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Langenau/City/Langenau~Wuerttemberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Langenau/City/Langenau~Wuerttemberg.personal|Langenau~Wuerttemberg.personal]] 
 
-### #is_/same_as :: [Langenau~Wuerttemberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Langenau/City/Langenau~Wuerttemberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Langenau/City/Langenau~Wuerttemberg.secret|Langenau~Wuerttemberg.secret]] 
 

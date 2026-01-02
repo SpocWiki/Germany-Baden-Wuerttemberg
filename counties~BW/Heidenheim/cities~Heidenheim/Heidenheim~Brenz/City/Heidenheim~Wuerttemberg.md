@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Heidenheim~Wuerttemberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Heidenheim~Brenz/City/Heidenheim~Wuerttemberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Heidenheim~Brenz/City/Heidenheim~Wuerttemberg|Heidenheim~Wuerttemberg]] 
 
-### #is_/same_as :: [Heidenheim~Wuerttemberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Heidenheim~Brenz/City/Heidenheim~Wuerttemberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Heidenheim~Brenz/City/Heidenheim~Wuerttemberg.public|Heidenheim~Wuerttemberg.public]] 
 
-### #is_/same_as :: [Heidenheim~Wuerttemberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Heidenheim~Brenz/City/Heidenheim~Wuerttemberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Heidenheim~Brenz/City/Heidenheim~Wuerttemberg.internal|Heidenheim~Wuerttemberg.internal]] 
 
-### #is_/same_as :: [Heidenheim~Wuerttemberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Heidenheim~Brenz/City/Heidenheim~Wuerttemberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Heidenheim~Brenz/City/Heidenheim~Wuerttemberg.protect|Heidenheim~Wuerttemberg.protect]] 
 
-### #is_/same_as :: [Heidenheim~Wuerttemberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Heidenheim~Brenz/City/Heidenheim~Wuerttemberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Heidenheim~Brenz/City/Heidenheim~Wuerttemberg.private|Heidenheim~Wuerttemberg.private]] 
 
-### #is_/same_as :: [Heidenheim~Wuerttemberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Heidenheim~Brenz/City/Heidenheim~Wuerttemberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Heidenheim~Brenz/City/Heidenheim~Wuerttemberg.personal|Heidenheim~Wuerttemberg.personal]] 
 
-### #is_/same_as :: [Heidenheim~Wuerttemberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Heidenheim~Brenz/City/Heidenheim~Wuerttemberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heidenheim/cities~Heidenheim/Heidenheim~Brenz/City/Heidenheim~Wuerttemberg.secret|Heidenheim~Wuerttemberg.secret]] 
 

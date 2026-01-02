@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Murrhardt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Murrhardt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Murrhardt|Murrhardt]] 
 
-### #is_/same_as :: [Murrhardt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Murrhardt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Murrhardt.public|Murrhardt.public]] 
 
-### #is_/same_as :: [Murrhardt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Murrhardt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Murrhardt.internal|Murrhardt.internal]] 
 
-### #is_/same_as :: [Murrhardt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Murrhardt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Murrhardt.protect|Murrhardt.protect]] 
 
-### #is_/same_as :: [Murrhardt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Murrhardt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Murrhardt.private|Murrhardt.private]] 
 
-### #is_/same_as :: [Murrhardt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Murrhardt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Murrhardt.personal|Murrhardt.personal]] 
 
-### #is_/same_as :: [Murrhardt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Murrhardt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Murrhardt.secret|Murrhardt.secret]] 
 

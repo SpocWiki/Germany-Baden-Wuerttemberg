@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Liebenzell](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Liebenzell/City/Liebenzell.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Liebenzell/City/Liebenzell|Liebenzell]] 
 
-### #is_/same_as :: [Liebenzell.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Liebenzell/City/Liebenzell.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Liebenzell/City/Liebenzell.public|Liebenzell.public]] 
 
-### #is_/same_as :: [Liebenzell.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Liebenzell/City/Liebenzell.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Liebenzell/City/Liebenzell.internal|Liebenzell.internal]] 
 
-### #is_/same_as :: [Liebenzell.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Liebenzell/City/Liebenzell.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Liebenzell/City/Liebenzell.protect|Liebenzell.protect]] 
 
-### #is_/same_as :: [Liebenzell.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Liebenzell/City/Liebenzell.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Liebenzell/City/Liebenzell.private|Liebenzell.private]] 
 
-### #is_/same_as :: [Liebenzell.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Liebenzell/City/Liebenzell.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Liebenzell/City/Liebenzell.personal|Liebenzell.personal]] 
 
-### #is_/same_as :: [Liebenzell.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Liebenzell/City/Liebenzell.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Liebenzell/City/Liebenzell.secret|Liebenzell.secret]] 
 

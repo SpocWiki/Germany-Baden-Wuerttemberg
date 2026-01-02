@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rudersberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Rudersberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Rudersberg|Rudersberg]] 
 
-### #is_/same_as :: [Rudersberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Rudersberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Rudersberg.public|Rudersberg.public]] 
 
-### #is_/same_as :: [Rudersberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Rudersberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Rudersberg.internal|Rudersberg.internal]] 
 
-### #is_/same_as :: [Rudersberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Rudersberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Rudersberg.protect|Rudersberg.protect]] 
 
-### #is_/same_as :: [Rudersberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Rudersberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Rudersberg.private|Rudersberg.private]] 
 
-### #is_/same_as :: [Rudersberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Rudersberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Rudersberg.personal|Rudersberg.personal]] 
 
-### #is_/same_as :: [Rudersberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Rudersberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Rudersberg.secret|Rudersberg.secret]] 
 

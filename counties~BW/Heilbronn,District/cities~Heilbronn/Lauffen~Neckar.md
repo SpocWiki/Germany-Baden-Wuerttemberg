@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lauffen~Neckar](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Lauffen~Neckar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Lauffen~Neckar|Lauffen~Neckar]] 
 
-### #is_/same_as :: [Lauffen~Neckar.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Lauffen~Neckar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Lauffen~Neckar.public|Lauffen~Neckar.public]] 
 
-### #is_/same_as :: [Lauffen~Neckar.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Lauffen~Neckar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Lauffen~Neckar.internal|Lauffen~Neckar.internal]] 
 
-### #is_/same_as :: [Lauffen~Neckar.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Lauffen~Neckar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Lauffen~Neckar.protect|Lauffen~Neckar.protect]] 
 
-### #is_/same_as :: [Lauffen~Neckar.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Lauffen~Neckar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Lauffen~Neckar.private|Lauffen~Neckar.private]] 
 
-### #is_/same_as :: [Lauffen~Neckar.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Lauffen~Neckar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Lauffen~Neckar.personal|Lauffen~Neckar.personal]] 
 
-### #is_/same_as :: [Lauffen~Neckar.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Lauffen~Neckar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Heilbronn,District/cities~Heilbronn/Lauffen~Neckar.secret|Lauffen~Neckar.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sulzbach~Kocher](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Limpurger_Land/City/Sulzbach~Kocher.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Limpurger_Land/City/Sulzbach~Kocher|Sulzbach~Kocher]] 
 
-### #is_/same_as :: [Sulzbach~Kocher.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Limpurger_Land/City/Sulzbach~Kocher.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Limpurger_Land/City/Sulzbach~Kocher.public|Sulzbach~Kocher.public]] 
 
-### #is_/same_as :: [Sulzbach~Kocher.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Limpurger_Land/City/Sulzbach~Kocher.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Limpurger_Land/City/Sulzbach~Kocher.internal|Sulzbach~Kocher.internal]] 
 
-### #is_/same_as :: [Sulzbach~Kocher.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Limpurger_Land/City/Sulzbach~Kocher.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Limpurger_Land/City/Sulzbach~Kocher.protect|Sulzbach~Kocher.protect]] 
 
-### #is_/same_as :: [Sulzbach~Kocher.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Limpurger_Land/City/Sulzbach~Kocher.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Limpurger_Land/City/Sulzbach~Kocher.private|Sulzbach~Kocher.private]] 
 
-### #is_/same_as :: [Sulzbach~Kocher.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Limpurger_Land/City/Sulzbach~Kocher.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Limpurger_Land/City/Sulzbach~Kocher.personal|Sulzbach~Kocher.personal]] 
 
-### #is_/same_as :: [Sulzbach~Kocher.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Limpurger_Land/City/Sulzbach~Kocher.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwäbisch_Hall/cities~Schwäb_Hall/Limpurger_Land/City/Sulzbach~Kocher.secret|Sulzbach~Kocher.secret]] 
 

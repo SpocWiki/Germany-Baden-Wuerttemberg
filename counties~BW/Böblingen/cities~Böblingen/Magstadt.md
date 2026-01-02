@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Magstadt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Magstadt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Magstadt|Magstadt]] 
 
-### #is_/same_as :: [Magstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Magstadt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Magstadt.public|Magstadt.public]] 
 
-### #is_/same_as :: [Magstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Magstadt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Magstadt.internal|Magstadt.internal]] 
 
-### #is_/same_as :: [Magstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Magstadt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Magstadt.protect|Magstadt.protect]] 
 
-### #is_/same_as :: [Magstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Magstadt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Magstadt.private|Magstadt.private]] 
 
-### #is_/same_as :: [Magstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Magstadt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Magstadt.personal|Magstadt.personal]] 
 
-### #is_/same_as :: [Magstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Magstadt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Magstadt.secret|Magstadt.secret]] 
 

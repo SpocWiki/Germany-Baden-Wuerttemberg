@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Besigheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Großbottwar/City/Besigheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Großbottwar/City/Besigheim|Besigheim]] 
 
-### #is_/same_as :: [Besigheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Großbottwar/City/Besigheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Großbottwar/City/Besigheim.public|Besigheim.public]] 
 
-### #is_/same_as :: [Besigheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Großbottwar/City/Besigheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Großbottwar/City/Besigheim.internal|Besigheim.internal]] 
 
-### #is_/same_as :: [Besigheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Großbottwar/City/Besigheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Großbottwar/City/Besigheim.protect|Besigheim.protect]] 
 
-### #is_/same_as :: [Besigheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Großbottwar/City/Besigheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Großbottwar/City/Besigheim.private|Besigheim.private]] 
 
-### #is_/same_as :: [Besigheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Großbottwar/City/Besigheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Großbottwar/City/Besigheim.personal|Besigheim.personal]] 
 
-### #is_/same_as :: [Besigheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Großbottwar/City/Besigheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Großbottwar/City/Besigheim.secret|Besigheim.secret]] 
 

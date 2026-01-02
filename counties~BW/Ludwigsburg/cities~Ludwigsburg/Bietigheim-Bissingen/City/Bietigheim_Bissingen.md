@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bietigheim_Bissingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Bietigheim-Bissingen/City/Bietigheim_Bissingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Bietigheim-Bissingen/City/Bietigheim_Bissingen|Bietigheim_Bissingen]] 
 
-### #is_/same_as :: [Bietigheim_Bissingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Bietigheim-Bissingen/City/Bietigheim_Bissingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Bietigheim-Bissingen/City/Bietigheim_Bissingen.public|Bietigheim_Bissingen.public]] 
 
-### #is_/same_as :: [Bietigheim_Bissingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Bietigheim-Bissingen/City/Bietigheim_Bissingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Bietigheim-Bissingen/City/Bietigheim_Bissingen.internal|Bietigheim_Bissingen.internal]] 
 
-### #is_/same_as :: [Bietigheim_Bissingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Bietigheim-Bissingen/City/Bietigheim_Bissingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Bietigheim-Bissingen/City/Bietigheim_Bissingen.protect|Bietigheim_Bissingen.protect]] 
 
-### #is_/same_as :: [Bietigheim_Bissingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Bietigheim-Bissingen/City/Bietigheim_Bissingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Bietigheim-Bissingen/City/Bietigheim_Bissingen.private|Bietigheim_Bissingen.private]] 
 
-### #is_/same_as :: [Bietigheim_Bissingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Bietigheim-Bissingen/City/Bietigheim_Bissingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Bietigheim-Bissingen/City/Bietigheim_Bissingen.personal|Bietigheim_Bissingen.personal]] 
 
-### #is_/same_as :: [Bietigheim_Bissingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Bietigheim-Bissingen/City/Bietigheim_Bissingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ludwigsburg/cities~Ludwigsburg/Bietigheim-Bissingen/City/Bietigheim_Bissingen.secret|Bietigheim_Bissingen.secret]] 
 

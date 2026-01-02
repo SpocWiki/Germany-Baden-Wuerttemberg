@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Markelfingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Markelfingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Markelfingen|Markelfingen]] 
 
-### #is_/same_as :: [Markelfingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Markelfingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Markelfingen.public|Markelfingen.public]] 
 
-### #is_/same_as :: [Markelfingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Markelfingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Markelfingen.internal|Markelfingen.internal]] 
 
-### #is_/same_as :: [Markelfingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Markelfingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Markelfingen.protect|Markelfingen.protect]] 
 
-### #is_/same_as :: [Markelfingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Markelfingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Markelfingen.private|Markelfingen.private]] 
 
-### #is_/same_as :: [Markelfingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Markelfingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Markelfingen.personal|Markelfingen.personal]] 
 
-### #is_/same_as :: [Markelfingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Markelfingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Radolfzell~Bodensee/City/Markelfingen.secret|Markelfingen.secret]] 
 

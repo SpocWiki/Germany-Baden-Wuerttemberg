@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dettingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Horb~Neckar/City/Dettingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Horb~Neckar/City/Dettingen|Dettingen]] 
 
-### #is_/same_as :: [Dettingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Horb~Neckar/City/Dettingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Horb~Neckar/City/Dettingen.public|Dettingen.public]] 
 
-### #is_/same_as :: [Dettingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Horb~Neckar/City/Dettingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Horb~Neckar/City/Dettingen.internal|Dettingen.internal]] 
 
-### #is_/same_as :: [Dettingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Horb~Neckar/City/Dettingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Horb~Neckar/City/Dettingen.protect|Dettingen.protect]] 
 
-### #is_/same_as :: [Dettingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Horb~Neckar/City/Dettingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Horb~Neckar/City/Dettingen.private|Dettingen.private]] 
 
-### #is_/same_as :: [Dettingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Horb~Neckar/City/Dettingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Horb~Neckar/City/Dettingen.personal|Dettingen.personal]] 
 
-### #is_/same_as :: [Dettingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Horb~Neckar/City/Dettingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freudenstadt/cities~Freudenstadt/Horb~Neckar/City/Dettingen.secret|Dettingen.secret]] 
 

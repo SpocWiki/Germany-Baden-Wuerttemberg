@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Weikersheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Weikersheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Weikersheim|Weikersheim]] 
 
-### #is_/same_as :: [Weikersheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Weikersheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Weikersheim.public|Weikersheim.public]] 
 
-### #is_/same_as :: [Weikersheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Weikersheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Weikersheim.internal|Weikersheim.internal]] 
 
-### #is_/same_as :: [Weikersheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Weikersheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Weikersheim.protect|Weikersheim.protect]] 
 
-### #is_/same_as :: [Weikersheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Weikersheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Weikersheim.private|Weikersheim.private]] 
 
-### #is_/same_as :: [Weikersheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Weikersheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Weikersheim.personal|Weikersheim.personal]] 
 
-### #is_/same_as :: [Weikersheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Weikersheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Weikersheim.secret|Weikersheim.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Osterburken-city](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Osterburken/boroughs~Osterburken/Osterburken-city.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Osterburken/boroughs~Osterburken/Osterburken-city|Osterburken-city]] 
 
-### #is_/same_as :: [Osterburken-city.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Osterburken/boroughs~Osterburken/Osterburken-city.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Osterburken/boroughs~Osterburken/Osterburken-city.public|Osterburken-city.public]] 
 
-### #is_/same_as :: [Osterburken-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Osterburken/boroughs~Osterburken/Osterburken-city.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Osterburken/boroughs~Osterburken/Osterburken-city.internal|Osterburken-city.internal]] 
 
-### #is_/same_as :: [Osterburken-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Osterburken/boroughs~Osterburken/Osterburken-city.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Osterburken/boroughs~Osterburken/Osterburken-city.protect|Osterburken-city.protect]] 
 
-### #is_/same_as :: [Osterburken-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Osterburken/boroughs~Osterburken/Osterburken-city.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Osterburken/boroughs~Osterburken/Osterburken-city.private|Osterburken-city.private]] 
 
-### #is_/same_as :: [Osterburken-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Osterburken/boroughs~Osterburken/Osterburken-city.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Osterburken/boroughs~Osterburken/Osterburken-city.personal|Osterburken-city.personal]] 
 
-### #is_/same_as :: [Osterburken-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Osterburken/boroughs~Osterburken/Osterburken-city.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Osterburken/boroughs~Osterburken/Osterburken-city.secret|Osterburken-city.secret]] 
 

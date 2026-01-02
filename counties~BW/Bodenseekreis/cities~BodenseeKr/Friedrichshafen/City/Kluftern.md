@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kluftern](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Friedrichshafen/City/Kluftern.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Friedrichshafen/City/Kluftern|Kluftern]] 
 
-### #is_/same_as :: [Kluftern.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Friedrichshafen/City/Kluftern.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Friedrichshafen/City/Kluftern.public|Kluftern.public]] 
 
-### #is_/same_as :: [Kluftern.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Friedrichshafen/City/Kluftern.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Friedrichshafen/City/Kluftern.internal|Kluftern.internal]] 
 
-### #is_/same_as :: [Kluftern.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Friedrichshafen/City/Kluftern.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Friedrichshafen/City/Kluftern.protect|Kluftern.protect]] 
 
-### #is_/same_as :: [Kluftern.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Friedrichshafen/City/Kluftern.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Friedrichshafen/City/Kluftern.private|Kluftern.private]] 
 
-### #is_/same_as :: [Kluftern.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Friedrichshafen/City/Kluftern.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Friedrichshafen/City/Kluftern.personal|Kluftern.personal]] 
 
-### #is_/same_as :: [Kluftern.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Friedrichshafen/City/Kluftern.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Friedrichshafen/City/Kluftern.secret|Kluftern.secret]] 
 

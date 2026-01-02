@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gosheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Heuberg/City/Gosheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Heuberg/City/Gosheim|Gosheim]] 
 
-### #is_/same_as :: [Gosheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Heuberg/City/Gosheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Heuberg/City/Gosheim.public|Gosheim.public]] 
 
-### #is_/same_as :: [Gosheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Heuberg/City/Gosheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Heuberg/City/Gosheim.internal|Gosheim.internal]] 
 
-### #is_/same_as :: [Gosheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Heuberg/City/Gosheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Heuberg/City/Gosheim.protect|Gosheim.protect]] 
 
-### #is_/same_as :: [Gosheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Heuberg/City/Gosheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Heuberg/City/Gosheim.private|Gosheim.private]] 
 
-### #is_/same_as :: [Gosheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Heuberg/City/Gosheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Heuberg/City/Gosheim.personal|Gosheim.personal]] 
 
-### #is_/same_as :: [Gosheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Heuberg/City/Gosheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tuttlingen/cities~Tuttlingen/Heuberg/City/Gosheim.secret|Gosheim.secret]] 
 

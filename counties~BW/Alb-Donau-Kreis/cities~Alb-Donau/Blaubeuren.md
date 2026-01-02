@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Blaubeuren](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Blaubeuren.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Blaubeuren|Blaubeuren]] 
 
-### #is_/same_as :: [Blaubeuren.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Blaubeuren.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Blaubeuren.public|Blaubeuren.public]] 
 
-### #is_/same_as :: [Blaubeuren.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Blaubeuren.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Blaubeuren.internal|Blaubeuren.internal]] 
 
-### #is_/same_as :: [Blaubeuren.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Blaubeuren.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Blaubeuren.protect|Blaubeuren.protect]] 
 
-### #is_/same_as :: [Blaubeuren.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Blaubeuren.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Blaubeuren.private|Blaubeuren.private]] 
 
-### #is_/same_as :: [Blaubeuren.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Blaubeuren.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Blaubeuren.personal|Blaubeuren.personal]] 
 
-### #is_/same_as :: [Blaubeuren.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Blaubeuren.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Alb-Donau-Kreis/cities~Alb-Donau/Blaubeuren.secret|Blaubeuren.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kenzingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Kenzingen-Herbolzheim/City/Kenzingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Kenzingen-Herbolzheim/City/Kenzingen|Kenzingen]] 
 
-### #is_/same_as :: [Kenzingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Kenzingen-Herbolzheim/City/Kenzingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Kenzingen-Herbolzheim/City/Kenzingen.public|Kenzingen.public]] 
 
-### #is_/same_as :: [Kenzingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Kenzingen-Herbolzheim/City/Kenzingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Kenzingen-Herbolzheim/City/Kenzingen.internal|Kenzingen.internal]] 
 
-### #is_/same_as :: [Kenzingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Kenzingen-Herbolzheim/City/Kenzingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Kenzingen-Herbolzheim/City/Kenzingen.protect|Kenzingen.protect]] 
 
-### #is_/same_as :: [Kenzingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Kenzingen-Herbolzheim/City/Kenzingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Kenzingen-Herbolzheim/City/Kenzingen.private|Kenzingen.private]] 
 
-### #is_/same_as :: [Kenzingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Kenzingen-Herbolzheim/City/Kenzingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Kenzingen-Herbolzheim/City/Kenzingen.personal|Kenzingen.personal]] 
 
-### #is_/same_as :: [Kenzingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Kenzingen-Herbolzheim/City/Kenzingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Emmendingen/cities~Emmendingen/Kenzingen-Herbolzheim/City/Kenzingen.secret|Kenzingen.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Furtwangen~Sw-City](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Furtwangen~Schwarzwald/boroughs~Furtwangen/Furtwangen~Sw-City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Furtwangen~Schwarzwald/boroughs~Furtwangen/Furtwangen~Sw-City|Furtwangen~Sw-City]] 
 
-### #is_/same_as :: [Furtwangen~Sw-City.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Furtwangen~Schwarzwald/boroughs~Furtwangen/Furtwangen~Sw-City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Furtwangen~Schwarzwald/boroughs~Furtwangen/Furtwangen~Sw-City.public|Furtwangen~Sw-City.public]] 
 
-### #is_/same_as :: [Furtwangen~Sw-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Furtwangen~Schwarzwald/boroughs~Furtwangen/Furtwangen~Sw-City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Furtwangen~Schwarzwald/boroughs~Furtwangen/Furtwangen~Sw-City.internal|Furtwangen~Sw-City.internal]] 
 
-### #is_/same_as :: [Furtwangen~Sw-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Furtwangen~Schwarzwald/boroughs~Furtwangen/Furtwangen~Sw-City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Furtwangen~Schwarzwald/boroughs~Furtwangen/Furtwangen~Sw-City.protect|Furtwangen~Sw-City.protect]] 
 
-### #is_/same_as :: [Furtwangen~Sw-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Furtwangen~Schwarzwald/boroughs~Furtwangen/Furtwangen~Sw-City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Furtwangen~Schwarzwald/boroughs~Furtwangen/Furtwangen~Sw-City.private|Furtwangen~Sw-City.private]] 
 
-### #is_/same_as :: [Furtwangen~Sw-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Furtwangen~Schwarzwald/boroughs~Furtwangen/Furtwangen~Sw-City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Furtwangen~Schwarzwald/boroughs~Furtwangen/Furtwangen~Sw-City.personal|Furtwangen~Sw-City.personal]] 
 
-### #is_/same_as :: [Furtwangen~Sw-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Furtwangen~Schwarzwald/boroughs~Furtwangen/Furtwangen~Sw-City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Furtwangen~Schwarzwald/boroughs~Furtwangen/Furtwangen~Sw-City.secret|Furtwangen~Sw-City.secret]] 
 

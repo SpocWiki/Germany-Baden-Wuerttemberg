@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Renningen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Renningen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Renningen|Renningen]] 
 
-### #is_/same_as :: [Renningen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Renningen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Renningen.public|Renningen.public]] 
 
-### #is_/same_as :: [Renningen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Renningen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Renningen.internal|Renningen.internal]] 
 
-### #is_/same_as :: [Renningen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Renningen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Renningen.protect|Renningen.protect]] 
 
-### #is_/same_as :: [Renningen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Renningen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Renningen.private|Renningen.private]] 
 
-### #is_/same_as :: [Renningen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Renningen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Renningen.personal|Renningen.personal]] 
 
-### #is_/same_as :: [Renningen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Renningen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Böblingen/cities~Böblingen/Renningen.secret|Renningen.secret]] 
 

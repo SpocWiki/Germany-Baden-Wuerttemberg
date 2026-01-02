@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neckargerach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Neckargerach-Waldbrunn/boroughs~Neckargerach/Neckargerach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Neckargerach-Waldbrunn/boroughs~Neckargerach/Neckargerach|Neckargerach]] 
 
-### #is_/same_as :: [Neckargerach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Neckargerach-Waldbrunn/boroughs~Neckargerach/Neckargerach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Neckargerach-Waldbrunn/boroughs~Neckargerach/Neckargerach.public|Neckargerach.public]] 
 
-### #is_/same_as :: [Neckargerach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Neckargerach-Waldbrunn/boroughs~Neckargerach/Neckargerach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Neckargerach-Waldbrunn/boroughs~Neckargerach/Neckargerach.internal|Neckargerach.internal]] 
 
-### #is_/same_as :: [Neckargerach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Neckargerach-Waldbrunn/boroughs~Neckargerach/Neckargerach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Neckargerach-Waldbrunn/boroughs~Neckargerach/Neckargerach.protect|Neckargerach.protect]] 
 
-### #is_/same_as :: [Neckargerach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Neckargerach-Waldbrunn/boroughs~Neckargerach/Neckargerach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Neckargerach-Waldbrunn/boroughs~Neckargerach/Neckargerach.private|Neckargerach.private]] 
 
-### #is_/same_as :: [Neckargerach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Neckargerach-Waldbrunn/boroughs~Neckargerach/Neckargerach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Neckargerach-Waldbrunn/boroughs~Neckargerach/Neckargerach.personal|Neckargerach.personal]] 
 
-### #is_/same_as :: [Neckargerach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Neckargerach-Waldbrunn/boroughs~Neckargerach/Neckargerach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Neckar-Odenwald-Kreis/cities~Neckar-Odenw/Neckargerach-Waldbrunn/boroughs~Neckargerach/Neckargerach.secret|Neckargerach.secret]] 
 

@@ -294,17 +294,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stuttgart,City](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart,City|Stuttgart,City]] 
 
-### #is_/same_as :: [Stuttgart,City.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart,City.public|Stuttgart,City.public]] 
 
-### #is_/same_as :: [Stuttgart,City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart,City.internal|Stuttgart,City.internal]] 
 
-### #is_/same_as :: [Stuttgart,City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart,City.protect|Stuttgart,City.protect]] 
 
-### #is_/same_as :: [Stuttgart,City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart,City.private|Stuttgart,City.private]] 
 
-### #is_/same_as :: [Stuttgart,City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart,City.personal|Stuttgart,City.personal]] 
 
-### #is_/same_as :: [Stuttgart,City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart,City.secret|Stuttgart,City.secret]] 
 

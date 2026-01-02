@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [WÜstenrot](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Bretzfeld/City/WÜstenrot.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Bretzfeld/City/WÜstenrot|WÜstenrot]] 
 
-### #is_/same_as :: [WÜstenrot.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Bretzfeld/City/WÜstenrot.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Bretzfeld/City/WÜstenrot.public|WÜstenrot.public]] 
 
-### #is_/same_as :: [WÜstenrot.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Bretzfeld/City/WÜstenrot.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Bretzfeld/City/WÜstenrot.internal|WÜstenrot.internal]] 
 
-### #is_/same_as :: [WÜstenrot.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Bretzfeld/City/WÜstenrot.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Bretzfeld/City/WÜstenrot.protect|WÜstenrot.protect]] 
 
-### #is_/same_as :: [WÜstenrot.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Bretzfeld/City/WÜstenrot.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Bretzfeld/City/WÜstenrot.private|WÜstenrot.private]] 
 
-### #is_/same_as :: [WÜstenrot.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Bretzfeld/City/WÜstenrot.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Bretzfeld/City/WÜstenrot.personal|WÜstenrot.personal]] 
 
-### #is_/same_as :: [WÜstenrot.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Bretzfeld/City/WÜstenrot.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Hohenlohekreis/cities~Hohenlohekreis/Bretzfeld/City/WÜstenrot.secret|WÜstenrot.secret]] 
 

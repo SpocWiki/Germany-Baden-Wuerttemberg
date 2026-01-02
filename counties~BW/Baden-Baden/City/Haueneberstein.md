@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Haueneberstein](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Baden-Baden/City/Haueneberstein.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Baden-Baden/City/Haueneberstein|Haueneberstein]] 
 
-### #is_/same_as :: [Haueneberstein.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Baden-Baden/City/Haueneberstein.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Baden-Baden/City/Haueneberstein.public|Haueneberstein.public]] 
 
-### #is_/same_as :: [Haueneberstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Baden-Baden/City/Haueneberstein.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Baden-Baden/City/Haueneberstein.internal|Haueneberstein.internal]] 
 
-### #is_/same_as :: [Haueneberstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Baden-Baden/City/Haueneberstein.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Baden-Baden/City/Haueneberstein.protect|Haueneberstein.protect]] 
 
-### #is_/same_as :: [Haueneberstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Baden-Baden/City/Haueneberstein.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Baden-Baden/City/Haueneberstein.private|Haueneberstein.private]] 
 
-### #is_/same_as :: [Haueneberstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Baden-Baden/City/Haueneberstein.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Baden-Baden/City/Haueneberstein.personal|Haueneberstein.personal]] 
 
-### #is_/same_as :: [Haueneberstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Baden-Baden/City/Haueneberstein.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Baden-Baden/City/Haueneberstein.secret|Haueneberstein.secret]] 
 

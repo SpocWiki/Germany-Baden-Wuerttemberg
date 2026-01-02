@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rottweil](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Rottweil-city/City/Rottweil.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Rottweil-city/City/Rottweil|Rottweil]] 
 
-### #is_/same_as :: [Rottweil.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Rottweil-city/City/Rottweil.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Rottweil-city/City/Rottweil.public|Rottweil.public]] 
 
-### #is_/same_as :: [Rottweil.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Rottweil-city/City/Rottweil.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Rottweil-city/City/Rottweil.internal|Rottweil.internal]] 
 
-### #is_/same_as :: [Rottweil.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Rottweil-city/City/Rottweil.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Rottweil-city/City/Rottweil.protect|Rottweil.protect]] 
 
-### #is_/same_as :: [Rottweil.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Rottweil-city/City/Rottweil.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Rottweil-city/City/Rottweil.private|Rottweil.private]] 
 
-### #is_/same_as :: [Rottweil.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Rottweil-city/City/Rottweil.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Rottweil-city/City/Rottweil.personal|Rottweil.personal]] 
 
-### #is_/same_as :: [Rottweil.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Rottweil-city/City/Rottweil.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rottweil/cities~Rottweil/Rottweil-city/City/Rottweil.secret|Rottweil.secret]] 
 

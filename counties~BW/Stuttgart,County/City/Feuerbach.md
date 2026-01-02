@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Feuerbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Feuerbach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Feuerbach|Feuerbach]] 
 
-### #is_/same_as :: [Feuerbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Feuerbach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Feuerbach.public|Feuerbach.public]] 
 
-### #is_/same_as :: [Feuerbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Feuerbach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Feuerbach.internal|Feuerbach.internal]] 
 
-### #is_/same_as :: [Feuerbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Feuerbach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Feuerbach.protect|Feuerbach.protect]] 
 
-### #is_/same_as :: [Feuerbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Feuerbach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Feuerbach.private|Feuerbach.private]] 
 
-### #is_/same_as :: [Feuerbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Feuerbach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Feuerbach.personal|Feuerbach.personal]] 
 
-### #is_/same_as :: [Feuerbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Feuerbach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Feuerbach.secret|Feuerbach.secret]] 
 

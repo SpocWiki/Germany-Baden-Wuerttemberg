@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Überlingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Überlingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Überlingen|Überlingen]] 
 
-### #is_/same_as :: [Überlingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Überlingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Überlingen.public|Überlingen.public]] 
 
-### #is_/same_as :: [Überlingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Überlingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Überlingen.internal|Überlingen.internal]] 
 
-### #is_/same_as :: [Überlingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Überlingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Überlingen.protect|Überlingen.protect]] 
 
-### #is_/same_as :: [Überlingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Überlingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Überlingen.private|Überlingen.private]] 
 
-### #is_/same_as :: [Überlingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Überlingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Überlingen.personal|Überlingen.personal]] 
 
-### #is_/same_as :: [Überlingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Überlingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Bodenseekreis/cities~BodenseeKr/Überlingen.secret|Überlingen.secret]] 
 

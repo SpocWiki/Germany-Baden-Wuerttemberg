@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Loerrach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Lörrach-city/City/Loerrach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Lörrach-city/City/Loerrach|Loerrach]] 
 
-### #is_/same_as :: [Loerrach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Lörrach-city/City/Loerrach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Lörrach-city/City/Loerrach.public|Loerrach.public]] 
 
-### #is_/same_as :: [Loerrach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Lörrach-city/City/Loerrach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Lörrach-city/City/Loerrach.internal|Loerrach.internal]] 
 
-### #is_/same_as :: [Loerrach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Lörrach-city/City/Loerrach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Lörrach-city/City/Loerrach.protect|Loerrach.protect]] 
 
-### #is_/same_as :: [Loerrach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Lörrach-city/City/Loerrach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Lörrach-city/City/Loerrach.private|Loerrach.private]] 
 
-### #is_/same_as :: [Loerrach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Lörrach-city/City/Loerrach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Lörrach-city/City/Loerrach.personal|Loerrach.personal]] 
 
-### #is_/same_as :: [Loerrach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Lörrach-city/City/Loerrach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Lörrach-city/City/Loerrach.secret|Loerrach.secret]] 
 

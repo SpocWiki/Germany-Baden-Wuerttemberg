@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Haagen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Lörrach-city/City/Haagen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Lörrach-city/City/Haagen|Haagen]] 
 
-### #is_/same_as :: [Haagen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Lörrach-city/City/Haagen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Lörrach-city/City/Haagen.public|Haagen.public]] 
 
-### #is_/same_as :: [Haagen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Lörrach-city/City/Haagen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Lörrach-city/City/Haagen.internal|Haagen.internal]] 
 
-### #is_/same_as :: [Haagen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Lörrach-city/City/Haagen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Lörrach-city/City/Haagen.protect|Haagen.protect]] 
 
-### #is_/same_as :: [Haagen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Lörrach-city/City/Haagen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Lörrach-city/City/Haagen.private|Haagen.private]] 
 
-### #is_/same_as :: [Haagen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Lörrach-city/City/Haagen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Lörrach-city/City/Haagen.personal|Haagen.personal]] 
 
-### #is_/same_as :: [Haagen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Lörrach-city/City/Haagen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Lörrach/cities~Lörrach/Lörrach-city/City/Haagen.secret|Haagen.secret]] 
 

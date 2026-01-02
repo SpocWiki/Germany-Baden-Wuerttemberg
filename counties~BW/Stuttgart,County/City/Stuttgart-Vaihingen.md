@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stuttgart-Vaihingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart-Vaihingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart-Vaihingen|Stuttgart-Vaihingen]] 
 
-### #is_/same_as :: [Stuttgart-Vaihingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart-Vaihingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart-Vaihingen.public|Stuttgart-Vaihingen.public]] 
 
-### #is_/same_as :: [Stuttgart-Vaihingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart-Vaihingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart-Vaihingen.internal|Stuttgart-Vaihingen.internal]] 
 
-### #is_/same_as :: [Stuttgart-Vaihingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart-Vaihingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart-Vaihingen.protect|Stuttgart-Vaihingen.protect]] 
 
-### #is_/same_as :: [Stuttgart-Vaihingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart-Vaihingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart-Vaihingen.private|Stuttgart-Vaihingen.private]] 
 
-### #is_/same_as :: [Stuttgart-Vaihingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart-Vaihingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart-Vaihingen.personal|Stuttgart-Vaihingen.personal]] 
 
-### #is_/same_as :: [Stuttgart-Vaihingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart-Vaihingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart-Vaihingen.secret|Stuttgart-Vaihingen.secret]] 
 

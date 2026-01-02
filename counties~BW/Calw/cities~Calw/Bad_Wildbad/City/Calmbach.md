@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Calmbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Wildbad/City/Calmbach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Wildbad/City/Calmbach|Calmbach]] 
 
-### #is_/same_as :: [Calmbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Wildbad/City/Calmbach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Wildbad/City/Calmbach.public|Calmbach.public]] 
 
-### #is_/same_as :: [Calmbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Wildbad/City/Calmbach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Wildbad/City/Calmbach.internal|Calmbach.internal]] 
 
-### #is_/same_as :: [Calmbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Wildbad/City/Calmbach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Wildbad/City/Calmbach.protect|Calmbach.protect]] 
 
-### #is_/same_as :: [Calmbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Wildbad/City/Calmbach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Wildbad/City/Calmbach.private|Calmbach.private]] 
 
-### #is_/same_as :: [Calmbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Wildbad/City/Calmbach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Wildbad/City/Calmbach.personal|Calmbach.personal]] 
 
-### #is_/same_as :: [Calmbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Wildbad/City/Calmbach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Calw/cities~Calw/Bad_Wildbad/City/Calmbach.secret|Calmbach.secret]] 
 

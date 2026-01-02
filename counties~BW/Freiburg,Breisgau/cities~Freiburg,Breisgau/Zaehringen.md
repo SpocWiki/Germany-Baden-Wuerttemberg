@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zaehringen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Zaehringen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Zaehringen|Zaehringen]] 
 
-### #is_/same_as :: [Zaehringen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Zaehringen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Zaehringen.public|Zaehringen.public]] 
 
-### #is_/same_as :: [Zaehringen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Zaehringen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Zaehringen.internal|Zaehringen.internal]] 
 
-### #is_/same_as :: [Zaehringen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Zaehringen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Zaehringen.protect|Zaehringen.protect]] 
 
-### #is_/same_as :: [Zaehringen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Zaehringen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Zaehringen.private|Zaehringen.private]] 
 
-### #is_/same_as :: [Zaehringen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Zaehringen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Zaehringen.personal|Zaehringen.personal]] 
 
-### #is_/same_as :: [Zaehringen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Zaehringen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Zaehringen.secret|Zaehringen.secret]] 
 

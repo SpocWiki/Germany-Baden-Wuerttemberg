@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Balingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Balingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Balingen|Balingen]] 
 
-### #is_/same_as :: [Balingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Balingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Balingen.public|Balingen.public]] 
 
-### #is_/same_as :: [Balingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Balingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Balingen.internal|Balingen.internal]] 
 
-### #is_/same_as :: [Balingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Balingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Balingen.protect|Balingen.protect]] 
 
-### #is_/same_as :: [Balingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Balingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Balingen.private|Balingen.private]] 
 
-### #is_/same_as :: [Balingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Balingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Balingen.personal|Balingen.personal]] 
 
-### #is_/same_as :: [Balingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Balingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Zollernalbkreis/cities~Zollernalb/Balingen.secret|Balingen.secret]] 
 

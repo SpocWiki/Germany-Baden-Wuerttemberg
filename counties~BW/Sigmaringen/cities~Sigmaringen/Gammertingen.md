@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gammertingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Gammertingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Gammertingen|Gammertingen]] 
 
-### #is_/same_as :: [Gammertingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Gammertingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Gammertingen.public|Gammertingen.public]] 
 
-### #is_/same_as :: [Gammertingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Gammertingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Gammertingen.internal|Gammertingen.internal]] 
 
-### #is_/same_as :: [Gammertingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Gammertingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Gammertingen.protect|Gammertingen.protect]] 
 
-### #is_/same_as :: [Gammertingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Gammertingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Gammertingen.private|Gammertingen.private]] 
 
-### #is_/same_as :: [Gammertingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Gammertingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Gammertingen.personal|Gammertingen.personal]] 
 
-### #is_/same_as :: [Gammertingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Gammertingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Sigmaringen/cities~Sigmaringen/Gammertingen.secret|Gammertingen.secret]] 
 

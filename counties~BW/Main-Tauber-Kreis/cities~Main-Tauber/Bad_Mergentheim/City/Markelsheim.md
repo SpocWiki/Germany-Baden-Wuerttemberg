@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Markelsheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Bad_Mergentheim/City/Markelsheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Bad_Mergentheim/City/Markelsheim|Markelsheim]] 
 
-### #is_/same_as :: [Markelsheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Bad_Mergentheim/City/Markelsheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Bad_Mergentheim/City/Markelsheim.public|Markelsheim.public]] 
 
-### #is_/same_as :: [Markelsheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Bad_Mergentheim/City/Markelsheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Bad_Mergentheim/City/Markelsheim.internal|Markelsheim.internal]] 
 
-### #is_/same_as :: [Markelsheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Bad_Mergentheim/City/Markelsheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Bad_Mergentheim/City/Markelsheim.protect|Markelsheim.protect]] 
 
-### #is_/same_as :: [Markelsheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Bad_Mergentheim/City/Markelsheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Bad_Mergentheim/City/Markelsheim.private|Markelsheim.private]] 
 
-### #is_/same_as :: [Markelsheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Bad_Mergentheim/City/Markelsheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Bad_Mergentheim/City/Markelsheim.personal|Markelsheim.personal]] 
 
-### #is_/same_as :: [Markelsheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Bad_Mergentheim/City/Markelsheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Main-Tauber-Kreis/cities~Main-Tauber/Bad_Mergentheim/City/Markelsheim.secret|Markelsheim.secret]] 
 

@@ -36,17 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plochingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Plochingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Plochingen|Plochingen]] 
 
-### #is_/same_as :: [Plochingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Plochingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Plochingen.public|Plochingen.public]] 
 
-### #is_/same_as :: [Plochingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Plochingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Plochingen.internal|Plochingen.internal]] 
 
-### #is_/same_as :: [Plochingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Plochingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Plochingen.protect|Plochingen.protect]] 
 
-### #is_/same_as :: [Plochingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Plochingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Plochingen.private|Plochingen.private]] 
 
-### #is_/same_as :: [Plochingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Plochingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Plochingen.personal|Plochingen.personal]] 
 
-### #is_/same_as :: [Plochingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Plochingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Esslingen/cities~Esslingen/Plochingen.secret|Plochingen.secret]] 
 

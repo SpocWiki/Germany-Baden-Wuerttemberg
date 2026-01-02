@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Marbach~Baden](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Marbach~Baden.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Marbach~Baden|Marbach~Baden]] 
 
-### #is_/same_as :: [Marbach~Baden.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Marbach~Baden.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Marbach~Baden.public|Marbach~Baden.public]] 
 
-### #is_/same_as :: [Marbach~Baden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Marbach~Baden.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Marbach~Baden.internal|Marbach~Baden.internal]] 
 
-### #is_/same_as :: [Marbach~Baden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Marbach~Baden.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Marbach~Baden.protect|Marbach~Baden.protect]] 
 
-### #is_/same_as :: [Marbach~Baden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Marbach~Baden.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Marbach~Baden.private|Marbach~Baden.private]] 
 
-### #is_/same_as :: [Marbach~Baden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Marbach~Baden.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Marbach~Baden.personal|Marbach~Baden.personal]] 
 
-### #is_/same_as :: [Marbach~Baden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Marbach~Baden.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Schwarzwald-Baar/cities~Baar~Schwarzw/Villingen-Schwenningen/boroughs~Villingen/Marbach~Baden.secret|Marbach~Baden.secret]] 
 

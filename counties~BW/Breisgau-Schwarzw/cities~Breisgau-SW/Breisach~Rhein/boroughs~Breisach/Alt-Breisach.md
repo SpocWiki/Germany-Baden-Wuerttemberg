@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alt-Breisach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Breisach~Rhein/boroughs~Breisach/Alt-Breisach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Breisach~Rhein/boroughs~Breisach/Alt-Breisach|Alt-Breisach]] 
 
-### #is_/same_as :: [Alt-Breisach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Breisach~Rhein/boroughs~Breisach/Alt-Breisach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Breisach~Rhein/boroughs~Breisach/Alt-Breisach.public|Alt-Breisach.public]] 
 
-### #is_/same_as :: [Alt-Breisach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Breisach~Rhein/boroughs~Breisach/Alt-Breisach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Breisach~Rhein/boroughs~Breisach/Alt-Breisach.internal|Alt-Breisach.internal]] 
 
-### #is_/same_as :: [Alt-Breisach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Breisach~Rhein/boroughs~Breisach/Alt-Breisach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Breisach~Rhein/boroughs~Breisach/Alt-Breisach.protect|Alt-Breisach.protect]] 
 
-### #is_/same_as :: [Alt-Breisach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Breisach~Rhein/boroughs~Breisach/Alt-Breisach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Breisach~Rhein/boroughs~Breisach/Alt-Breisach.private|Alt-Breisach.private]] 
 
-### #is_/same_as :: [Alt-Breisach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Breisach~Rhein/boroughs~Breisach/Alt-Breisach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Breisach~Rhein/boroughs~Breisach/Alt-Breisach.personal|Alt-Breisach.personal]] 
 
-### #is_/same_as :: [Alt-Breisach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Breisach~Rhein/boroughs~Breisach/Alt-Breisach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Breisgau-Schwarzw/cities~Breisgau-SW/Breisach~Rhein/boroughs~Breisach/Alt-Breisach.secret|Alt-Breisach.secret]] 
 
