@@ -279,9 +279,7 @@ defaultZoom: 11
 >
 > Stuttgart is known for its strong high-tech industry, especially in the automotive sector. It has the highest general standard of prosperity of any German city. In addition to many medium-sized companies, several major corporations are headquartered in Stuttgart, including Porsche, Bosch, Exyte, and Mercedes-Benz Group. Stuttgart is an important financial center; the Stuttgart Stock Exchange is the second largest in Germany (after Frankfurt), and the Landesbank Baden-Württemberg (LBBW) is Germany's largest Landesbank. Stuttgart is also a major transport junction; it is among the most congested conurbations of Europe, and its airport is the sixth-busiest in Germany (2019). Stuttgart is a city with a high number of immigrants; according to Dorling Kindersley's Eyewitness Travel Guide to Germany, "In the city of Stuttgart, every third inhabitant is a foreigner." 40% of Stuttgart's residents, and 64% of the population below the age of five, are of immigrant background. In the rest of Germany, 28.7% of people are of immigrant background, with a relatively higher percentage living in cities and former western Germany (such as Stuttgart).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Stuttgart)  
-
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Stuttgart) 
 
 
 ## Overview

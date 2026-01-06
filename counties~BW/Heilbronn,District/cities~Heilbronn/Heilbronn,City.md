@@ -56,7 +56,7 @@ minZoom: 3
 >
 > In October 2025, Heilbronn was named the European Green Capital for 2027.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Heilbronn)
+> [Wikipedia](https://en.wikipedia.org/wiki/Heilbronn) 
 
 
 ## Confidential Links & Embeds: 

@@ -5,7 +5,7 @@
 >
 > Until 15 October 1964, the district's name was officially written as Landkreis Eßlingen.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Esslingen%20(district))
+> [Wikipedia](https://en.wikipedia.org/wiki/Esslingen%20(district)) 
 
 
 [[../../../../../../../../../assets/geo/Europe/Germany/Esslingen-Altstadt.webp]] 
