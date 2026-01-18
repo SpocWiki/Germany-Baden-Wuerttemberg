@@ -1,16 +1,44 @@
 ---
-location: [48.8,9.8] 
-mapzoom: [7,12] 
-mapmarker: city 
-type: City
+location:
+  - 48.8
+  - 9.8
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
+type: private_note
 tags:
-- geo/City
-
-
+  - geo/City
+  - "{ newTitle: }":
+  - excalidraw
 SpocWebEntityId: 34126
 isDeleted: false
-confidential: public
-
+confidential: private
+aliases:
+  - "{ newTitle: }":
+cssclasses:
+  - private
+  - note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate:
+has_Template: "[[Extract~Note~Template]]"
+has_time_started:
+  '{ "date:YYYY-MM-DD": }':
+isReadOnly: false
+keywords:
+  "{ newTitle: }":
+lang: en
+layout:
+license: (c)copyrighted
+linkTitle:
+  "{ newTitle: }":
+publish: false
+publishDate:
+title:
+  "{ newTitle: }":
 ---
 
 # [[Schwaebisch_Gmuend]] 
@@ -35,6 +63,12 @@ maxZoom: 18
 ```
 
 
+
+#is_/part_of :: [[Schwaebisch-Gmuend]] 
+
+![[Schwaebisch_Gmuend.svg]]
+
+ 
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Schwaebisch_Gmuend|Schwaebisch_Gmuend]] 
@@ -51,3 +85,15 @@ maxZoom: 18
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd/City/Schwaebisch_Gmuend.secret|Schwaebisch_Gmuend.secret]] 
 
+
+
+## Embedded Graph 
+
+![[Schwaebisch_Gmuend.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```
