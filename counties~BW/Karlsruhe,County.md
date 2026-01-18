@@ -18,8 +18,10 @@ aliases:
 
 # [[Karlsruhe,County]]
 
-#is_a_/Place  
-#is_a_ :: [[Place]] 
+
+
+
+#is_a :: [[City]]
 [has_place_longitude::8.4] 
 [has_place_latitude::49] 
 [name::Karlsruhe] 

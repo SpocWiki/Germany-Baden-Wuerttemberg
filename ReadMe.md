@@ -58,8 +58,10 @@ markerFolder: ./
 
 has_place_country:: [[Germany]]  
 Capital [[counties~BW/Stuttgart,County/City/Stuttgart,City]]]]]  
-#is_a_/Place  
-#is_a_ :: [[Place]] 
+
+
+
+#is_a :: [[City]]
 [has_place_longitude::8.97421] 
 [has_place_latitude::48.5647] 
 [Population::] 

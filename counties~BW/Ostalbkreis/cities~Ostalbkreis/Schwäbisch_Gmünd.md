@@ -47,8 +47,10 @@ title:
 
 # [[Schwäbisch_Gmünd]] 
 
-#is_a_/Place  
-#is_a_ :: [[Place]] 
+
+
+
+#is_a :: [[City]]
 [has_place_longitude::9.8] 
 [has_place_latitude::48.8] 
 [name::Schwaebisch Gmuend] 

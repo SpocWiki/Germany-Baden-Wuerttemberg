@@ -43,8 +43,10 @@ title:
 
 # [[Baden-Baden]] 
 
-#is_a_/Place  
-#is_a_ :: [[Place]] 
+
+
+
+#is_a :: [[City]]
 [has_place_longitude::8.24] 
 [has_place_latitude::48.76] 
 [name::Baden-Baden] 

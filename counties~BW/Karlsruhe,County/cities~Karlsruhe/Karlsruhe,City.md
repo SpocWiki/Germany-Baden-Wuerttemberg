@@ -55,8 +55,10 @@ time_of_discovery_or_invention: 1687-01-01T00:00:00Z
 
 # [[Karlsruhe,City]]
 
-#is_a_/Place  
-#is_a_ :: [[Place]] 
+
+
+
+#is_a :: [[City]]
 [has_place_longitude::8.4] 
 [has_place_latitude::49] 
 [name::Karlsruhe] 

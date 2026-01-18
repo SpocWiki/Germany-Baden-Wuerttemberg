@@ -19,8 +19,10 @@ confidential: public
 
 # [[Heilbronn,City]]  
 
-#is_a_/Place  
-#is_a_ :: [[Place]] 
+
+
+
+#is_a :: [[City]]
 [has_place_longitude::9.22] 
 [has_place_latitude::49.14] 
 [name::Heilbronn] 

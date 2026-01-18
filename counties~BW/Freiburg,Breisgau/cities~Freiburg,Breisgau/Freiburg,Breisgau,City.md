@@ -19,8 +19,10 @@ aliases:
 
 # [[Freiburg,Breisgau,City]]
 
-#is_a_/Place  
-#is_a_ :: [[Place]] 
+
+
+
+#is_a :: [[City]]
 [has_place_longitude::7.85] 
 [has_place_latitude::48] 
 [name::Freiburg,Breisgau] 
