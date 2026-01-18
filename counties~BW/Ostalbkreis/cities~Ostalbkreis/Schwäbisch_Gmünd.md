@@ -57,6 +57,7 @@ has_place_province:: [[Baden-Wuerttemberg]]
 [Population::] 
 [Unknown::] 
 
+## #has_/map 
 
 ```leaflet
 id: Schwaebisch Gmuend
@@ -68,11 +69,20 @@ maxZoom: 18
 
 
 
-#is_/part_of :: [[Schwaebisch-Gmuend]] 
-
 ![[Schwaebisch_Gmuend.svg]]
 
- 
+
+## #has_/text_of_/abstract 
+
+> Schwäbisch Gmünd (German pronunciation: [ˈʃvɛːbɪʃ ˈɡmʏnt] , 
+> until 1934: Gmünd; Swabian: Gmẽẽd or Gmend) is a city in the eastern part of the German state of Baden-Württemberg. With a population of around 60,000, the city is the second largest in the Ostalb district and the whole East Württemberg region after Aalen. The city is a Große Kreisstadt since 1956, i.e. a chief city under district administration; it was the administrative capital of its own rural district until the local government reorganisation on 1 January 1973.
+> 
+> There are some institutions of higher education in the city, most notably the Pädagogische Hochschule Schwäbisch Gmünd (University of Education Schwäbisch Gmünd) and the Landesgymnasium für Hochbegabte (State Highschool for gifted children).
+> 
+> Schwäbisch Gmünd was a self-ruling free imperial city from the 13th century until its annexation to Württemberg in 1802.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Schw%C3%A4bisch%20Gm%C3%BCnd) 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[Schwäbisch_Gmünd|Schwaebisch_Gmuend]] 
