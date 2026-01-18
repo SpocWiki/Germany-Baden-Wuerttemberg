@@ -1,17 +1,23 @@
 ---
-location: [47.67,9.18] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+has_id_wikidata: Q38348
+location:
+  - 47.67
+  - 9.18
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31562
 isDeleted: false
 confidential: public
-
 ---
+
+# [[Konstanz]] 
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::9.18] 
@@ -21,7 +27,9 @@ has_place_country:: [[Germany]]
 has_place_province:: [[Baden-Wuerttemberg]]  
 [Population::] 
 [Unknown::] 
+#is_/same_as :: [[WD~Konstanz,3834]] 
 
+## #has_/map 
 
 ```leaflet
 id: Konstanz
@@ -31,6 +39,11 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
+## #has_/text_of_/abstract 
+
+> **Konstanz** ( KON-stənts, US also  KAWN-stahnts, German: [ˈkɔnʃtants]  or [ˈkɔnstants] , Alemannic German: [ˈkoʃd̥əts, ˈxoʃd̥əts]), traditionally known as Constance in English, is a university city with approximately 83,000 inhabitants located at the western end of Upper Lake Constance in the Baden-Württemberg state of south Germany. The city houses the University of Konstanz and was the residence of the Roman Catholic Diocese of Konstanz for more than 1,200 years.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Konstanz) 
 
 ## Confidential Links & Embeds: 
 

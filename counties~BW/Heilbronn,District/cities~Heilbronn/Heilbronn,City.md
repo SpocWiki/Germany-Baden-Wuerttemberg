@@ -1,16 +1,20 @@
 ---
-location: [49.14,9.22] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Heilbronn
+has_id_wikidata: Q7150
+location:
+  - 49.14
+  - 9.22
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30840
 isDeleted: false
 confidential: public
-
 ---
 
 # [[Heilbronn,City]]  
@@ -24,6 +28,7 @@ has_place_country:: [[Germany]]
 has_place_province:: [[Baden-Wuerttemberg]] 
 [Population::] 
 [Unknown::] 
+#is_/same_as :: [[WD~Heilbronn,715]] 
 
 ## #has_/map 
 

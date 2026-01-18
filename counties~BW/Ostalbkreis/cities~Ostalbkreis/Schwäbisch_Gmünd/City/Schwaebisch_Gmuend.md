@@ -12,6 +12,9 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Schwaebisch_Gmuend]] 
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::9.8] 

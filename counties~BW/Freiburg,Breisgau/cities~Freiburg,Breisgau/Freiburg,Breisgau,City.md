@@ -1,17 +1,24 @@
 ---
-location: [48,7.85] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+  - 48
+  - 7.85
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30250
 isDeleted: false
 confidential: public
-
+aliases:
+  - Freiburg im Breisgau
+  - Freiburg,Breisgau
 ---
+
+# [[Freiburg,Breisgau,City]]
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::7.85] 
@@ -43,7 +50,7 @@ mit seiner aus dem Mittelalter stammenden Kirche.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Freiburg,Breisgau-city|Freiburg,Breisgau-city]] 
+### #is_/same_as :: [[Freiburg,Breisgau,City|Freiburg,Breisgau-city]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Freiburg,Breisgau-city.public|Freiburg,Breisgau-city.public]] 
 

@@ -1,17 +1,23 @@
 ---
-location: [49,8.4] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+  - 49
+  - 8.4
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31320
 isDeleted: false
 confidential: public
-
+aliases:
+  - Karlsruhe
 ---
+
+# [[Karlsruhe,County]]
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::8.4] 
@@ -22,11 +28,15 @@ has_place_province:: [[Baden-Wuerttemberg]]
 [Population::] 
 [Unknown::] 
 
+## #has_/map 
 
 ```leaflet
-id: Karlsruhe
-coordinates: [[Karlsruhe]] 
-markerFile: [[Karlsruhe]] 
+id: Karlsruhe,County
+coordinates: [[Karlsruhe,County]] 
+markerFile: [[Karlsruhe,County]] 
+geojsonFolder: ./Karlsruhe,County//
+markerFolder: ./Karlsruhe,County/
+zoomFeatures: false
 defaultZoom: 11 
 maxZoom: 18
 ```
@@ -34,7 +44,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Karlsruhe-City|Karlsruhe-City]] 
+### #is_/same_as :: [[Karlsruhe,County|Karlsruhe-City]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Karlsruhe/cities~Karlsruhe/Karlsruhe-City.public|Karlsruhe-City.public]] 
 

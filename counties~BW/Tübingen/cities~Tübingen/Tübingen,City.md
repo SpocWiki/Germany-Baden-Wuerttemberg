@@ -14,7 +14,12 @@ isDeleted: false
 confidential: public
 aliases:
   - Tuebingen
+  - Tübingen
+has_id_wikidata: Q38066
 ---
+
+# [[Tübingen,City]] 
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::9.05] 
@@ -24,7 +29,9 @@ has_place_country:: [[Germany]]
 has_place_province:: [[Baden-Wuerttemberg]] 
 [Population::] 
 [Unknown::] 
+#is_/same_as :: [[WD~Tübingen,3806]]
 
+## #has_/map 
 
 ```leaflet
 id: Tuebingen
@@ -41,9 +48,20 @@ Mit insgesamt 350 Kulturdenkmalen, romantischen Plätzen, verwinkelten Gassen un
 bezaubert Tübingen (Baden-Württemberg) seine Besucher. 
 
 
+## #has_/text_of_/abstract 
+
+> **Tübingen** (; German: [ˈtyːbɪŋən] ; Swabian: Dibenga) is a traditional university city in central Baden-Württemberg, Germany, 30 km (19 mi) south of the state capital, Stuttgart. With students accounting for almost one in three of Tübingen's 90,000 residents, the city has one of the youngest profiles in Germany, with an average age of just under 40.
+> 
+> Founded in 1477, Eberhard Karl University is one of the oldest universities north of the Alps. The university associated Tübingen in the 19th century with the German-patriotic student Burschenschaften, whose large fraternity houses are still a notable feature of the town; in the years between the World Wars, with the rise of National Socialism; and in the German Federal Republic with the emergence of the liberal-left Greens, currently the largest tendency in local government.
+> 
+> Exceptionally, Tübingen survived the Second World War with its historic fabric almost wholly intact. It has since experienced two major expansions: in the 1960s the construction of university institutes and new housing on the high ground to the north, and following the end of the Cold War, and the evacuation of extensive military bases by the French', the new mixed-use Loretto and French Quarter to the south.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/T%C3%BCbingen) 
+
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Tübingen-city|Tübingen-city]] 
+### #is_/same_as :: [[Tübingen,City|Tübingen-city]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Tübingen-city.public|Tübingen-city.public]] 
 

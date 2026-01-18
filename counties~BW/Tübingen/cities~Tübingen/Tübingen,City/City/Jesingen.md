@@ -34,7 +34,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Tübingen-city/City/Jesingen|Jesingen]] 
+### #is_/same_as :: [[Jesingen|Jesingen]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Tübingen/cities~Tübingen/Tübingen-city/City/Jesingen.public|Jesingen.public]] 
 
