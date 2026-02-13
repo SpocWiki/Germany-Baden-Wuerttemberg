@@ -1,169 +1,227 @@
 ---
 aliases:
-  - Stuttgart
-  - Schduagert
+- Estugarda
+- Schduagert
+- Shtutgart
+- Shtutgarti
+- Stocarda
+- Stoccarda
+- Stucarda
+- Stuccarda
+- Stucàrda
+- Stuggart
+- Stutgardia
+- Stutgarto
+- Stuttgart
+- Stōdgeard
+- Ştutqart
+- Štutgart
+- Štutgartas
+- Štutgarte
+- Štutgarts
+- Στουτγκάρδη
+- Штутгарт
+- Штуттгарт
+- Щутгарт
+- Շթութկարթ
+- Շտուտգարտ
+- שטוטגארט
+- שטוטגרט
+- ئشتوتگارت
+- ئشتوٙتگارت
+- اسٽٽگارٽ
+- اشتوتقارت
+- اشتوتگارت
+- سٹٹگارٹ
+- شتوتجارت
+- شتوتغارت
+- شتوتڭارت
+- شتوتگارت
+- شٹوٹگارٹ
+- श्टुटगार्ट
+- स्टटगर्ट
+- স্টুটগার্ট
+- ਸ਼ਟੁੱਟਗਾਟ
+- સ્ટુટગાર્ટ
+- இசுடுட்கார்ட்
+- ష్టుట్గార్ట్
+- ಸ್ಟಟ್ಗಾರ್ಟ್
+- സ്റ്റുട്ട്ഗാർട്ട്
+- සටට්ගාර්ට්
+- ชตุทการ์ท
+- შტუტგარტი
+- ሽቱትጋርት
+- ⵛⵜⵓⵜⴳⴰⵔⵜ
+- シュトゥットガルト
+- 史特加
+- 司徒加特
+- 斯图加特
+- 斯圖加特
+- 슈투트가르트
 has_id_wikidata: Q1022
-location: [ 48.7775, 9.18]
+location:
+- 48.7775
+- 9.18
 coordinate_location: Point(9.18 48.7775)
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Zapopan,147402]]"
-  - "[[_Standards/WikiData/WD~St_Helens,153647]]"
-  - "[[_Standards/WikiData/WD~Jeddah,374365]]"
-  - "[[_Standards/WikiData/WD~Ogaki,384926]]"
-  - "[[_Standards/WikiData/WD~Shavei_Tzion,571191]]"
-  - "[[_Standards/WikiData/WD~Łódź,580]]"
-  - "[[_Standards/WikiData/WD~Samara,894]]"
-  - "[[_Standards/WikiData/WD~Mumbai,1156]]"
-  - "[[_Standards/WikiData/WD~Mexico_City,1489]]"
-  - "[[_Standards/WikiData/WD~Strasbourg,6602]]"
-  - "[[_Standards/WikiData/WD~Cardiff,10690]]"
-  - "[[_Standards/WikiData/WD~Brno,14960]]"
-  - "[[_Standards/WikiData/WD~Menzel_Bourguiba,27435]]"
-  - "[[_Standards/WikiData/WD~Cairo,85]]"
-  - "[[_Standards/WikiData/WD~St._Louis,38022]]"
-  - "[[_Standards/WikiData/WD~Melun,41139]]"
-has_list: "[[_Standards/WikiData/WD~list_of_people_from_Stuttgart,154297]]"
+- '[[_Standards/WikiData/WD~Zapopan,147402]]'
+- '[[_Standards/WikiData/WD~St_Helens,153647]]'
+- '[[_Standards/WikiData/WD~Jeddah,374365]]'
+- '[[_Standards/WikiData/WD~Ogaki,384926]]'
+- '[[_Standards/WikiData/WD~Shavei_Tzion,571191]]'
+- '[[_Standards/WikiData/WD~Łódź,580]]'
+- '[[_Standards/WikiData/WD~Samara,894]]'
+- '[[_Standards/WikiData/WD~Mumbai,1156]]'
+- '[[_Standards/WikiData/WD~Mexico_City,1489]]'
+- '[[_Standards/WikiData/WD~Strasbourg,6602]]'
+- '[[_Standards/WikiData/WD~Cardiff,10690]]'
+- '[[_Standards/WikiData/WD~Brno,14960]]'
+- '[[_Standards/WikiData/WD~Menzel_Bourguiba,27435]]'
+- '[[_Standards/WikiData/WD~Cairo,85]]'
+- '[[_Standards/WikiData/WD~St._Louis,38022]]'
+- '[[_Standards/WikiData/WD~Melun,41139]]'
+has_list: '[[_Standards/WikiData/WD~list_of_people_from_Stuttgart,154297]]'
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Kingdom_of_Württemberg,159631]]"
-  - "[[_Standards/WikiData/WD~Neckarkreis,1122124]]"
-  - "[[_Standards/WikiData/WD~Stuttgart_Government_Region,8172]]"
+- '[[_Standards/WikiData/WD~Kingdom_of_Württemberg,159631]]'
+- '[[_Standards/WikiData/WD~Neckarkreis,1122124]]'
+- '[[_Standards/WikiData/WD~Stuttgart_Government_Region,8172]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Zuffenhausen,228211]]"
-  - "[[_Standards/WikiData/WD~Feuerbach,289874]]"
-  - "[[_Standards/WikiData/WD~Weilimdorf,322559]]"
-  - "[[_Standards/WikiData/WD~Bad_Cannstatt,656982]]"
-  - "[[_Standards/WikiData/WD~Degerloch,660862]]"
-  - "[[_Standards/WikiData/WD~Stuttgart_Mitte,727750]]"
-  - "[[_Standards/WikiData/WD~Mühlhausen,733332]]"
-  - "[[_Standards/WikiData/WD~Vaihingen,767962]]"
-  - "[[_Standards/WikiData/WD~Sillenbuch,782888]]"
-  - "[[_Standards/WikiData/WD~Birkach,865457]]"
-  - "[[_Standards/WikiData/WD~Botnang,894747]]"
-  - "[[_Standards/WikiData/WD~Untertürkheim,897283]]"
-  - "[[_Standards/WikiData/WD~Stammheim,1373697]]"
-  - "[[_Standards/WikiData/WD~Stuttgart_Nord,1398505]]"
-  - "[[_Standards/WikiData/WD~Wangen,1469016]]"
-  - "[[_Standards/WikiData/WD~Hedelfingen,1593221]]"
-  - "[[_Standards/WikiData/WD~Obertürkheim,1730884]]"
-  - "[[_Standards/WikiData/WD~Möhringen,1957900]]"
-  - "[[_Standards/WikiData/WD~Münster,1959130]]"
-  - "[[_Standards/WikiData/WD~Plieningen,2099499]]"
-  - "[[_Standards/WikiData/WD~Stuttgart_Ost,2359472]]"
-  - "[[_Standards/WikiData/WD~Stuttgart_West,2359473]]"
+- '[[_Standards/WikiData/WD~Zuffenhausen,228211]]'
+- '[[_Standards/WikiData/WD~Feuerbach,289874]]'
+- '[[_Standards/WikiData/WD~Weilimdorf,322559]]'
+- '[[_Standards/WikiData/WD~Bad_Cannstatt,656982]]'
+- '[[_Standards/WikiData/WD~Degerloch,660862]]'
+- '[[_Standards/WikiData/WD~Stuttgart_Mitte,727750]]'
+- '[[_Standards/WikiData/WD~Mühlhausen,733332]]'
+- '[[_Standards/WikiData/WD~Vaihingen,767962]]'
+- '[[_Standards/WikiData/WD~Sillenbuch,782888]]'
+- '[[_Standards/WikiData/WD~Birkach,865457]]'
+- '[[_Standards/WikiData/WD~Botnang,894747]]'
+- '[[_Standards/WikiData/WD~Untertürkheim,897283]]'
+- '[[_Standards/WikiData/WD~Stammheim,1373697]]'
+- '[[_Standards/WikiData/WD~Stuttgart_Nord,1398505]]'
+- '[[_Standards/WikiData/WD~Wangen,1469016]]'
+- '[[_Standards/WikiData/WD~Hedelfingen,1593221]]'
+- '[[_Standards/WikiData/WD~Obertürkheim,1730884]]'
+- '[[_Standards/WikiData/WD~Möhringen,1957900]]'
+- '[[_Standards/WikiData/WD~Münster,1959130]]'
+- '[[_Standards/WikiData/WD~Plieningen,2099499]]'
+- '[[_Standards/WikiData/WD~Stuttgart_Ost,2359472]]'
+- '[[_Standards/WikiData/WD~Stuttgart_West,2359473]]'
 capital_of:
-  - "[[_Standards/WikiData/WD~Württemberg_Baden,251660]]"
-  - "[[_Standards/WikiData/WD~Baden_Württemberg,985]]"
-  - "[[_Standards/WikiData/WD~Stuttgart_Government_Region,8172]]"
+- '[[_Standards/WikiData/WD~Württemberg_Baden,251660]]'
+- '[[_Standards/WikiData/WD~Baden_Württemberg,985]]'
+- '[[_Standards/WikiData/WD~Stuttgart_Government_Region,8172]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~major_regional_center,253030]]"
-  - "[[_Standards/WikiData/WD~financial_center,1066984]]"
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~City_district_in_Baden_Württemberg,2327515]]"
-  - "[[_Standards/WikiData/WD~state_capital_in_Germany,14784328]]"
-  - "[[_Standards/WikiData/WD~urban_municipality_in_Germany,42744322]]"
-  - "[[_Standards/WikiData/WD~Option_municipality,106517174]]"
+- '[[_Standards/WikiData/WD~major_regional_center,253030]]'
+- '[[_Standards/WikiData/WD~financial_center,1066984]]'
+- '[[_Standards/WikiData/WD~big_city,1549591]]'
+- '[[_Standards/WikiData/WD~City_district_in_Baden_Württemberg,2327515]]'
+- '[[_Standards/WikiData/WD~state_capital_in_Germany,14784328]]'
+- '[[_Standards/WikiData/WD~urban_municipality_in_Germany,42744322]]'
+- '[[_Standards/WikiData/WD~Option_municipality,106517174]]'
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Nesenbach,319609]]"
-  - "[[_Standards/WikiData/WD~Neckar,1673]]"
-different_from: "[[_Standards/WikiData/WD~Stuttgart,438649]]"
+- '[[_Standards/WikiData/WD~Nesenbach,319609]]'
+- '[[_Standards/WikiData/WD~Neckar,1673]]'
+different_from: '[[_Standards/WikiData/WD~Stuttgart,438649]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Stuttgart_Metropolitan_Region,451619]]"
-  - "[[_Standards/WikiData/WD~Stuttgart_Government_Region,8172]]"
+- '[[_Standards/WikiData/WD~Stuttgart_Metropolitan_Region,451619]]'
+- '[[_Standards/WikiData/WD~Stuttgart_Government_Region,8172]]'
 member_of:
-  - "[[_Standards/WikiData/WD~International_Association_for_Sports_and_Leisure_Facilities,475646]]"
-  - "[[_Standards/WikiData/WD~Mayors_for_Peace,747279]]"
-  - "[[_Standards/WikiData/WD~Kommunalverband_für_Jugend_und_Soziales_Baden_Württemberg,1691932]]"
-  - "[[_Standards/WikiData/WD~Climate_Alliance,1768108]]"
-  - "[[_Standards/WikiData/WD~Q28936918,28936918]]"
-  - "[[_Standards/WikiData/WD~Zweckverband_4IT,55473342]]"
-  - "[[_Standards/WikiData/WD~Q131586184,131586184]]"
+- '[[_Standards/WikiData/WD~International_Association_for_Sports_and_Leisure_Facilities,475646]]'
+- '[[_Standards/WikiData/WD~Mayors_for_Peace,747279]]'
+- '[[_Standards/WikiData/WD~Kommunalverband_für_Jugend_und_Soziales_Baden_Württemberg,1691932]]'
+- '[[_Standards/WikiData/WD~Climate_Alliance,1768108]]'
+- '[[_Standards/WikiData/WD~Q28936918,28936918]]'
+- '[[_Standards/WikiData/WD~Zweckverband_4IT,55473342]]'
+- '[[_Standards/WikiData/WD~Q131586184,131586184]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Topographia_Sueviae,19230698]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Zehnter_Band,132672318]]"
-highest_point: "[[_Standards/WikiData/WD~Bernhartshöhe,826470]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Topographia_Sueviae,19230698]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Zehnter_Band,132672318]]'
+highest_point: '[[_Standards/WikiData/WD~Bernhartshöhe,826470]]'
 named_after:
-  - "[[_Standards/WikiData/WD~mare,1104034]]"
-  - "[[_Standards/WikiData/WD~garden,1107656]]"
-legislative_body: "[[_Standards/WikiData/WD~Rathaus_Stuttgart,1360830]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Stuttgart_valley,1707601]]"
-archives_at: "[[_Standards/WikiData/WD~City_Archive_Stuttgart,1806929]]"
-owner_of: "[[_Standards/WikiData/WD~Stuttgarter_Straßenbahnen,2359602]]"
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Stuttgart,7805932]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Stuttgart,11380685]]"
-head_of_government: "[[_Standards/WikiData/WD~Frank_Nopper,15444489]]"
-legal_form: "[[_Standards/WikiData/WD~Körperschaft_des_öffentlichen_Rechts,15734684]]"
-category_for_people_buried_here: "[[_Standards/WikiData/WD~Q22910203,22910203]]"
-visitor_center: "[[_Standards/WikiData/WD~Q45070553,45070553]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Stuttgart,100867949]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Stuttgart,115448193]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Stuttgart,116771892]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
+- '[[_Standards/WikiData/WD~mare,1104034]]'
+- '[[_Standards/WikiData/WD~garden,1107656]]'
+legislative_body: '[[_Standards/WikiData/WD~Rathaus_Stuttgart,1360830]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Stuttgart_valley,1707601]]'
+archives_at: '[[_Standards/WikiData/WD~City_Archive_Stuttgart,1806929]]'
+owner_of: '[[_Standards/WikiData/WD~Stuttgarter_Straßenbahnen,2359602]]'
+history_of_topic: '[[_Standards/WikiData/WD~timeline_of_Stuttgart,7805932]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Stuttgart,11380685]]'
+head_of_government: '[[_Standards/WikiData/WD~Frank_Nopper,15444489]]'
+legal_form: '[[_Standards/WikiData/WD~Körperschaft_des_öffentlichen_Rechts,15734684]]'
+category_for_people_buried_here: '[[_Standards/WikiData/WD~Q22910203,22910203]]'
+visitor_center: '[[_Standards/WikiData/WD~Q45070553,45070553]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Stuttgart,100867949]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Stuttgart,115448193]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Stuttgart,116771892]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Rems_Murr,8528]]"
-  - "[[_Standards/WikiData/WD~Esslingen,8533]]"
-  - "[[_Standards/WikiData/WD~Böblingen_district,8536]]"
-  - "[[_Standards/WikiData/WD~Ludwigsburg_District,8541]]"
-country: "[[_Standards/WikiData/WD~Germany,183]]"
+- '[[_Standards/WikiData/WD~Rems_Murr,8528]]'
+- '[[_Standards/WikiData/WD~Esslingen,8533]]'
+- '[[_Standards/WikiData/WD~Böblingen_district,8536]]'
+- '[[_Standards/WikiData/WD~Ludwigsburg_District,8541]]'
+country: '[[_Standards/WikiData/WD~Germany,183]]'
 budget: 5400000000
 elevation_above_sea_level:
-  - 245
-  - 247
+- 245
+- 247
 social_media_followers: 38550
 postal_code:
-  - "70569"
-  - "70193"
-  - "70329"
-  - "70374"
-  - "70191"
-  - "70188"
-  - "70195"
-  - "70174"
-  - "70563"
-  - "70567"
-  - "70192"
-  - "70439"
-  - "70499"
-  - "70184"
-  - "70190"
-  - "70199"
-  - "70435"
-  - "70599"
-  - "70565"
-  - "70182"
-  - "70176"
-  - "70197"
-  - "70378"
-  - "70619"
-  - "70178"
-  - "70437"
-  - "70372"
-  - "70376"
-  - "70597"
-  - "70173"
-  - "70186"
-  - "70327"
-  - "70469"
-  - "70180"
+- 70569
+- 70193
+- 70329
+- 70374
+- 70191
+- 70188
+- 70195
+- 70174
+- 70563
+- 70567
+- 70192
+- 70439
+- 70499
+- 70184
+- 70190
+- 70199
+- 70435
+- 70599
+- 70565
+- 70182
+- 70176
+- 70197
+- 70378
+- 70619
+- 70178
+- 70437
+- 70372
+- 70376
+- 70597
+- 70173
+- 70186
+- 70327
+- 70469
+- 70180
 area: 207.35
 licence_plate_code: S
 male_population: 314721
 female_population: 315584
-local_dialing_code: "0711"
+local_dialing_code: 0711
 impressum_URL: https://www.stuttgart.de/impressum.php
 population: 633484
 Provenio_UUID: 8d84ad4a-7914-4163-9fa0-0a27c6b4cc47
 BHCL_UUID:
-  - c4d5f91e-f1c8-4380-87bd-349e7068fe51
-  - 9bc497d1-1224-439e-8f52-1789aeb827f9
+- c4d5f91e-f1c8-4380-87bd-349e7068fe51
+- 9bc497d1-1224-439e-8f52-1789aeb827f9
 official_website: https://www.stuttgart.de/
 GitHub_topic: stuttgart
 subreddit: stuttgart
@@ -172,21 +230,21 @@ Commons_gallery: Stuttgart
 hashtag: Stuttgart
 Image_Archive_Herder_Institute: Q1022
 native_label:
-  - Stuttgart
-  - Schduagert
+- Stuttgart
+- Schduagert
 official_name: Stuttgart
 short_name:
-  - LHS
-  - Stg
+- LHS
+- Stg
 demonym:
-  - Stuttgarterin
-  - Stuttgarterinnen
-  - Stuttgartois
-  - Stuttgartoise
-  - Stuttgartčan
-  - Stuttgartčanka
-  - Stuttgarter
-German_district_key: "08111"
+- Stuttgarterin
+- Stuttgarterinnen
+- Stuttgartois
+- Stuttgartoise
+- Stuttgartčan
+- Stuttgartčanka
+- Stuttgarter
+German_district_key: 08111
 geoshape: http://commons.wikimedia.org/data/main/Data:Deutschland/Baden-W%C3%BCrttemberg/Stuttgart.map
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Baden-W%C3%BCrttemberg%20S.svg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Stuttgart2.ogg
@@ -199,24 +257,24 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Stuttgart%20bann
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Stuttgart%20Downtown%20Sights%20Collage.png
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Stuttgart%20Stadtteile.svg
 described_at_URL:
-  - https://www.leo-bw.de/en-GB/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/5/Stuttgart
-  - https://www.leo-bw.de/en-GB/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/55/Stuttgart-Mitte+-+Altgemeinde%7ETeilort
+- https://www.leo-bw.de/en-GB/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/5/Stuttgart
+- https://www.leo-bw.de/en-GB/web/guest/detail-gis/-/Detail/details/ORT/labw_ortslexikon/55/Stuttgart-Mitte+-+Altgemeinde%7ETeilort
 privacy_policy_URL: https://www.stuttgart.de/datenschutzerklaerung.php
 contact_page_URL: https://www.stuttgart.de/service/kontakt/
 email_address:
-  - mailto:info@stuttgart.de
-  - mailto:post@stuttgart.de
+- mailto:info@stuttgart.de
+- mailto:post@stuttgart.de
 IPA_transcription: ˈʃtʊtɡaʁt
 phone_number: +49-711-2160
 fax_number: +49-711-21691237
 ISNI:
-  - "0000000121836155"
-  - "0000000405820243"
-German_municipality_key: "08111000"
-German_regional_key: "081110000000"
-U_S_National_Archives_Identifier: "10044933"
+- 0000000121836155
+- 0000000405820243
+German_municipality_key: 08111000
+German_regional_key: 081110000000
+U_S_National_Archives_Identifier: 10044933
 Dewey_Decimal_Classification: 2--434715
-WOEID: "698064"
+WOEID: 698064
 HASC: DE.BW.SU
 NUTS_code: DE111
 UN_LOCODE: DESTR
@@ -225,6 +283,182 @@ X_Twitter_username: stuttgart_stadt
 Instagram_username: stuttgart.meine.stadt
 Mastodon_address: stuttgart@xn--baw-joa.social
 YouTube_handle: StuttgartLHS
+dv_has_:
+  name_:
+    af: Stuttgart
+    am: ሽቱትጋርት
+    an: Stuttgart
+    ang: Stōdgeard
+    ar: شتوتغارت
+    ary: شتوتڭارت
+    arz: شتوتجارت
+    ast: Stuttgart
+    ay: Stuttgart
+    az: Ştutqart
+    azb: اشتوتقارت
+    ban: Stuttgart
+    bar: Stuggart
+    be: Штутгарт
+    be-tarask: Штутгарт
+    bg: Щутгарт
+    bn: স্টুটগার্ট
+    br: Stuttgart
+    bs: Stuttgart
+    ca: Stuttgart
+    cbk-zam: Stuttgart
+    ce: Штутгарт
+    ceb: Stuttgart
+    ckb: شتوتگارت
+    co: Stuccarda
+    cs: Stuttgart
+    cv: Штутгарт
+    cy: Stuttgart
+    da: Stuttgart
+    de: Stuttgart
+    de-ch: Stuttgart
+    diq: Stuttgart
+    dsb: Stuttgart
+    el: Στουτγκάρδη
+    eml: Stucàrda
+    en: Stuttgart
+    en-gb: Stuttgart
+    en-us: Stuttgart
+    eo: Stutgarto
+    es: Stuttgart
+    et: Stuttgart
+    eu: Stuttgart
+    fa: اشتوتگارت
+    fi: Stuttgart
+    fit: Stuttgart
+    fo: Stuttgart
+    fr: Stuttgart
+    frp: Stuttgart
+    frr: Stuttgart
+    fy: Stuttgart
+    ga: Stuttgart
+    gd: Stuttgart
+    gl: Stuttgart
+    gsw: Schduagert
+    gu: સ્ટુટગાર્ટ
+    gv: Stuttgart
+    ha: Stuttgart
+    hak: Stuttgart
+    he: שטוטגרט
+    hi: श्टुटगार्ट
+    hr: Stuttgart
+    hsb: Stuttgart
+    hu: Stuttgart
+    hy: Շտուտգարտ
+    hyw: Շթութկարթ
+    ia: Stuttgart
+    id: Stuttgart
+    ie: Stuttgart
+    io: Stuttgart
+    is: Stuttgart
+    it: Stoccarda
+    ja: シュトゥットガルト
+    ka: შტუტგარტი
+    kg: Stuttgart
+    kk: Штутгарт
+    kn: ಸ್ಟಟ್ಗಾರ್ಟ್
+    ko: 슈투트가르트
+    ksh: Stuttgart
+    ku: Stuttgart
+    ky: Штутгарт
+    la: Stutgardia
+    lad: Stuttgart
+    lb: Stuttgart
+    lfn: Stuttgart
+    li: Stuttgart
+    lij: Stoccarda
+    lld: Stuttgart
+    lmo: Stucarda
+    lrc: ئشتوٙتگارت
+    lt: Štutgartas
+    lv: Štutgarte
+    mdf: Штутгарт
+    mg: Stuttgart
+    mk: Штутгарт
+    ml: സ്റ്റുട്ട്ഗാർട്ട്
+    mn: Штуттгарт
+    mr: श्टुटगार्ट
+    mrj: Штутгарт
+    ms: Stuttgart
+    mt: Stuttgart
+    mul: Stuttgart
+    mzn: ئشتوتگارت
+    nah: Stuttgart
+    nan: Stuttgart
+    nb: Stuttgart
+    nds: Stuttgart
+    ne: स्टटगर्ट
+    nl: Stuttgart
+    nn: Stuttgart
+    oc: Stuttgart
+    os: Штутгарт
+    pa: ਸ਼ਟੁੱਟਗਾਟ
+    pam: Stuttgart
+    pdc: Stuttgart
+    pl: Stuttgart
+    pms: Stocarda
+    pnb: سٹٹگارٹ
+    pt: Estugarda
+    pt-br: Stuttgart
+    qu: Stuttgart
+    ro: Stuttgart
+    ru: Штутгарт
+    rup: Stuttgart
+    rw: Stuttgart
+    sah: Штутгарт
+    sc: Stuttgart
+    scn: Stoccarda
+    sco: Stuttgart
+    sd: اسٽٽگارٽ
+    sgs: Štutgarts
+    sh: Stuttgart
+    si: සටට්ගාර්ට්
+    sk: Stuttgart
+    sl: Stuttgart
+    sq: Shtutgarti
+    sr: Штутгарт
+    srn: Stuttgart
+    stq: Stuttgart
+    sv: Stuttgart
+    sw: Stuttgart
+    szl: Stuttgart
+    ta: இசுடுட்கார்ட்
+    te: ష్టుట్గార్ట్
+    tg: Штутгарт
+    th: ชตุทการ์ท
+    tl: Stuttgart
+    tly: Štutgart
+    tr: Stuttgart
+    tt: Штутгарт
+    tum: Stuttgart
+    tw: Stuttgart
+    ug: Shtutgart
+    uk: Штутгарт
+    ur: شٹوٹگارٹ
+    uz: Stuttgart
+    vec: Stocarda
+    vep: Štutgart
+    vi: Stuttgart
+    vls: Stuttgart
+    vo: Stuttgart
+    war: Stuttgart
+    wuu: 斯图加特
+    xmf: შტუტგარტი
+    yi: שטוטגארט
+    yo: Stuttgart
+    yue: 史特加
+    zgh: ⵛⵜⵓⵜⴳⴰⵔⵜ
+    zh: 斯图加特
+    zh-cn: 斯图加特
+    zh-hans: 斯图加特
+    zh-hant: 斯圖加特
+    zh-hk: 斯圖加特
+    zh-sg: 斯图加特
+    zh-tw: 司徒加特
 ---
 # [[Stuttgart,City]]
 

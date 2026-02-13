@@ -1,50 +1,185 @@
 ---
 aliases:
-  - Schwaebisch_Gmuend
-  - Schwaebisch Gmuend
-  - Schwäbisch_Gmünd
-  - Schwäbisch Gmünd
-  - Gmünd
+- Gamundia
+- Gmend
+- Gmünd
+- Schwabisch Gmund
+- Schwaebisch Gmuend
+- Schwaebisch_Gmuend
+- Schwäbisch Gmünd
+- Schwäbisch_Gmünd
+- Schwähbesch Jemönd
+- Švabijos Gmiundas
+- Σβέμπις Γκμυντ
+- Швебіш-Гмюнд
+- Швебиш Гминд
+- Швебиш Гмюнд
+- Швебиш-Гмуьнд
+- Швебиш-Гмюнд
+- Швебиш-Гмӯнд
+- Швэбіш Гмюнд
+- Швэбиш-Гмюнд
+- Швәбиш-Гмүнд
+- Շվեբիշ Գյումունդ
+- שוואביש גמונד
+- شفايبيش غموند
+- شوابیش گموند
+- شوبیش قموند
+- ชเวบิชกมึนท์
+- შვებიშ-გმიუნდი
+- シュヴェービッシュ・グミュント
+- 施瓦本格明德
+- 슈베비슈그뮌트
 location:
-  - 48.8
-  - 9.8
+- 48.8
+- 9.8
 mapzoom:
-  - 7
-  - 12
+- 7
+- 12
 mapmarker: city
 type: private_note
 tags:
-  - geo/City
-  - "{ newTitle: }":
-  - excalidraw
+- geo/City
+- '{ newTitle: }': 
+- excalidraw
 SpocWebEntityId: 34126
 isDeleted: false
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate:
-has_Template: "[[Extract~Note~Template]]"
+expiryDate: 
+has_Template: '[[Extract~Note~Template]]'
 has_time_started:
-  '{ "date:YYYY-MM-DD": }':
+  '{ "date:YYYY-MM-DD": }': 
 isReadOnly: false
 keywords:
-  "{ newTitle: }":
+  '{ newTitle: }': 
 lang: en
-layout:
+layout: 
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: }":
+  '{ newTitle: }': 
 publish: false
-publishDate:
+publishDate: 
 title:
-  "{ newTitle: }":
+  '{ newTitle: }': 
+has_id_wikidata: Q4037
+dv_has_:
+  name_:
+    af: Schwäbisch Gmünd
+    an: Schwäbisch Gmünd
+    ar: شفايبيش غموند
+    ast: Schwäbisch Gmünd
+    azb: شوبیش قموند
+    bar: Schwäbisch Gmünd
+    be: Швебіш-Гмюнд
+    be-tarask: Швэбіш Гмюнд
+    bg: Швебиш Гмюнд
+    br: Schwäbisch Gmünd
+    ca: Schwäbisch Gmünd
+    ce: Швебиш-Гмуьнд
+    ceb: Schwäbisch Gmünd
+    co: Schwäbisch Gmünd
+    cs: Schwäbisch Gmünd
+    csb: Schwäbisch Gmünd
+    cy: Schwäbisch Gmünd
+    da: Schwäbisch Gmünd
+    de: Schwäbisch Gmünd
+    de-at: Schwäbisch Gmünd
+    de-ch: Schwäbisch Gmünd
+    el: Σβέμπις Γκμυντ
+    en: Schwäbisch Gmünd
+    en-ca: Schwäbisch Gmünd
+    en-gb: Schwäbisch Gmünd
+    eo: Schwäbisch Gmünd
+    es: Schwäbisch Gmünd
+    et: Schwäbisch Gmünd
+    eu: Schwäbisch Gmünd
+    fa: شوابیش گموند
+    fi: Schwäbisch Gmünd
+    fr: Schwäbisch Gmünd
+    frp: Schwäbisch Gmünd
+    fur: Schwäbisch Gmünd
+    ga: Schwäbisch Gmünd
+    gd: Schwäbisch Gmünd
+    gl: Schwäbisch Gmünd
+    gsw: Gmend
+    he: שוואביש גמונד
+    hr: Schwäbisch Gmünd
+    hu: Schwäbisch Gmünd
+    hy: Շվեբիշ Գյումունդ
+    ia: Schwäbisch Gmünd
+    id: Schwäbisch Gmünd
+    ie: Schwäbisch Gmünd
+    io: Schwäbisch Gmünd
+    is: Schwäbisch Gmünd
+    it: Schwäbisch Gmünd
+    ja: シュヴェービッシュ・グミュント
+    ka: შვებიშ-გმიუნდი
+    kg: Schwäbisch Gmünd
+    ko: 슈베비슈그뮌트
+    ksh: Schwähbesch Jemönd
+    ku: Schwäbisch Gmünd
+    la: Gamundia
+    lb: Schwäbisch Gmünd
+    li: Schwäbisch Gmünd
+    lij: Schwäbisch Gmünd
+    lld: Schwäbisch Gmünd
+    lmo: Schwäbisch Gmünd
+    lt: Švabijos Gmiundas
+    mdf: Швэбиш-Гмюнд
+    mg: Schwäbisch Gmünd
+    min: Schwäbisch Gmünd
+    ms: Schwäbisch Gmünd
+    mul: Schwäbisch Gmünd
+    nap: Schwäbisch Gmünd
+    nb: Schwäbisch Gmünd
+    nds: Schwäbisch Gmünd
+    nds-nl: Schwäbisch Gmünd
+    nl: Schwäbisch Gmünd
+    nn: Schwäbisch Gmünd
+    nrm: Schwäbisch Gmünd
+    oc: Schwäbisch Gmünd
+    pcd: Schwäbisch Gmünd
+    pl: Schwäbisch Gmünd
+    pms: Schwäbisch Gmünd
+    pt: Schwäbisch Gmünd
+    pt-br: Schwäbisch Gmünd
+    rm: Schwäbisch Gmünd
+    ro: Schwäbisch Gmünd
+    ru: Швебиш-Гмюнд
+    sc: Schwäbisch Gmünd
+    scn: Schwäbisch Gmünd
+    sco: Schwäbisch Gmünd
+    sh: Schwäbisch Gmünd
+    sk: Schwäbisch Gmünd
+    sl: Schwäbisch Gmünd
+    sr: Швебиш Гминд
+    sr-el: Schwäbisch Gmünd
+    sv: Schwäbisch Gmünd
+    sw: Schwäbisch Gmünd
+    szl: Schwäbisch Gmünd
+    tg: Швебиш-Гмӯнд
+    th: ชเวบิชกมึนท์
+    tr: Schwäbisch Gmünd
+    tt: Швәбиш-Гмүнд
+    uk: Швебіш-Гмюнд
+    vec: Schwäbisch Gmünd
+    vi: Schwabisch Gmund
+    vls: Schwäbisch Gmünd
+    vo: Schwäbisch Gmünd
+    wa: Schwäbisch Gmünd
+    war: Schwäbisch Gmünd
+    wo: Schwäbisch Gmünd
+    zh: 施瓦本格明德
+    zh-hant: 施瓦本格明德
+    zu: Schwäbisch Gmünd
 ---
-
 # [[Schwäbisch_Gmünd]] 
 
 

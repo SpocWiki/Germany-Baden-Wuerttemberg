@@ -1,23 +1,235 @@
 ---
 location:
-  - 48.52
-  - 9.05
+- 48.52
+- 9.05
 mapzoom:
-  - 7
-  - 12
+- 7
+- 12
 mapmarker: city
 type: City
 tags:
-  - geo/City
+- geo/City
 SpocWebEntityId: 35077
 isDeleted: false
 confidential: public
 aliases:
-  - Tuebingen
-  - Tübingen
+- bithealas
+- Chûn-chāi-chú-gī
+- chủ nghĩa hiện sinh
+- Dirfodaeth
+- egzistencializmas
+- Egzistencijalizam
+- Egzistenshalizim
+- egzisztencializmus
+- egzystencjalizm
+- Egzîstansiyalîzm
+- eiseachas
+- eksistencializem
+- eksistenciālisms
+- eksistensialisme
+- Eksistensialismu
+- Eksistensiyalismo
+- Eksistensyalismo
+- eksistentialism
+- eksistentialisma
+- eksistentialisme
+- eksistentialismi
+- eksistentialismm
+- eksistentsialism
+- ekzistadismo
+- Ekzistencializmi
+- Ekzistensializm
+- Esistencialismu
+- Esistensialism
+- Esistentialisme
+- Esistentzialismu
+- esistenzialismo
+- Estbiyayenı
+- existencialisme
+- existencialismo
+- existencialismus
+- existencializmus
+- existentialism
+- existentialisme
+- existentialismo
+- existentzialismo
+- Existenzialismus
+- existențialism
+- exsistentialista
+- eżistenzjaliżmu
+- filozofija egzistencije
+- hanvosegieth
+- Hebûnparêzî
+- jeikogua reko
+- nasin Esitensalin
+- tilvistarstefna
+- Tuebingen
+- Tübingen
+- varoluşçuluk
+- zatsi'o
+- èksistènsialisme
+- υπαρξισμός
+- егзистенцијализам
+- екзістенціалізм
+- екзистенціалізм
+- Екзистенциализъм
+- экзістэнцыялізм
+- Экзистенсиализм
+- экзистенциализм
+- Экзистэнциализм
+- экзыстэнцыялізм
+- էքզիստենցիալիզմ
+- אקזיסטנציאליזם
+- ئێگزیستانسیالیزم
+- اگزیستانسیالیسم
+- موجودیت
+- هستي پالنه (اګزیستانسیالېزم)
+- واراولوشچولوق
+- وجودية
+- وجوديت
+- وجوديه
+- अस्तित्ववाद
+- অস্তিত্ববাদ
+- ਅਸਤਿਤਵਵਾਦ
+- અસ્તિત્વવાદ
+- இருத்தலியல்
+- ఎగ్జిస్టెన్షియలిజం
+- ಅಸ್ತಿತ್ವವಾದ
+- അസ്തിത്വവാദം
+- อัตถิภาวนิยม
+- ဖြစ်တည်မှုပဓာနဝါဒ
+- ეგზისტენციალიზმი
+- ኅልውነት
+- 存在主义
+- 存在主義
+- 実存主義
+- 실존주의
 has_id_wikidata: Q38066
+dv_has_:
+  name_:
+    af: eksistensialisme
+    am: ኅልውነት
+    ar: وجودية
+    arz: وجوديه
+    ast: Esistencialismu
+    az: Ekzistensializm
+    azb: واراولوشچولوق
+    ba: Экзистенциализм
+    be: экзістэнцыялізм
+    be-tarask: экзыстэнцыялізм
+    bg: Екзистенциализъм
+    bn: অস্তিত্ববাদ
+    bs: Egzistencijalizam
+    ca: existencialisme
+    ceb: Eksistensyalismo
+    ckb: ئێگزیستانسیالیزم
+    cs: existencialismus
+    cv: Экзистенциализм
+    cy: Dirfodaeth
+    da: eksistentialisme
+    de: Existenzialismus
+    diq: Estbiyayenı
+    el: υπαρξισμός
+    en: existentialism
+    eo: ekzistadismo
+    es: existencialismo
+    et: eksistentsialism
+    eu: existentzialismo
+    fa: اگزیستانسیالیسم
+    fi: eksistentialismi
+    fr: existentialisme
+    ga: eiseachas
+    gan: 存在主義
+    gan-hans: 存在主义
+    gd: bithealas
+    gl: existencialismo
+    gn: jeikogua reko
+    gsw: existenzialismus
+    gu: અસ્તિત્વવાદ
+    ha: Existentialism
+    he: אקזיסטנציאליזם
+    hi: अस्तित्ववाद
+    hr: filozofija egzistencije
+    hu: egzisztencializmus
+    hy: էքզիստենցիալիզմ
+    ia: existentialismo
+    id: eksistensialisme
+    io: Existencialismo
+    is: tilvistarstefna
+    it: esistenzialismo
+    ja: 実存主義
+    jam: Egzistenshalizim
+    jbo: zatsi'o
+    jv: èksistènsialisme
+    ka: ეგზისტენციალიზმი
+    kk: Экзистенциализм
+    kn: ಅಸ್ತಿತ್ವವಾದ
+    ko: 실존주의
+    ku: Egzîstansiyalîzm
+    ku-latn: Hebûnparêzî
+    kw: hanvosegieth
+    ky: Экзистенциализм
+    la: exsistentialista
+    lfn: Esistentialisme
+    li: Existentialisme
+    lt: egzistencializmas
+    lv: eksistenciālisms
+    mk: Егзистенцијализам
+    ml: അസ്തിത്വവാദം
+    mn: Экзистэнциализм
+    ms: Eksistensialisme
+    mt: eżistenzjaliżmu
+    my: ဖြစ်တည်မှုပဓာနဝါဒ
+    nan: Chûn-chāi-chú-gī
+    nb: eksistensialisme
+    ne: अस्तित्ववाद
+    new: अस्तित्ववाद
+    nl: existentialisme
+    nn: eksistensialisme
+    oc: Existencialisme
+    pa: ਅਸਤਿਤਵਵਾਦ
+    pam: Eksistensialismu
+    pl: egzystencjalizm
+    pms: Esistensialism
+    pnb: موجودیت
+    ps: هستي پالنه (اګزیستانسیالېزم)
+    pt: existencialismo
+    pt-br: existencialismo
+    ro: existențialism
+    ru: экзистенциализм
+    rue: екзістенціалізм
+    sc: Esistentzialismu
+    sd: وجوديت
+    se: eksistentialisma
+    sh: Egzistencijalizam
+    sk: existencializmus
+    sl: eksistencializem
+    smn: eksistentialism
+    sms: eksistentialismm
+    sq: Ekzistencializmi
+    sr: егзистенцијализам
+    sv: existentialism
+    ta: இருத்தலியல்
+    te: ఎగ్జిస్టెన్షియలిజం
+    tg: Экзистенсиализм
+    th: อัตถิภาวนิยม
+    tl: Eksistensiyalismo
+    tok: nasin Esitensalin
+    tr: varoluşçuluk
+    tt: экзистенциализм
+    uk: екзистенціалізм
+    ur: موجودیت
+    uz: Ekzistensializm
+    vi: chủ nghĩa hiện sinh
+    war: Eksistensyalismo
+    wuu: 存在主义
+    yue: 存在主義
+    zh: 存在主義
+    zh-cn: 存在主义
+    zh-hans: 存在主义
+    zh-hant: 存在主義
+    zh-tw: 存在主義
 ---
-
 # [[Tübingen,City]] 
 
 
