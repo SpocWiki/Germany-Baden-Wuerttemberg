@@ -460,6 +460,7 @@ dv_has_:
     zh-sg: 斯图加特
     zh-tw: 司徒加特
 ---
+
 # [[Stuttgart,City]]
 
 #is_/same_as :: [[../../../../../../../../../../WikiData/WD~Stuttgart,1022|WD~Stuttgart,1022]] 
