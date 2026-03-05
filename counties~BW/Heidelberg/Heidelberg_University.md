@@ -91,70 +91,70 @@ aliases:
 - 하이델베르크 루프레히트 카를 대학교
 has_id_wikidata: Q151510
 rector:
-- '[[_Standards/WikiData/WD~Bernhard_Eitel,88494]]'
-- '[[_Standards/WikiData/WD~Frauke_Melchior,21259929]]'
+- '[[_Standards/WikiData/WD~Bernhard_Eitel,88494|WD~Bernhard_Eitel,88494]]'
+- '[[_Standards/WikiData/WD~Frauke_Melchior,21259929|WD~Frauke_Melchior,21259929]]'
 member_of:
-- '[[_Standards/WikiData/WD~Q118398,118398]]'
-- '[[_Standards/WikiData/WD~Coimbra_Group,211620]]'
-- '[[_Standards/WikiData/WD~International_Association_of_Universities,284199]]'
-- '[[_Standards/WikiData/WD~European_University_Association,868940]]'
-- "[[_Standards/WikiData/WD~German_Rectors'_Conference,880981]]"
-- '[[_Standards/WikiData/WD~League_of_European_Research_Universities,1152269]]'
-- '[[_Standards/WikiData/WD~Franco_German_University,1201755]]'
-- '[[_Standards/WikiData/WD~Informationsdienst_Wissenschaft,1559701]]'
-- '[[_Standards/WikiData/WD~German_University_Sports_Federation,1618604]]'
-- '[[_Standards/WikiData/WD~Verein_zur_Förderung_eines_Deutschen_Forschungsnetzes,2514863]]'
-- '[[_Standards/WikiData/WD~German_National_Research_Data_Infrastructure,61658497]]'
-- '[[_Standards/WikiData/WD~4EU+_Alliance,63171242]]'
-- '[[_Standards/WikiData/WD~International_GLAM_Labs_Community,72936141]]'
-- '[[_Standards/WikiData/WD~ELIXIR_Germany,109496585]]'
+- '[[_Standards/WikiData/WD~Q118398,118398|WD~Q118398,118398]]'
+- '[[_Standards/WikiData/WD~Coimbra_Group,211620|WD~Coimbra_Group,211620]]'
+- '[[_Standards/WikiData/WD~International_Association_of_Universities,284199|WD~International_Association_of_Universities,284199]]'
+- '[[_Standards/WikiData/WD~European_University_Association,868940|WD~European_University_Association,868940]]'
+- "[[_Standards/WikiData/WD~German_Rectors'_Conference,880981|WD~German_Rectors'_Conference,880981]]"
+- '[[_Standards/WikiData/WD~League_of_European_Research_Universities,1152269|WD~League_of_European_Research_Universities,1152269]]'
+- '[[_Standards/WikiData/WD~Franco_German_University,1201755|WD~Franco_German_University,1201755]]'
+- '[[_Standards/WikiData/WD~Informationsdienst_Wissenschaft,1559701|WD~Informationsdienst_Wissenschaft,1559701]]'
+- '[[_Standards/WikiData/WD~German_University_Sports_Federation,1618604|WD~German_University_Sports_Federation,1618604]]'
+- '[[_Standards/WikiData/WD~Verein_zur_Förderung_eines_Deutschen_Forschungsnetzes,2514863|WD~Verein_zur_Förderung_eines_Deutschen_Forschungsnetzes,2514863]]'
+- '[[_Standards/WikiData/WD~German_National_Research_Data_Infrastructure,61658497|WD~German_National_Research_Data_Infrastructure,61658497]]'
+- '[[_Standards/WikiData/WD~4EU+_Alliance,63171242|WD~4EU+_Alliance,63171242]]'
+- '[[_Standards/WikiData/WD~International_GLAM_Labs_Community,72936141|WD~International_GLAM_Labs_Community,72936141]]'
+- '[[_Standards/WikiData/WD~ELIXIR_Germany,109496585|WD~ELIXIR_Germany,109496585]]'
 instance_of:
-- '[[_Standards/WikiData/WD~university_campus,209465]]'
-- '[[_Standards/WikiData/WD~public_university,875538]]'
-- '[[_Standards/WikiData/WD~comprehensive_university,1767829]]'
-- '[[_Standards/WikiData/WD~open_access_publisher,45400320]]'
-- '[[_Standards/WikiData/WD~public_research_university,62078547]]'
-- '[[_Standards/WikiData/WD~University_of_Excellence,115427560]]'
+- '[[_Standards/WikiData/WD~university_campus,209465|WD~university_campus,209465]]'
+- '[[_Standards/WikiData/WD~public_university,875538|WD~public_university,875538]]'
+- '[[_Standards/WikiData/WD~comprehensive_university,1767829|WD~comprehensive_university,1767829]]'
+- '[[_Standards/WikiData/WD~open_access_publisher,45400320|WD~open_access_publisher,45400320]]'
+- '[[_Standards/WikiData/WD~public_research_university,62078547|WD~public_research_university,62078547]]'
+- '[[_Standards/WikiData/WD~University_of_Excellence,115427560|WD~University_of_Excellence,115427560]]'
 named_after:
-- '[[_Standards/WikiData/WD~Karl_Friedrich_I,_Grand_Duke_of_Baden,213671]]'
-- '[[_Standards/WikiData/WD~Rupert_I,_Elector_Palatine,63749]]'
+- '[[_Standards/WikiData/WD~Karl_Friedrich_I,_Grand_Duke_of_Baden,213671|WD~Karl_Friedrich_I,_Grand_Duke_of_Baden,213671]]'
+- '[[_Standards/WikiData/WD~Rupert_I,_Elector_Palatine,63749|WD~Rupert_I,_Elector_Palatine,63749]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Aus_Heidelbergs_Jubeltagen,115801996]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Aus_Heidelbergs_Jubeltagen,115801996|WD~Aus_Heidelbergs_Jubeltagen,115801996]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Heidelberg_University_Library,880794]]'
-- '[[_Standards/WikiData/WD~Heidelberg_University_Faculty_of_Law,5698715]]'
-- '[[_Standards/WikiData/WD~Heidelberg_University_Faculty_of_Theology,16909384]]'
-- '[[_Standards/WikiData/WD~University_Computing_Centre_Heidelberg,116217571]]'
-- '[[_Standards/WikiData/WD~Q125635862,125635862]]'
+- '[[_Standards/WikiData/WD~Heidelberg_University_Library,880794|WD~Heidelberg_University_Library,880794]]'
+- '[[_Standards/WikiData/WD~Heidelberg_University_Faculty_of_Law,5698715|WD~Heidelberg_University_Faculty_of_Law,5698715]]'
+- '[[_Standards/WikiData/WD~Heidelberg_University_Faculty_of_Theology,16909384|WD~Heidelberg_University_Faculty_of_Theology,16909384]]'
+- '[[_Standards/WikiData/WD~University_Computing_Centre_Heidelberg,116217571|WD~University_Computing_Centre_Heidelberg,116217571]]'
+- '[[_Standards/WikiData/WD~Q125635862,125635862|WD~Q125635862,125635862]]'
 owner_of:
-- '[[_Standards/WikiData/WD~Friedrichsbau,1249923]]'
-- '[[_Standards/WikiData/WD~Museum_of_Antiquities_of_the_University_of_Heidelberg,27095354]]'
+- '[[_Standards/WikiData/WD~Friedrichsbau,1249923|WD~Friedrichsbau,1249923]]'
+- '[[_Standards/WikiData/WD~Museum_of_Antiquities_of_the_University_of_Heidelberg,27095354|WD~Museum_of_Antiquities_of_the_University_of_Heidelberg,27095354]]'
 child_organization_unit:
-- '[[_Standards/WikiData/WD~South_Asia_Institute,1356800]]'
-- '[[_Standards/WikiData/WD~Heidelberg_University_Faculty_of_Medicine_in_Mannheim,5698722]]'
-- '[[_Standards/WikiData/WD~Heidelberger_Institut_für_Radioonkologie,43896953]]'
-- '[[_Standards/WikiData/WD~Heidelberg_Graduate_School_of_Mathematical_and_Computational_Methods_for_the_Sciences,_University_of_Heidelberg,45135002]]'
-- '[[_Standards/WikiData/WD~Center_for_Quantum_Dynamics,_Heidelberg_University,45136624]]'
-- '[[_Standards/WikiData/WD~Institute_for_Theoretical_Physics,55500794]]'
-- '[[_Standards/WikiData/WD~HeiGIT,107522840]]'
-- '[[_Standards/WikiData/WD~Heidelberg_Center_for_the_Environment,122269249]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_the_University_of_Heidelberg,5870644]]'
-motto: '[[_Standards/WikiData/WD~Semper_Apertus,50928822]]'
-located_on_street: '[[_Standards/WikiData/WD~Grabengasse,114090255]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikidata_WikiProject_Academic_Publisher,117222928]]'
+- '[[_Standards/WikiData/WD~South_Asia_Institute,1356800|WD~South_Asia_Institute,1356800]]'
+- '[[_Standards/WikiData/WD~Heidelberg_University_Faculty_of_Medicine_in_Mannheim,5698722|WD~Heidelberg_University_Faculty_of_Medicine_in_Mannheim,5698722]]'
+- '[[_Standards/WikiData/WD~Heidelberger_Institut_für_Radioonkologie,43896953|WD~Heidelberger_Institut_für_Radioonkologie,43896953]]'
+- '[[_Standards/WikiData/WD~Heidelberg_Graduate_School_of_Mathematical_and_Computational_Methods_for_the_Sciences,_University_of_Heidelberg,45135002|WD~Heidelberg_Graduate_School_of_Mathematical_and_Computational_Methods_for_the_Sciences,_University_of_Heidelberg,45135002]]'
+- '[[_Standards/WikiData/WD~Center_for_Quantum_Dynamics,_Heidelberg_University,45136624|WD~Center_for_Quantum_Dynamics,_Heidelberg_University,45136624]]'
+- '[[_Standards/WikiData/WD~Institute_for_Theoretical_Physics,55500794|WD~Institute_for_Theoretical_Physics,55500794]]'
+- '[[_Standards/WikiData/WD~HeiGIT,107522840|WD~HeiGIT,107522840]]'
+- '[[_Standards/WikiData/WD~Heidelberg_Center_for_the_Environment,122269249|WD~Heidelberg_Center_for_the_Environment,122269249]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_University_of_Heidelberg,5870644|WD~history_of_the_University_of_Heidelberg,5870644]]'
+motto: '[[_Standards/WikiData/WD~Semper_Apertus,50928822|WD~Semper_Apertus,50928822]]'
+located_on_street: '[[_Standards/WikiData/WD~Grabengasse,114090255|WD~Grabengasse,114090255]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikidata_WikiProject_Academic_Publisher,117222928|WD~Wikidata_WikiProject_Academic_Publisher,117222928]]'
 coordinate_location:
 - Point(8.6702507 49.4190991)
 - Point(8.706388888 49.410277777)
 language_used:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~German,188]]'
-headquarters_location: '[[_Standards/WikiData/WD~Heidelberg,2966]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Heidelberg,2966]]'
-country: '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~German,188|WD~German,188]]'
+headquarters_location: '[[_Standards/WikiData/WD~Heidelberg,2966|WD~Heidelberg,2966]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Heidelberg,2966|WD~Heidelberg,2966]]'
+country: '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 ranking:
 - 50
 - 70
@@ -181,7 +181,7 @@ tuition_fee: 1500
 social_media_followers:
 - 28100
 - 27527
-founded_by: '[[_Standards/WikiData/WD~Rupert_I,_Elector_Palatine,63749]]'
+founded_by: '[[_Standards/WikiData/WD~Rupert_I,_Elector_Palatine,63749|WD~Rupert_I,_Elector_Palatine,63749]]'
 count_of_students: 28413
 official_website: https://www.uni-heidelberg.de/
 impressum_URL:

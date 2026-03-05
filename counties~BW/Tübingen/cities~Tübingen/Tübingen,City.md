@@ -257,8 +257,8 @@ maxZoom: 18
 ```
 
 
-[[../../../../../../../../../../../assets/geo/Europe/Germany/Tübingen,BW.webp]]
-![[../../../../../../../../../../../assets/geo/Europe/Germany/Tübingen,BW.webp]]
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Tübingen,BW.webp|Tübingen,BW.webp]]
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Tübingen,BW.webp|Tübingen,BW.webp]]
 Mit insgesamt 350 Kulturdenkmalen, romantischen Plätzen, verwinkelten Gassen und der historischen Neckarfront 
 bezaubert Tübingen (Baden-Württemberg) seine Besucher. 
 

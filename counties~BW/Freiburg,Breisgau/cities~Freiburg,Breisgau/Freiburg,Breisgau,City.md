@@ -41,8 +41,8 @@ maxZoom: 18
 ```
 
 
-[[../../../../../../../../../../../assets/geo/Europe/Germany/Freiburg-Schwabentor.webp]] 
-![[../../../../../../../../../../../assets/geo/Europe/Germany/Freiburg-Schwabentor.webp]]
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Freiburg-Schwabentor.webp|Freiburg-Schwabentor.webp]] 
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Freiburg-Schwabentor.webp|Freiburg-Schwabentor.webp]]
 Kleine Bäche durchziehen die Altstadt von Freiburg 
 und unterstreichen die mittelalterliche Stimmung. 
 Durch das Schwabentor und Martinstor gelangt der Besucher auf den Münsterplatz, 

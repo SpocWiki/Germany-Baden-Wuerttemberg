@@ -35,8 +35,8 @@ maxZoom: 18
 
 
 
-[[../../../../../../../../../../../assets/geo/Europe/Germany/Meersburg,BW-Marktplatz.webp]]
-![[../../../../../../../../../../../assets/geo/Europe/Germany/Meersburg,BW-Marktplatz.webp]]
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Meersburg,BW-Marktplatz.webp|Meersburg,BW-Marktplatz.webp]]
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Meersburg,BW-Marktplatz.webp|Meersburg,BW-Marktplatz.webp]]
 Meersburg liegt in reizvoller Rebhanglage direkt am Bodensee. 
 Die guterhaltene Altstadt mit ihren vielen kleinen Gassen, die St. Martinskirche 
 und das berühmte Meersburger Schloss aus dem 7. Jahrhundert beeindrucken 

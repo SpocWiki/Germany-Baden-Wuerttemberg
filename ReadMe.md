@@ -57,7 +57,7 @@ markerFolder: ./
 ```
 
 has_place_country:: [[Germany]]  
-Capital [[counties~BW/Stuttgart,County/City/Stuttgart,City]]]]]  
+Capital [[counties~BW/Stuttgart,County/City/Stuttgart,City|Stuttgart,City]]]]]  
 
 
 

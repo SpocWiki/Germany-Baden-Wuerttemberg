@@ -20,7 +20,7 @@ confidential: public
 [has_place_latitude::48.83] 
 [name::Aalen] 
 has_place_country:: [[Germany]]  
-has_place_province:: [[../../West/Baden-Wuerttemberg]] ] 
+has_place_province:: [[../../West/Baden-Wuerttemberg|Baden-Wuerttemberg]] ] 
 [Population::] 
 [Unknown::] 
 
