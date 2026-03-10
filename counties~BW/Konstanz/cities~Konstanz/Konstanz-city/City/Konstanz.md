@@ -259,7 +259,7 @@ has_place_country:: [[Germany]]
 has_place_province:: [[Baden-Wuerttemberg]]  
 [Population::] 
 [Unknown::] 
-#is_/same_as :: [[WD~Konstanz,3834]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Konstanz,3834]] 
 
 ## #has_/map 
 

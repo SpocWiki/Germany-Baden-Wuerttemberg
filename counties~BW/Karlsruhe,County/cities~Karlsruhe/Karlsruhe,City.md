@@ -219,7 +219,7 @@ has_place_country:: [[Germany]]
 has_place_province:: [[Baden-Wuerttemberg]] 
 [Population::] 
 [Unknown::] 
-#is_/same_as :: [[WD~Karlsruhe,1040]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Karlsruhe,1040]] 
 
 ## #has_/map 
 

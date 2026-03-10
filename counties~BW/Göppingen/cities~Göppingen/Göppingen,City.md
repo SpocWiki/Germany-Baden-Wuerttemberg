@@ -159,7 +159,7 @@ has_place_country:: [[Germany]]
 has_place_province:: [[Baden-Wuerttemberg]] 
 [Population::] 
 [Unknown::] 
-#is_/same_as :: [[WD~Göppingen,4072]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Göppingen,4072]] 
 
 ## #has_/map 
 

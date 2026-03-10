@@ -372,7 +372,7 @@ has_place_country:: [[Germany]]
 has_place_province:: [[Baden-Wuerttemberg]] 
 [Population::] 
 [Unknown::] 
-#is_/same_as :: [[WD~Heilbronn,715]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Heilbronn,715]] 
 
 ## #has_/map 
 

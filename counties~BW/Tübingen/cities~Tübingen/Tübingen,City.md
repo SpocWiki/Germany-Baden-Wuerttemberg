@@ -244,7 +244,7 @@ has_place_country:: [[Germany]]
 has_place_province:: [[Baden-Wuerttemberg]] 
 [Population::] 
 [Unknown::] 
-#is_/same_as :: [[WD~Tübingen,3806]]
+#is_/same_as :: [[_Standards/WikiData/WD~Tübingen,3806]]
 
 ## #has_/map 
 
