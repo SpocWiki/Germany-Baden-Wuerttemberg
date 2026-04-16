@@ -29,6 +29,8 @@ has_place_province:: [[Baden-Wuerttemberg]]
 id: Blaubeuren
 coordinates: [[Blaubeuren]] 
 markerFile: [[Blaubeuren]] 
+geojsonFolder: ./Blaubeuren/
+markerFolder: ./Blaubeuren/
 defaultZoom: 11 
 maxZoom: 18
 ```
