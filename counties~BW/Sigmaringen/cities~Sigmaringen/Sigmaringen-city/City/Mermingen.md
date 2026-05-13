@@ -31,7 +31,7 @@ coordinates: [[Mermingen]]
 markerFile: [[Mermingen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

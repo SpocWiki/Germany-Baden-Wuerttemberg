@@ -31,7 +31,7 @@ coordinates: [[Frickenhausen]]
 markerFile: [[Frickenhausen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

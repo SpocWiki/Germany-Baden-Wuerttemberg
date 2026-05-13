@@ -31,7 +31,7 @@ coordinates: [[Bad_Waldsee~Wuerttemberg]]
 markerFile: [[Bad_Waldsee~Wuerttemberg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

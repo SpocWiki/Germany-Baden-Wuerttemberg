@@ -31,7 +31,7 @@ coordinates: [[Schwabsberg]]
 markerFile: [[Schwabsberg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -31,7 +31,7 @@ coordinates: [[Metzingen~Baden_Wuerttemberg]]
 markerFile: [[Metzingen~Baden_Wuerttemberg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -31,7 +31,7 @@ coordinates: [[Ludwigsburg]]
 markerFile: [[Ludwigsburg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

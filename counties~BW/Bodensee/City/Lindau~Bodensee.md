@@ -31,7 +31,7 @@ coordinates: [[Lindau~Bodensee]]
 markerFile: [[Lindau~Bodensee]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

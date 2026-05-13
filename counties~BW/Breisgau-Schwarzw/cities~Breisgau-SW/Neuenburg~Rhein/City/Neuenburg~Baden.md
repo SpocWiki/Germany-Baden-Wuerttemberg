@@ -31,7 +31,7 @@ coordinates: [[Neuenburg~Baden]]
 markerFile: [[Neuenburg~Baden]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

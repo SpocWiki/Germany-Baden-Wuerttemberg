@@ -47,22 +47,22 @@ Kleine Bäche durchziehen die Altstadt von Freiburg
 und unterstreichen die mittelalterliche Stimmung. 
 Durch das Schwabentor und Martinstor gelangt der Besucher auf den Münsterplatz, 
 das historische Zentrum der Altstadt, 
-mit seiner aus dem Mittelalter stammenden Kirche.
+mit seiner aus dem Mittelalter stammenden Kirche. 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Freiburg,Breisgau,City|Freiburg,Breisgau-city]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Freiburg,Breisgau,City|Freiburg,Breisgau,City]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Freiburg,Breisgau-city.public|Freiburg,Breisgau-city.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Freiburg,Breisgau,City.public|Freiburg,Breisgau,City.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Freiburg,Breisgau-city.internal|Freiburg,Breisgau-city.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Freiburg,Breisgau,City.internal|Freiburg,Breisgau,City.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Freiburg,Breisgau-city.protect|Freiburg,Breisgau-city.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Freiburg,Breisgau,City.protect|Freiburg,Breisgau,City.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Freiburg,Breisgau-city.private|Freiburg,Breisgau-city.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Freiburg,Breisgau,City.private|Freiburg,Breisgau,City.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Freiburg,Breisgau-city.personal|Freiburg,Breisgau-city.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Freiburg,Breisgau,City.personal|Freiburg,Breisgau,City.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Freiburg,Breisgau-city.secret|Freiburg,Breisgau-city.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Freiburg,Breisgau/cities~Freiburg,Breisgau/Freiburg,Breisgau,City.secret|Freiburg,Breisgau,City.secret]] 
 

@@ -31,7 +31,7 @@ coordinates: [[Laichingen]]
 markerFile: [[Laichingen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

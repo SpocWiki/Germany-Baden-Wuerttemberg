@@ -31,7 +31,7 @@ coordinates: [[Ludwigshafen~Bodensee]]
 markerFile: [[Ludwigshafen~Bodensee]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

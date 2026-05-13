@@ -31,7 +31,7 @@ coordinates: [[Duerrheim]]
 markerFile: [[Duerrheim]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -277,6 +277,7 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Konstanz) 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Konstanz/cities~Konstanz/Konstanz-city/City/Konstanz|Konstanz]] 

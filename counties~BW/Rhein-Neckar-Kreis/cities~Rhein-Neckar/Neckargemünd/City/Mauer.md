@@ -31,7 +31,7 @@ coordinates: [[Mauer]]
 markerFile: [[Mauer]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

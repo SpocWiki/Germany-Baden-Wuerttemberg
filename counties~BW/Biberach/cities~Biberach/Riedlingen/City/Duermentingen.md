@@ -31,7 +31,7 @@ coordinates: [[Duermentingen]]
 markerFile: [[Duermentingen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

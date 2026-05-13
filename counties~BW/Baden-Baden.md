@@ -62,7 +62,7 @@ coordinates: [[Baden-Baden]]
 markerFile: [[Baden-Baden]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
@@ -80,8 +80,6 @@ maxZoom: 18
 ### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Baden-Baden.personal|Baden-Baden.personal]] 
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Baden-Baden.secret|Baden-Baden.secret]] 
-
-
 # [[Baden-Baden]] 
 
 #is_/part_of :: [[Baden-Baden]] 

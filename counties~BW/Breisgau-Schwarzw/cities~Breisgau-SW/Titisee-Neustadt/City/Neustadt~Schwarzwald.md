@@ -31,7 +31,7 @@ coordinates: [[Neustadt~Schwarzwald]]
 markerFile: [[Neustadt~Schwarzwald]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

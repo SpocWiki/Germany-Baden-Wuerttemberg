@@ -31,7 +31,7 @@ coordinates: [[Langenau~Wuerttemberg]]
 markerFile: [[Langenau~Wuerttemberg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -31,7 +31,7 @@ coordinates: [[Geratstetten]]
 markerFile: [[Geratstetten]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

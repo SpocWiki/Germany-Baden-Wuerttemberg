@@ -31,7 +31,7 @@ coordinates: [[Kirchheim~Teck]]
 markerFile: [[Kirchheim~Teck]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

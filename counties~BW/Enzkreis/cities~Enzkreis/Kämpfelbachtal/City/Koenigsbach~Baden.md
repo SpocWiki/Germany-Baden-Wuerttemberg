@@ -31,7 +31,7 @@ coordinates: [[Koenigsbach~Baden]]
 markerFile: [[Koenigsbach~Baden]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

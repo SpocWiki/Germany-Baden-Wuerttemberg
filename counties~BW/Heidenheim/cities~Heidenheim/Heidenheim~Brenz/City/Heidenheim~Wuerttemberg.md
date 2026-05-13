@@ -31,7 +31,7 @@ coordinates: [[Heidenheim~Wuerttemberg]]
 markerFile: [[Heidenheim~Wuerttemberg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

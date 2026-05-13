@@ -31,7 +31,7 @@ coordinates: [[Maselheim]]
 markerFile: [[Maselheim]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

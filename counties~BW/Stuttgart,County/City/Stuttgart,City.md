@@ -521,8 +521,7 @@ defaultZoom: 11
  
 ```ccard
 type: folder_brief_live
-```
- 
+``` 
 
 
 ## Confidential Links & Embeds: 

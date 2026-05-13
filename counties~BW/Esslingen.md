@@ -102,7 +102,7 @@ aliases:
 Esslingen am Neckar (Baden-Württemberg) ist ein wichtiger Bestandteil der Deutschen Fachwerkstraße. 
 Mehr als 200 gut erhaltene Fachwerkhäuser können Sie hier entdecken. 
 Darunter übrigens auch das älteste Deutschlands in der Heugasse 3. 
-Doch nicht nur das: Auch die Kanäle prägen das Bild der Stadt.
+Doch nicht nur das: Auch die Kanäle prägen das Bild der Stadt. 
 
 
 ## Confidential Links & Embeds: 

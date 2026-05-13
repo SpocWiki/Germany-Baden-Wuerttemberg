@@ -18,8 +18,7 @@ markerFolder: ./Alb-Donau-Kreis/
  
 ```ccard
 type: folder_brief_live
-```
- 
+``` 
 
 
 ## Confidential Links & Embeds: 

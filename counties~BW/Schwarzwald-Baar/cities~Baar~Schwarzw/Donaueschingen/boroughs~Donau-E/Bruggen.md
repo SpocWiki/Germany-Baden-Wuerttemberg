@@ -31,7 +31,7 @@ coordinates: [[Bruggen]]
 markerFile: [[Bruggen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

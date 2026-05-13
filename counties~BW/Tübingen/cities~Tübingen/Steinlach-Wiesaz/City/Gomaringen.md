@@ -31,7 +31,7 @@ coordinates: [[Gomaringen]]
 markerFile: [[Gomaringen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

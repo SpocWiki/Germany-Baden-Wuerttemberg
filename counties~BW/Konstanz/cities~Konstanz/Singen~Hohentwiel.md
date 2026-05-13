@@ -31,7 +31,7 @@ coordinates: [[Singen~Hohentwiel]]
 markerFile: [[Singen~Hohentwiel]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -31,7 +31,7 @@ coordinates: [[Schwaebisch_Hall]]
 markerFile: [[Schwaebisch_Hall]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

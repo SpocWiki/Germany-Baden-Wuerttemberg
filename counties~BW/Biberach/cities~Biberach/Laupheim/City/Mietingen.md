@@ -31,7 +31,7 @@ coordinates: [[Mietingen]]
 markerFile: [[Mietingen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

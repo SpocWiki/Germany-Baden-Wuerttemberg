@@ -31,7 +31,7 @@ coordinates: [[Schorndorf_bei_Stuttgart]]
 markerFile: [[Schorndorf_bei_Stuttgart]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

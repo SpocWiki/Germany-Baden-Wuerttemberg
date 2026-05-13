@@ -31,7 +31,7 @@ coordinates: [[Loerrach]]
 markerFile: [[Loerrach]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

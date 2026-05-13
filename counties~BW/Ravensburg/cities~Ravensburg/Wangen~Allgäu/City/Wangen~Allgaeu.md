@@ -31,7 +31,7 @@ coordinates: [[Wangen_im_Allgaeu]]
 markerFile: [[Wangen_im_Allgaeu]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

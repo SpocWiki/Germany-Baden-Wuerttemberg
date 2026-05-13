@@ -31,7 +31,7 @@ coordinates: [[Lorch~Wuerttemberg]]
 markerFile: [[Lorch~Wuerttemberg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -31,7 +31,7 @@ coordinates: [[Neuenburg_bei_Pforzheim]]
 markerFile: [[Neuenburg_bei_Pforzheim]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

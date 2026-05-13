@@ -31,7 +31,7 @@ coordinates: [[Muensingen]]
 markerFile: [[Muensingen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

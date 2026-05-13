@@ -31,7 +31,7 @@ coordinates: [[Bad_Cannstatt]]
 markerFile: [[Bad_Cannstatt]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

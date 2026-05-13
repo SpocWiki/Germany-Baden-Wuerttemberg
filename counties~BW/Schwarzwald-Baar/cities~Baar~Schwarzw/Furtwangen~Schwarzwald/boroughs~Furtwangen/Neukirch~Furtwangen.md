@@ -31,7 +31,7 @@ coordinates: [[Neukirch_bei_Furtwangen]]
 markerFile: [[Neukirch_bei_Furtwangen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -31,7 +31,7 @@ coordinates: [[Weikersheim]]
 markerFile: [[Weikersheim]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

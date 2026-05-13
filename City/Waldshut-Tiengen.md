@@ -31,7 +31,7 @@ coordinates: [[Waldshut-Tiengen]]
 markerFile: [[Waldshut-Tiengen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

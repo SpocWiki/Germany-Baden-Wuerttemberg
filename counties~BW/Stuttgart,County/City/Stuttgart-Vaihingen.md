@@ -31,7 +31,7 @@ coordinates: [[Stuttgart-Vaihingen]]
 markerFile: [[Stuttgart-Vaihingen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -39,7 +39,7 @@ zoomFeatures: true
 defaultZoom: 11 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

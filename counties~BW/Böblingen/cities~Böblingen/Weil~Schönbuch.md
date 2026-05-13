@@ -31,7 +31,7 @@ coordinates: [[Weil_im_Schoenbuch]]
 markerFile: [[Weil_im_Schoenbuch]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

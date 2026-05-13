@@ -31,7 +31,7 @@ coordinates: [[Haiterbach]]
 markerFile: [[Haiterbach]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -31,7 +31,7 @@ coordinates: [[Wolfegg]]
 markerFile: [[Wolfegg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -31,7 +31,7 @@ coordinates: [[Geislingen~Steige]]
 markerFile: [[Geislingen~Steige]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
