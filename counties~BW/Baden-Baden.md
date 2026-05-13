@@ -84,13 +84,10 @@ maxZoom: 18
 
 #is_/part_of :: [[Baden-Baden]] 
 
-![[Baden-Baden.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Baden-Baden.svg]] 
+![[Baden-Baden.md]] 
 
 
 %%

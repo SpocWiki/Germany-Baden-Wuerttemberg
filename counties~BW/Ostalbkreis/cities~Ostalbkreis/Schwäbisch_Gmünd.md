@@ -239,7 +239,7 @@ maxZoom: 18
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Ostalbkreis/cities~Ostalbkreis/Schwäbisch_Gmünd.secret|Schwäbisch_Gmünd.secret]] 
 ## Embedded Graph 
 
-![[Schwaebisch_Gmuend.svg]] 
+![[Schwaebisch_Gmuend.md]] 
 
 
 %%
