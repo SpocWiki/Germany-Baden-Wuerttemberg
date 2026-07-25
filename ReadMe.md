@@ -1,39 +1,544 @@
 ---
-location: [48.5647,8.97421] 
-type: State
-ISO3166-2: DE-BW
-SpocWebEntityId: 36015
-
-license: CC BY-SA 4.0
-source: https://datahub.io/core/country-codes
-isDeleted: false
-isReadOnly: false
-draft: false
-confidential: public
-
-tags:
-- geo/State
 aliases:
+- Baade-Wiirdebäärg
+- Bade-Wirddebärsch
+- Bade-Wurtemberg
+- Bade-Wöötebersch
+- Baden - Württemberg
+- Baden-Virtembergo
+- Baden-Vurtemberq
+- Baden-Vyrtemberg
+- Baden-Vyurtemberg
+- Baden-Vürtemberg
+- Baden-Vürtemberq
+- Baden-Wuertemberg
+- Baden-Wuerttemberg
+- Baden-Wurtemberg
+- Baden-Wyrttemberg
+- Baden-Wúrtemberch
+- Baden-Würrtenberg
+- Baden-Würtembierich
 - Baden-Württemberg
-
+- Baden-Württemberg Region
+- Baden-Württemberg suyu
+- Baden-Württembergska
+- Badenas-Viurtembergas
+- Badenia et Virtembergia
+- Badenia-Wirtembergia
+- Badenia-Wurtemberg
+- Badensko-Württembergska
+- badenvirtemberg
+- Badän-Vürtän
+- Boaden-Wurttembaarg
+- Bodn-Wiattmbeag
+- Bádensko-Württembersko
+- Bādene-Virtemberga
+- ma Paten Witenpe
+- Βάδη-Βυρτεμβέργη
+- Баден Вүртемберг
+- Баден-Виртемберг
+- Баден-Вуьртемберг
+- Баден-Вюртемберг
+- Бадэн-Вюртэмберг
+- Бадэн-Вюртэмбэрг
+- Բադեն-Վյուրթեմբերգ
+- Պատըն Ուըրթեմպերկ
+- באדן-ווירטמבורג
+- באדן-וירטמברג
+- بادن ورتمبرګ
+- بادن-فورتمبيرغ
+- بادن-وورتمبرق
+- بادن-وورتمبرگ
+- بادن-ڤویرتمبێرگ
+- بادنورتمبرگ
+- بادين-ڤورتيمبيرج
+- بيڊن ورٽمبرگ
+- ورتمبرگ
+- बाडेन-वुर्टेम्बर्ग
+- बाडेन-व्युर्टेंबर्ग
+- बेडन-वुर्टमबर्ग
+- বাডেন-ভুর্টেমবের্গ
+- ਬਾਡਨ-ਵਰਟਮਬਰਕ
+- બેડેન-વ્યુર્ટેમબર્ગ
+- பேடன்-வர்ட்டென்பர்க்
+- బాడెన్-వుటెంబర్గ్
+- ಬಾಡೆನ್-ವುರ್ಟೆಂಬರ್ಗ್
+- ബാഡൻ-വ്യൂർട്ടംബർഗ്
+- බාඩෙන්-වුට්ටම්බර්ග්
+- รัฐบาเดิน-เวือร์ทเทิมแบร์ค
+- ბადენ-ვიურტემბერგი
+- ባደን-ቩርተምቡርግ
+- バーデン＝ヴュルテンベルク州
+- 巴登-符腾堡州
+- 巴登-符騰堡
+- 巴登－烏騰堡
+- 巴登－符腾堡
+- 바덴뷔르템베르크주
+has_id_wikidata: Q985
+archives_at: '[[_Standards/WikiData/WD~State Archive Baden-Württemberg|WD~State Archive Baden-Württemberg]]'
+area: 35751.65
+Basisklassifikation: 15.55
+BHCL_UUID:
+- 383c34e5-3ea7-433e-8696-32bf9405abab
+- 169f1763-8ffb-4430-8b45-ac3d7c793597
+budget: 60976489200
+capital: '[[_Standards/WikiData/WD~Stuttgart|WD~Stuttgart]]'
+coat_of_arms: '[[_Standards/WikiData/WD~Coat of arms of Baden-Württemberg|WD~Coat of arms of Baden-Württemberg]]'
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Greater%20coat%20of%20arms%20of%20Baden-W%C3%BCrttemberg.svg
+Commons_category: Baden-Württemberg
+Commons_gallery: Baden-Württemberg
+confidential: public
+contains_the_administrative_territorial_entity:
+- '[[_Standards/WikiData/WD~Freiburg Government Region|WD~Freiburg Government Region]]'
+- '[[_Standards/WikiData/WD~Karlsruhe Government Region|WD~Karlsruhe Government Region]]'
+- '[[_Standards/WikiData/WD~Tübingen Government Region|WD~Tübingen Government Region]]'
+- '[[_Standards/WikiData/WD~Stuttgart Government Region|WD~Stuttgart Government Region]]'
+coordinate_location: Point(9.041111111 48.537777777)
+country: '[[_Standards/WikiData/WD~Germany|WD~Germany]]'
+cssclasses: Country
+described_by_source: '[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia|WD~Armenian Soviet Encyclopedia]]'
+Dewey_Decimal_Classification: 2--4346
+draft: false
+economy_of_topic: '[[_Standards/WikiData/WD~economy of Baden-Württemberg|WD~economy of Baden-Württemberg]]'
+elevation_above_sea_level: 327
+expiryDate: ''
+FIPS_10_4_countries_and_regions_: GM01
+flag: '[[_Standards/WikiData/WD~Flag of Baden-Württemberg|WD~Flag of Baden-Württemberg]]'
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Baden-W%C3%BCrttemberg.svg
+geoshape: http://commons.wikimedia.org/data/main/Data:Baden-W%C3%BCrttemberg.map
+German_regional_key: 8
+HASC: DE.BW
+hashtag: BadenWuerttemberg
+has_part_s_: '[[_Standards/WikiData/WD~Breisgau|WD~Breisgau]]'
+has_time_started: 1952-04-25
+head_of_government: '[[_Standards/WikiData/WD~Winfried Kretschmann|WD~Winfried Kretschmann]]'
+highest_judicial_authority: '[[_Standards/WikiData/WD~Constitutional Court of Baden-Württemberg|WD~Constitutional Court of Baden-Württemberg]]'
+highest_point: '[[_Standards/WikiData/WD~Feldberg|WD~Feldberg]]'
+history_of_topic: '[[_Standards/WikiData/WD~history of Baden-Württemberg|WD~history of Baden-Württemberg]]'
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Stuttgart%20-%20Oberer%20Schlossgarten%20-%20panoramio%20%282%29.jpg
+Image_Archive_Herder_Institute: Q985
+inception: 1952-04-25
+Instagram_username: regierung_bw
+instance_of: '[[_Standards/WikiData/WD~federated state of Germany|WD~federated state of Germany]]'
+isDeleted: false
+ISNI: 404276821
+ISO3166_2: DE-BW
+ISO_3166_2_code: DE-BW
+isReadOnly: false
+keywords: ''
 Languages:
 - de
-
-cssclasses: Country
+language_used:
+- '[[_Standards/WikiData/WD~Alemannic|WD~Alemannic]]'
+- '[[_Standards/WikiData/WD~Swabian|WD~Swabian]]'
+- '[[_Standards/WikiData/WD~Swiss German|WD~Swiss German]]'
+- '[[_Standards/WikiData/WD~Yenish|WD~Yenish]]'
+layout: ''
+legislative_body: '[[_Standards/WikiData/WD~Landtag of Baden-Württemberg|WD~Landtag of Baden-Württemberg]]'
+Libris_URI: c9prq2nw16t9f6x
+license: CC BY-SA 4.0
+linkTitle: ''
+located_in_or_next_to_body_of_water:
+- '[[_Standards/WikiData/WD~Rhine|WD~Rhine]]'
+- '[[_Standards/WikiData/WD~Lake Constance|WD~Lake Constance]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Germany|WD~Germany]]'
+located_in_time_zone:
+- '[[_Standards/WikiData/WD~UTC+01:00|WD~UTC+01:00]]'
+- '[[_Standards/WikiData/WD~UTC+02:00|WD~UTC+02:00]]'
+location:
+- 48.5647
+- 8.97421
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Baden-W%C3%BCrttemberg%20in%20Germany.svg
+logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/The-laend03.svg
+Mastodon_address: RegierungBW@xn--baw-joa.social
+member_of: '[[_Standards/WikiData/WD~Four Motors for Europe|WD~Four Motors for Europe]]'
+motto_text:
+- The Länd
+- Wir können alles. Außer Hochdeutsch.
+named_after:
+- '[[_Standards/WikiData/WD~Württemberg|WD~Württemberg]]'
+- '[[_Standards/WikiData/WD~Baden|WD~Baden]]'
+native_label: Baden-Württemberg
+NUTS_code: DE1
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Minister-President of Baden-Württemberg|WD~Minister-President of Baden-Württemberg]]'
+official_name: Baden-Württemberg
+official_website: https://www.baden-wuerttemberg.de/
+OmegaWiki_Defined_Meaning: 8097
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Dornstetten-banner-1.jpg
+participant_in: '[[_Standards/WikiData/WD~list of participants in the coalition talks between the CDU/CSU and SPD in 2013|CSU and SPD in 2013]]'
+part_of:
+- '[[_Standards/WikiData/WD~Southwestern Germany|WD~Southwestern Germany]]'
+- '[[_Standards/WikiData/WD~Southern Germany|WD~Southern Germany]]'
+permanent_duplicated_item:
+- '[[_Standards/WikiData/WD~Q20825585|WD~Q20825585]]'
+- '[[_Standards/WikiData/WD~Q43248601|WD~Q43248601]]'
+place_name_sign: http://commons.wikimedia.org/wiki/Special:FilePath/Baden-W%C3%BCrttemberg%20Border%20Sign.svg
+population: 11069533
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+publishDate: ''
+replaces:
+- '[[_Standards/WikiData/WD~Württemberg-Baden|WD~Württemberg-Baden]]'
+- '[[_Standards/WikiData/WD~Baden|WD~Baden]]'
+- '[[_Standards/WikiData/WD~Württemberg-Hohenzollern|WD~Württemberg-Hohenzollern]]'
+shares_border_with:
+- '[[_Standards/WikiData/WD~Bavaria|WD~Bavaria]]'
+- '[[_Standards/WikiData/WD~Hesse|WD~Hesse]]'
+- '[[_Standards/WikiData/WD~Rhineland-Palatinate|WD~Rhineland-Palatinate]]'
+- '[[_Standards/WikiData/WD~Canton of Zürich|WD~Canton of Zürich]]'
+- '[[_Standards/WikiData/WD~Aargau|WD~Aargau]]'
+- '[[_Standards/WikiData/WD~Basel-Landschaft|WD~Basel-Landschaft]]'
+- '[[_Standards/WikiData/WD~Basel-Stadt|WD~Basel-Stadt]]'
+- '[[_Standards/WikiData/WD~Schaffhausen|WD~Schaffhausen]]'
+- '[[_Standards/WikiData/WD~Thurgau|WD~Thurgau]]'
+- '[[_Standards/WikiData/WD~Bas-Rhin|WD~Bas-Rhin]]'
+- '[[_Standards/WikiData/WD~Haut-Rhin|WD~Haut-Rhin]]'
+- '[[_Standards/WikiData/WD~Vorarlberg|WD~Vorarlberg]]'
+short_name: BW
+social_media_followers:
+- 19600
+- 95125
+source: https://datahub.io/core/country-codes
+SpocWebEntityId: 36015
+Stage_username: baden-wuerttemberg
+Swedish_Anbytarforum: 6075
+tags:
+- geo/State
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal:Baden-Württemberg|WD~Portal:Baden-Württemberg]]'
+twinned_administrative_body: '[[_Standards/WikiData/WD~Kanagawa Prefecture|WD~Kanagawa Prefecture]]'
+type: State
+U_S_National_Archives_Identifier: 10044810
+X_username: regierungbw
+dv_has_name: Baden-Wuerttemberg
+dv_has_name_abbreviated: BW
+dv_has_place_country: '[[../../Germany|Germany]]'
+dv_is_a_: '[[../../../../../Geography/Place/Administrative_Area/State|State]]'
+dv_has_place_longitude: 8.97421
+dv_has_place_latitude: 48.5647
+dv_is_:
+  same_as:
+  - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg|Baden-Wuerttemberg]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.public|Baden-Wuerttemberg.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.internal|Baden-Wuerttemberg.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.protect|Baden-Wuerttemberg.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.private|Baden-Wuerttemberg.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.personal|Baden-Wuerttemberg.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.secret|Baden-Wuerttemberg.secret]]'
+dv_is_same_as:
+- '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg|Baden-Wuerttemberg]]'
+- '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.public|Baden-Wuerttemberg.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.internal|Baden-Wuerttemberg.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.protect|Baden-Wuerttemberg.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.private|Baden-Wuerttemberg.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.personal|Baden-Wuerttemberg.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.secret|Baden-Wuerttemberg.secret]]'
+dv_has_:
+  name_:
+    af: Baden-Württemberg
+    am: ባደን-ቩርተምቡርግ
+    an: Baden-Wurtemberg
+    ang: Baden-Wyrttemberg
+    ar: بادن-فورتمبيرغ
+    arz: بادين-ڤورتيمبيرج
+    ast: Baden-Württemberg
+    ay: Baden-Württemberg suyu
+    az: Baden-Vürtemberq
+    azb: بادن-وورتمبرق
+    ba: Баден-Вюртемберг
+    ban: Baden-Württemberg
+    bar: Bodn-Wiattmbeag
+    be: Бадэн-Вюртэмберг
+    be_tarask: Бадэн-Вюртэмбэрг
+    bg: Баден-Вюртемберг
+    bn: বাডেন-ভুর্টেমবের্গ
+    br: Baden-Württemberg
+    bs: Baden-Württemberg
+    bxr: Баден-Вюртемберг
+    ca: Baden-Württemberg
+    cdo: Baden-Württemberg
+    ce: Баден-Вуьртемберг
+    ceb: Baden-Württemberg Region
+    ckb: بادن-ڤویرتمبێرگ
+    co: Baden-Württemberg
+    crh: Baden-Vürtemberg
+    cs: Bádensko-Württembersko
+    cv: Баден-Вюртемберг
+    cy: Baden-Württemberg
+    da: Baden-Württemberg
+    dag: Baden-Württemberg
+    de: Baden-Württemberg
+    de-at: Baden-Württemberg
+    de_ch: Baden-Württemberg
+    diq: Baden-Wurtemberg
+    dsb: Baden-Württembergska
+    el: Βάδη-Βυρτεμβέργη
+    eml: Baden-Württemberg
+    en: Baden-Württemberg
+    en_ca: Baden-Württemberg
+    en_gb: Baden-Württemberg
+    en-us: Baden-Württemberg
+    eo: Baden-Virtembergo
+    es: Baden-Wurtemberg
+    et: Baden-Württemberg
+    eu: Baden-Württemberg
+    fa: بادن-وورتمبرگ
+    fi: Baden-Württemberg
+    fo: Baden-Württemberg
+    fr: Bade-Wurtemberg
+    frp: Baden-Württemberg
+    frr: Baden-Württemberg
+    fur: Baden-Württemberg
+    fy: Baden-Wúrtemberch
+    ga: Baden-Württemberg
+    gd: Baden-Württemberg
+    gl: Baden-Württemberg
+    gn: Baden-Wurtemberg
+    gsw: Baade-Wiirdebäärg
+    gu: બેડેન-વ્યુર્ટેમબર્ગ
+    gv: Baden-Württemberg
+    hak: Baden-Württemberg
+    he: באדן-וירטמברג
+    hi: बेडन-वुर्टमबर्ग
+    hr: Baden-Württemberg
+    hsb: Badensko-Württembergska
+    hu: Baden-Württemberg
+    hy: Բադեն-Վյուրթեմբերգ
+    hyw: Պատըն Ուըրթեմպերկ
+    ia: Baden-Wuertemberg
+    id: Baden-Württemberg
+    ie: Baden-Württemberg
+    ilo: Baden-Württemberg
+    io: Badenia-Wurtemberg
+    is: Baden-Württemberg
+    it: Baden-Württemberg
+    ja: バーデン＝ヴュルテンベルク州
+    jbo: badenvirtemberg
+    jv: Baden-Württemberg
+    ka: ბადენ-ვიურტემბერგი
+    kaa: Baden-Vyurtemberg
+    kg: Baden-Württemberg
+    kk: Баден-Вюртемберг
+    kn: ಬಾಡೆನ್-ವುರ್ಟೆಂಬರ್ಗ್
+    ko: 바덴뷔르템베르크주
+    ksh: Bade-Wöötebersch
+    ku: Baden-Württemberg
+    kw: Baden-Württemberg
+    ky: Баден-Вюртемберг
+    la: Badenia et Virtembergia
+    lad: Baden-Wurtemberg
+    lb: Baden-Württemberg
+    li: Baden-Württemberg
+    lij: Baden-Würrtenberg
+    lld: Baden-Württemberg
+    lmo: Baden-Württemberg
+    lrc: ورتمبرگ
+    lt: Badenas-Viurtembergas
+    lv: Bādene-Virtemberga
+    lzh: 巴登-符騰堡
+    mdf: Бадэн-Вюртэмбэрг
+    mg: Baden-Württemberg
+    min: Baden-Württemberg
+    mk: Баден-Виртемберг
+    ml: ബാഡൻ-വ്യൂർട്ടംബർഗ്
+    mn: Баден-Вюртемберг
+    mr: बाडेन-व्युर्टेंबर्ग
+    ms: Baden-Württemberg
+    mzn: بادن-وورتمبرگ
+    nah: Baden-Württemberg
+    nan: Baden-Württemberg
+    nap: Baden-Württemberg
+    nb: Baden-Württemberg
+    nds: Baden-Württemberg
+    nds_nl: Boaden-Wurttembaarg
+    ne: बाडेन-वुर्टेम्बर्ग
+    nl: Baden-Württemberg
+    nn: Baden-Württemberg
+    nrm: Baden-Württemberg
+    nup: Baden-Württemberg
+    oc: Baden-Württemberg
+    os: Баден-Вюртемберг
+    pa: ਬਾਡਨ-ਵਰਟਮਬਰਕ
+    pam: Baden-Württemberg
+    pap: Baden-Württemberg
+    pcd: Baden-Württemberg
+    pfl: Bade-Wirddebärsch
+    pl: Badenia-Wirtembergia
+    pms: Baden-Württemberg
+    pnb: بادنورتمبرگ
+    ps: بادن ورتمبرګ
+    pt: Baden-Württemberg
+    pt_br: Baden-Württemberg
+    qu: Baden-Württemberg
+    rm: Baden-Württemberg
+    ro: Baden-Württemberg
+    ru: Баден-Вюртемберг
+    sah: Баден Вүртемберг
+    sc: Baden-Württemberg
+    scn: Baden-Württemberg
+    sco: Baden-Württemberg
+    sd: بيڊن ورٽمبرگ
+    se: Baden-Württemberg
+    sh: Baden-Württemberg
+    si: බාඩෙන්-වුට්ටම්බර්ග්
+    sk: Bádensko-Württembersko
+    sl: Baden - Württemberg
+    sq: Baden-Vyrtemberg
+    sr: Баден-Виртемберг
+    sr_el: Baden-Württemberg
+    srn: Baden-Württemberg
+    stq: Baden-Würtembierich
+    sv: Baden-Württemberg
+    sw: Baden-Württemberg
+    ta: பேடன்-வர்ட்டென்பர்க்
+    te: బాడెన్-వుటెంబర్గ్
+    tg: Баден-Вюртемберг
+    th: รัฐบาเดิน-เวือร์ทเทิมแบร์ค
+    tk: Baden-Württemberg
+    tl: Baden-Wurtemberg
+    tly: Baden-Vurtemberq
+    tok: ma Paten Witenpe
+    tr: Baden-Württemberg
+    tt: Баден-Вюртемберг
+    uk: Баден-Вюртемберг
+    ur: بادن-وورتمبرگ
+    uz: Baden-Vyurtemberg
+    vec: Baden-Württemberg
+    vi: Baden-Württemberg
+    vls: Baden-Württemberg
+    vo: Badän-Vürtän
+    wa: Baden-Württemberg
+    war: Baden-Württemberg
+    wo: Baden-Württemberg
+    wuu: 巴登-符腾堡州
+    yi: באדן-ווירטמבורג
+    yo: Baden-Württemberg
+    yue: 巴登－烏騰堡
+    zea: Baden-Württemberg
+    zh: 巴登-符腾堡州
+    zh_cn: 巴登-符腾堡州
+    zh_hans: 巴登-符腾堡州
+    zh_hant: 巴登-符腾堡州
+    zh_hk: 巴登-符腾堡州
+    zh_mo: 巴登-符腾堡州
+    zh-my: 巴登-符腾堡州
+    zh_sg: 巴登-符腾堡州
+    zh_tw: 巴登－符腾堡
+    zu: Baden-Württemberg
+hist_area_km2: {"75": 6.05,"100": 785.14,"125": 941.44,"150": 656.47,"175": 683.99,"200": 893.97,"225": 1065.78,"250": 965.58,"275": 1005.28,"300": 1069.07,"325": 1191.62,"350": 1185.57,"375": 1145.01,"400": 1551.78,"425": 1494.47,"450": 1683.95,"475": 1737.06,"500": 1565.43,"525": 1362.76,"550": 1282.64,"575": 1394.65,"600": 1306.37,"625": 1251.36,"650": 1391.2,"675": 1324.66,"700": 1141.27,"725": 984.71,"750": 926.56,"775": 729.2,"800": 577.96,"825": 440.09,"850": 372.55,"875": 342.92,"900": 313.28,"925": 261.59,"950": 205.8,"975": 167.27,"1000": 138.92,"1025": 112.51,"1050": 90.39,"1075": 65.81,"1100": 52.15,"1125": 37.32,"1150": 29.06,"1175": 22.53,"1200": 15.91,"1225": 13.3,"1250": 9.55,"1275": 7.03,"1300": 4.75,"1325": 3.5,"1350": 2.35,"1375": 1.48,"1400": 0.88,"1425": 0.65,"1450": 0.57,"1475": 0.28}
 ---
-[name::Baden-Wuerttemberg] 
-[name-abbr::BW] 
 
 # Baden-Württemberg 
 
-Check out this Repository into this Subfolder: 
-\_Standards\geo\Continent\Europe\Europe~Central\Germany\ 
+name = `=this.dv_has_name` 
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
+
+## #has_/place_/city 
+
+| **City**                                                                                | persons |
+| --------------------------------------------------------------------------------------- | ------: |
+| [[Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart,City\|Stuttgart,City]] | 612663 |
+| Mannheim                                                                                | 318035 |
+| Karlsruhe                                                                               | 309050 |
+| Freiburg im Breisgau                                                                    | 237460 |
+| Heidelberg                                                                              | 155756 |
+| Heilbronn                                                                               | 131986 |
+| Ulm                                                                                     | 129882 |
+| Pforzheim                                                                               | 134912 |
+| Reutlingen                                                                              | 115621 |
+| Esslingen am Neckar                                                                     |  95881 |
+| Ludwigsburg                                                                             |  94859 |
+| Tübingen                                                                                |  93615 |
+| Villingen-Schwenningen                                                                  |  86475 |
+| Konstanz                                                                                |  84736 |
+| Aalen                                                                                   |  68388 |
+| Offenburg                                                                               |  62220 |
+| Friedrichshafen                                                                         |  61332 |
+| Schwäbisch Gmünd                                                                        |  61333 |
+| Göppingen                                                                               |  58061 |
+| Baden-Baden                                                                             |  55527 |
+
+
+## #has_/map 
+
+```leaflet
+id: Baden-Wuerttemberg
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Baden-Wuerttemberg/
+markerFolder: ./Baden-Wuerttemberg/
+coordinates: [[Baden-Wuerttemberg]] 
+markerFile: [[Baden-Wuerttemberg]] 
+defaultZoom: 7
+```
+
+### #has_map_/topologic 
+
+```leaflet
+id: Austria_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+geojsonFolder: ./Baden-Wuerttemberg/
+markerFolder: ./Baden-Wuerttemberg/
+coordinates: [[Baden-Wuerttemberg]] 
+markerFile: [[Baden-Wuerttemberg]] 
+defaultZoom: 7
+unit: px
+scale: 1
+darkMode: false
+```
+
+
+
+has_place_country = `=this.dv_has_place_country`
+#has_/capital :: [[Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart,City|Stuttgart,City]]
+
+ is_a = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+[Population::] 
+
+
+### Area by Elevation 
+
+```dataviewjs
+await dv.view("_orga/JS/SparkLine", { histogram: dv.current().hist_area_km2
+, scale: "lin"
+, minRow: 0
+, maxRow: 30
+, widthFrom : "all"
+});
+```
+
+
+
+```dataviewjs
+dv.view("_orga/JS/Histogram", {
+value: dv.current().hist_area_km2
+, scale: "lin", width: 60
+, minRow: 0
+, maxRow: 30
+, widthFrom : "all"
+});
+```
+
+
+
+
+
+
+![[Coat_of_arms_of_Baden-Württemberg.svg|350]] 
+
+![[Flag_of_Baden-Württemberg.svg|350]] 
+
+
+For more details check out this Repository into this Subfolder 
+e.g. by invoking the `checkout.bat`: 
+\_Standards\geo\Continent\Europe\Europe~Central\Germany\Germany~West\ 
 
 > Caution: this is a very deep folder Structure with up to 170 Characters! 
 > Make sure to check it out into a shallow Location on Windows! 
@@ -45,45 +550,20 @@ Check out this Repository into this Subfolder:
 > - Between each Level and its Sub-Levels there should be a grouping Folder, to allow adding other Lists. 
 >   - e.g. a City's boroughs should NOT be directly in the City Folder, but in a Sub-Folder named `City~boroughs` 
 
-## #has_/map 
-
-```leaflet
-id: Baden-Wuerttemberg
-zoomFeatures: true 
-minZoom: 2 
-maxZoom: 18
-geojsonFolder: ./
-markerFolder: ./
-```
-
-has_place_country:: [[Germany]]  
-Capital [[counties~BW/Stuttgart,County/City/Stuttgart,City|Stuttgart,City]]]]]  
-
-
-
-#is_a :: [[City]]
-[has_place_longitude::8.97421] 
-[has_place_latitude::48.5647] 
-[Population::] 
-
-![[Coat_of_arms_of_Baden-Württemberg.svg|350]] 
-
-![[Flag_of_Baden-Württemberg.svg|350]] 
-
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/ReadMe|ReadMe]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg|Baden-Wuerttemberg]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/ReadMe.public|ReadMe.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.public|Baden-Wuerttemberg.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/ReadMe.internal|ReadMe.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.internal|Baden-Wuerttemberg.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/ReadMe.protect|ReadMe.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.protect|Baden-Wuerttemberg.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/ReadMe.private|ReadMe.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.private|Baden-Wuerttemberg.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/ReadMe.personal|ReadMe.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.personal|Baden-Wuerttemberg.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/ReadMe.secret|ReadMe.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg.secret|Baden-Wuerttemberg.secret]] 
 
