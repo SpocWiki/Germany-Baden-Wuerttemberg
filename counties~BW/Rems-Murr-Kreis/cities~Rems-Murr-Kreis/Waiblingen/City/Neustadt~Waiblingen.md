@@ -36,7 +36,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Neustadt~Schwarzwald|Neustadt~Schwarzwald]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Neustadt~Waiblingen|Neustadt~Schwarzwald]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Rems-Murr-Kreis/cities~Rems-Murr-Kreis/Waiblingen/City/Neustadt~Schwarzwald.public|Neustadt~Schwarzwald.public]] 
 
